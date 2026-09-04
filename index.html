@@ -9,11 +9,13 @@
 <meta name="apple-mobile-web-app-title" content="Ritmi">
 <meta name="description" content="Ritmi. A private, local-first cycle companion.">
 <link rel="manifest" href="./manifest.webmanifest">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
 <title>Ritmi · Private by design</title>
-<style>html,body{margin:0;background:#08090c;color:#f5f4ef;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",sans-serif}body{min-height:100svh}</style>
+<style>html,body{margin:0;min-height:100%;background:#08090c;color:#f5f4ef;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",sans-serif}body{min-height:100svh}noscript{display:grid;min-height:100svh;place-items:center;padding:24px;text-align:center;color:#9b9eaa}noscript strong{color:#f5f4ef;display:block;margin-bottom:8px}</style>
 </head>
 <body>
-<div id="boot" style="min-height:100svh;display:grid;place-items:center;padding:24px;text-align:center"><div><strong style="font-size:28px;letter-spacing:-.06em">ritmi</strong><p style="color:#9b9eaa;font-size:13px;line-height:1.5">Private by design.<br>Your cycle data stays on this device.</p></div></div>
-<script src="./ritmi-storage-v4.js"></script>
+<noscript><div><strong>Ritmi needs JavaScript.</strong>Please enable JavaScript to use the private local tracker.</div></noscript>
+<script src="./ritmi-storage-v4.js?v=5"></script>
+<script>if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));</script>
 </body>
 </html>
