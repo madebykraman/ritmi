@@ -35,6 +35,11 @@ jobs:
           cp ritmi-community-v1.js site/ritmi-community-v1.js
           cp ritmi-experience-v1.js site/ritmi-experience-v1.js
           cp ritmi-ui-v2.js site/ritmi-ui-v2.js
+          cp rebuild-v1.js site/rebuild-v1.js
+          cp rebuild-v1.css site/rebuild-v1.css
+          cp rebuild-bootstrap.js site/rebuild-bootstrap.js
+          cp rebuild-periods-v1.js site/rebuild-periods-v1.js
+          cp rebuild-periods-v1.css site/rebuild-periods-v1.css
           cp community-feed.json site/community-feed.json
       - name: Deploy
         uses: actions/upload-pages-artifact@v3
