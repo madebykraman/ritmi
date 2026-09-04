@@ -22,7 +22,15 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Prepare app shell
-        run: cp index.html _site_index.html && mkdir -p site && cp index.html site/index.html && cp manifest.webmanifest site/manifest.webmanifest && cp sw.js site/sw.js && cp icon.svg site/icon.svg
+        run: |
+          mkdir -p site
+          cp index.html site/index.html
+          cp manifest.webmanifest site/manifest.webmanifest
+          cp sw.js site/sw.js
+          cp icon.svg site/icon.svg
+          cp ritmi-addon.js site/ritmi-addon.js
+          cp ritmi-storage-v4.js site/ritmi-storage-v4.js
+          cp ritmi-storage-controls-v4.js site/ritmi-storage-controls-v4.js
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
