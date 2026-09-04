@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T16:24:41.320241+00:00",
+  "updated": "2026-09-04T20:47:52.844773+00:00",
   "items": [
     {
       "type": "news",
@@ -7,14 +7,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Period & Fertility Tracking Apps: How Safe Is Your Data?",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjZUSUVCX04xLXFaX1pxV0s2ZjZOREo5SGVuU0hPV2xHaVNTN1ZySVdhV1JKWmNBRG5DeUVFaEFZblpTRDU1eTZyX3NHZmJnQmJVTkxkdTY5dkR2VF9WMlljN0F3LUZQMUVYQ18wLVhLY3BWTU5GY3pMeTFfc3M4WnNUOVFJSUFCODZkY3lpVC1FR203WkFVOVB2aE9wSHA0Y1VGTHBab0JKQQ?oc=5",
-      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -51,7 +43,7 @@
     },
     {
       "type": "news",
-      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific",
+      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
@@ -63,6 +55,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Your menstruation tracker may be sharing more than you think: Hidden privacy risks",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTlGX3IxWFNIVnRmZndROFlidWEzaFlrdVZqeXc4VGtORVV4MllzVTQxY2RmczNWN0JveTFqb3lsSjByaXNuZTU3aWpEMXJOQTM5Q0RwZUVFMGxRakFJSWRFUTZzTjFKa2F4bUdLejIwQnRDZGFVeUFxUkpaWXJfaXlOT1RjMEo5bGM0Wkd1X3JKaTlJZ0FOSkpqUVpocGxLTTUxdtIBoAFBVV95cUxNRmhZU2NUcWc0ajVNdFRoWmxTemotWDR6aUIwazh2Uy1XdUJ5eEhqWmRtXzRMTk5oc1dkSVNPS19fM3VLLWtISGpBVklLeU9vZzQ2bXNXQlo2aHBSek5aNVVtY1hpVXgzS2hESEtzX2lTNFhkNHFNeTIxanh1NWlKZl91YmhPb1M2SXlpdnFyb2ZlS3k2X3NHMlQwWWp6aEdN?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -131,14 +131,6 @@
     },
     {
       "type": "news",
-      "title": "SC asks bench that recognised menstrual health as fundamental right to hear PIL on lack of toilets for girls in schools",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSmpyU29aM1FiZTFNN2h1RnpNTGtxNkthS0RxcTJWc2NmTHlDb1dlS3lnb2wtTjNCQXdZZHhhX0JmNXJ1ZVU1WEp3MTI0Ul9pZjFUYTBOVFdONEpGQllkUllXYVBhaTBxUXo4VTZmNE9RX1RTMFhpMEoyaTRIV1kzbGhTZGtrbXQ4d2Y3OUdUdmctNUtLOEgzeHNjZkdOYVctRVp1ODNYcDBaeW1VRnpHcFZzYTdvckhEc0szZFJuNU9BRk4tLXN0MFNfbThKSzM4QWlVaEwxenFBaHBHUjlYelJmbC1CaFE3VDdsVGhPZG0ySGNoU3E1MWo1MFhDNlnSAYwCQVVfeXFMT0s2ZmF0UTdzWU40ZVAwNHhCUjlYZTZfcnJXQ1UyTDRvbTgxdk5KdkhPOFdNVkp5MllXZTJRaENWcHlhb05VMmc0Q0pKclVvck91elRKVi1IcVlCNzd1dVFPaVc1VzNlMGZHRmt0SlRCMnRvWXdkdUpTTzZaUjJwWWhSa0Q5LTZjNS1pblItVFdBUW9STzc1emJ0Y0tnMTJ1YlFZenYtZXBUaFFhMW9NQ1REbE9RYnBpWFFpOS1BVFRhZGU3YWdiS01VbVFWeDZWSGlNd3BBa190Z2RfUXZmNDF2N01aZURpSGtwekN0VnRsTld5OWN2dDVzc00xeW5CZGpzNlpqa3duSjYxTw?oc=5",
-      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Delete These Apps Immediately: Why Your Period Tracker Is a Digital Trap",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT282V1BzbHMyMXpvYm9TREJyRGR1dEVFNi1FaVdZSUxkdGpEVUplOWlkYm1YNHVQVWlkSTZqUXc5MmZYc2NFMmlldldSdFdVOTJ5MDNFa3ZRWVdoRnhCM3I4Q0htZlhSUE1tcUdWek53QkJ3ekR4aWV3SWdMOHFYaXd3NHJKYzFTaFdZMDlERWM4ZGVMN29FM2tycVppU2kwbjdfTHUzbw?oc=5",
@@ -147,10 +139,18 @@
     },
     {
       "type": "news",
-      "title": "SC says menstrual health a fundamental right, mandates free sanitary pads",
+      "title": "TAF Organized Awareness Program Over Legal Right & Menstrual Health.",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXNOY1J1MVdqZFV1VVZTdU8zcERsdV9nNHF1QllZSk5PWTQ2MTdrd2xsY2FJZDB4WEltVUgzZWltbUdrYUh3a1I0UWIzd2plODdFN2ZBTWE2NVU1bDdySUNjcjhJQWE5RUhIeFBmbS1VeEdGVU55Nmo4bDB1R1BMV3RidGM1OW5BeVE5a3RsaTQ2dmtzSWlmLTcySG04aU51REdWYVpZSWdRdjhjUGgxRXpaOFVNcUhUVjB4WWJvS1VCZEI5SzM1UUhNVDJzb2hO0gHXAUFVX3lxTE5xdmJrRVh6eXFxaEpxYk5TUm1Yejg2bW11RDJtWGJMd3JFRXF1TkV4aTh1QjQxSllUS2tBWklHemVGZ2JQcjBGU3NPUV8wdU9iekpKYll3LWMteHNxTjZxQ2k5a2tjYnltcEJURWN2dVpvNTJwYzdscFlLYnBHWkJ3bzA4N3hCYWp0NGFNQUtRUXBGLUx1VVVFZGJJR0ZlV3VuS2xSdkZjSzVDX3JaSjgwd0V2Z0JXNzJTaXVlSkZYR3FER2tfbVRLVWRxODlfbktFcVZYb3Zz?oc=5",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVlpMelJ1dVhiTFlsR1ZLZlNoUG1PeXBMR1lSOGlLOEhPMTRfc29ySy1XNEJ6Nm9BQUJ4UEVQOXE4U1BiSktpRzI0WFhaQ3Q5NW5tUXJnSktGaUJoRl84ald0b2NDM0xWY04xTDRaOWFmYzA0bXJ6c09zbnhzVnh1V0NYcXV0SU1sVmxaOEJBQ3FfbVBxT09LYmFick4yNGs?oc=5",
+      "published": "Fri, 04 Sep 2026 18:33:29 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Gifting public health on the playa at Burning Man",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWkV5cWRxU0JaLWJJcHhPbzhBUGJMMUppZXZLRUJqYkNjSlg1VHEwUHhrZm5hVFcxS0tZQWZ4enVPMWM2eS1OME1wYXV1UDVTZUpJVGtyVHZ6enRaOUF2SmpzWjUtUWlxWWl1eDBINmgwMm0walE1SA?oc=5",
+      "published": "Fri, 04 Sep 2026 17:24:14 GMT",
       "label": "News & research"
     },
     {
