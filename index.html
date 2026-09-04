@@ -89,4 +89,5 @@ document.getElementById('startBtn').onclick=()=>{const s=document.getElementById
 function init(){if(data.started)document.getElementById('onboard').classList.add('hide');renderAll();renderSettings();renderKnowledge()}init();if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
 </script>
 <script src="./ritmi-storage-v4.js"></script>
+<script src="./ritmi-addon.js"></script>
 </body></html>
