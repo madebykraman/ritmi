@@ -1,0 +1,13 @@
+{
+  "updated": "2026-09-04",
+  "items": [
+    {"type":"reddit","title":"Are there any privacy focused menstrual/period tracking app?","source":"Reddit · r/degoogle","url":"https://www.reddit.com/r/degoogle/comments/1unn3fu/are_there_any_privacy_focused_menstrualperiod/","published":"2026-07-04","label":"Privacy discussion"},
+    {"type":"reddit","title":"How period trackers share your private details","source":"Reddit · r/technology","url":"https://www.reddit.com/r/technology/comments/1viu53w/how_period_trackers_share_their_private_details/","published":"2026-08-08","label":"Privacy discussion"},
+    {"type":"reddit","title":"Tracking periods","source":"Reddit · r/TheGirlSurvivalGuide","url":"https://www.reddit.com/r/TheGirlSurvivalGuide/comments/1uixzbs/tracking_periods/","published":"2026-06-29","label":"Community discussion"},
+    {"type":"reddit","title":"Is using a period-tracking app really a red flag?","source":"Reddit · r/AskIndianWomen","url":"https://www.reddit.com/r/AskIndianWomen/comments/1qsrvro/is_using_a_periodtracking_app_a_red_flag/","published":"2026-02-01","label":"Community discussion"},
+    {"type":"news","title":"Your period data should be private","source":"Mozilla Foundation","url":"https://www.mozillafoundation.org/fy-NL/nothing-personal/period-ovulation-trackers/","published":"2026-07-16","label":"Privacy research"},
+    {"type":"news","title":"How period trackers share your private details","source":"BBC Future","url":"https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details","published":"2026-07-28","label":"Privacy reporting"},
+    {"type":"news","title":"Period tracker Stardust shares users' health data with analytics firm, says new research","source":"TechCrunch","url":"https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/","published":"2026-07-16","label":"Privacy reporting"},
+    {"type":"news","title":"Public health bodies urged to launch period tracking apps to protect data","source":"The Guardian","url":"https://www.theguardian.com/society/2025/jun/11/public-health-bodies-urged-launch-period-tracking-apps-protect-data","published":"2025-06-11","label":"Menstrual health"}
+  ]
+}
