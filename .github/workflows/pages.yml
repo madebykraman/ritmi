@@ -31,10 +31,12 @@ jobs:
           cp ritmi-addon.js site/ritmi-addon.js
           cp ritmi-storage-v4.js site/ritmi-storage-v4.js
           cp ritmi-storage-controls-v4.js site/ritmi-storage-controls-v4.js
-      - name: Upload artifact
+          cp ritmi-community-v1.js site/ritmi-community-v1.js
+          cp community-feed.json site/community-feed.json
+      - name: Deploy
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
-      - name: Deploy
+      - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4
