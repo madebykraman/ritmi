@@ -20,12 +20,12 @@ jobs:
           from pathlib import Path
           p=Path('index.html')
           s=p.read_text()
-          old='<script src="./ritmi-addon.js"></script>'
-          new='<script src="./ritmi-storage-v4.js"></script>'
-          if new not in s:
-              if old not in s:
-                  raise SystemExit('Expected addon script tag was not found')
-              s=s.replace(old,new,1)
+          storage='<script src="./ritmi-storage-v4.js"></script>'
+          legacy='<script src="./ritmi-addon.js"></script>'
+          if storage not in s:
+              if legacy not in s:
+                  raise SystemExit('Expected legacy addon script tag was not found')
+              s=s.replace(legacy,storage,1)
               p.write_text(s)
           PY
       - name: Commit activation
