@@ -32,11 +32,9 @@ jobs:
           cp ritmi-storage-v4.js site/ritmi-storage-v4.js
           cp ritmi-storage-controls-v4.js site/ritmi-storage-controls-v4.js
           cp ritmi-community-v1.js site/ritmi-community-v1.js
-          cp ritmi-experience-v1.js site/ritmi-experience-v1.js
-          cp ritmi-experience-v2.js site/ritmi-experience-v2.js
-          cp ritmi-experience-v2.css site/ritmi-experience-v2.css
-          cp rebuild-v3.js site/rebuild-v3.js
-          cp rebuild-v3.css site/rebuild-v3.css
+          cp ritmi-features-v1.js site/ritmi-features-v1.js
+          cp rebuild-v4.js site/rebuild-v4.js
+          cp rebuild-v4.css site/rebuild-v4.css
           cp community-feed.json site/community-feed.json
       - name: Deploy
         uses: actions/upload-pages-artifact@v3
