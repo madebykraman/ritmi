@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-04T11:22:33.933380+00:00",
+  "updated": "2026-09-04T16:24:41.320241+00:00",
   "items": [
-    {
-      "type": "news",
-      "title": "'Game changer' study seeks answers for heavy periods and endometriosis",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JWkpic3hzcU5IR2VLTDYyRUNILVEtN0V5Ym1WZnNTQXlXYzVkdzJXWUJFNUhjXy1LM2NzZ01STGNiTnZDVjNUS1JFdVNWNTRIZkN1d0NZdlJRdw?oc=5",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Period & Fertility Tracking Apps: How Safe Is Your Data?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjZUSUVCX04xLXFaX1pxV0s2ZjZOREo5SGVuU0hPV2xHaVNTN1ZySVdhV1JKWmNBRG5DeUVFaEFZblpTRDU1eTZyX3NHZmJnQmJVTkxkdTY5dkR2VF9WMlljN0F3LUZQMUVYQ18wLVhLY3BWTU5GY3pMeTFfc3M4WnNUOVFJSUFCODZkY3lpVC1FR203WkFVOVB2aE9wSHA0Y1VGTHBab0JKQQ?oc=5",
+      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -27,10 +27,10 @@
     },
     {
       "type": "news",
-      "title": "Signs before puberty could predict painful periods, study finds",
+      "title": "Endometriosis: a long-ignored disease, despite symptoms that can be traced back to ancient times",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObzBwOXcwN1ViWXRrN2NsY01Sb1R1N2pxT3JKT0hFNGVoY2hKWjhtOFZMOTBIbXFiTkVEWnUzbG1Ud1FjY3hzTjJoZktvcjl6N3FKeGYzaVFLa0dBX3VaQTlRTmIzaGs5WGpqNUN0QjY0YmpMMDlWWkhqVGxjQk9vTzh3R0M5R3NmTXZRODZ0SzdFclRxaWFvdkktdlBvV2M4YjhwR0JPTHo?oc=5",
-      "published": "Wed, 02 Sep 2026 08:40:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDR5Nmx4bVdZNEtWWGhObXItczVXNXRjQmtoR1lUT1ZvZTRfTjdGRUZnYmY3cTJ4WWsxWXlvRU1TQmdCUHUxNXVYUHBmQnhSOGlUZzNzaGdFTnhjOWdDaGZQcnBua2c1WEk4dWFzcHRyOC1xOFZjSW1JVl9SX1VOZUJYRnliQWYzRlBwSTgyM1kwSml2LTJUempOdnRmbnEzUXFyazJCTkdaR0c1N2p3MGZsTmJKSGphdXcyU0RteDg0V1V3Zlp5RA?oc=5",
+      "published": "Wed, 02 Sep 2026 09:56:00 GMT",
       "label": "News & research"
     },
     {
@@ -39,6 +39,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTERMc0dOcmJib0hZdy1fNkNjVkRrUUozZGUxZ24yUnVXZ1FLM0ZFZ1lDejFJTXA5Q2dvQ1ZSallDcmlaaDFlQ0pxYTVtMjRacWdaTTk4U3VxVWtkOWtkcUpiblRJQU43akNVeXNnbm5GRFpKUldKNUVzNzM1Uzc0SV93NVJuMTRiUkExcHVtNlRWbE9xc3Rn?oc=5",
       "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "A foundation model for capturing complexity of menstrual health data - npj Women's Health",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -59,26 +67,10 @@
     },
     {
       "type": "news",
-      "title": "Your menstruation tracker may be sharing more than you think: Hidden privacy risks",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTlGX3IxWFNIVnRmZndROFlidWEzaFlrdVZqeXc4VGtORVV4MllzVTQxY2RmczNWN0JveTFqb3lsSjByaXNuZTU3aWpEMXJOQTM5Q0RwZUVFMGxRakFJSWRFUTZzTjFKa2F4bUdLejIwQnRDZGFVeUFxUkpaWXJfaXlOT1RjMEo5bGM0Wkd1X3JKaTlJZ0FOSkpqUVpocGxLTTUxdtIBoAFBVV95cUxNRmhZU2NUcWc0ajVNdFRoWmxTemotWDR6aUIwazh2Uy1XdUJ5eEhqWmRtXzRMTk5oc1dkSVNPS19fM3VLLWtISGpBVklLeU9vZzQ2bXNXQlo2aHBSek5aNVVtY1hpVXgzS2hESEtzX2lTNFhkNHFNeTIxanh1NWlKZl91YmhPb1M2SXlpdnFyb2ZlS3k2X3NHMlQwWWp6aEdN?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "The Best Period Tracking Apps for Data Privacy in 2026",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "In a Bad Mood the Week Before Your Period Starts? This Hormonal Shift Could Be a Contributing Factor",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXpXSDg0WllMakpUOGUwd1dfWm0yRWZCUVhmbDBGYmozOWlJSGJKQWViZEUybFp4QTVtOEZvSnNfeVdfSFBITWhTODJoUlJWaGFJRWt1V2lXQzZVaGJnZWRRT21xbDE3R1BsSTNfM21IR1ZyaVZiY2xyZFNvR21BdVBGUjhjb2NEeXFKTjBFcFR4R1ZqNmtUcDRBdExMdlE?oc=5",
-      "published": "Thu, 03 Sep 2026 21:14:18 GMT",
       "label": "News & research"
     },
     {
@@ -107,42 +99,10 @@
     },
     {
       "type": "news",
-      "title": "Deaf women \"excluded\" from menstrual health conversations at UK unis",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFNiWWVNY0tDX0FHQmQtVjk3NFZUcXBUUUpsUkEzUDB0MlMzTWN0UEg1VkJ4UDRSc1hpYWNzWXNxWnljcndHTjJtNTFvN2N0Nk8zVVJZZmk2amRsb3Uzd0tvS0ZxU1dkeVEwM1lxZC1CMmhxaXpXSk1SdXJha1hydmpFTGJQdHJlVmUyaDFadnl5bEVqNEp4UEo1cGZBY2FyNFY4WGFJc0tDTi1I?oc=5",
-      "published": "Thu, 03 Sep 2026 08:01:20 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Menopause may start changing the gut years before periods stop - News-Medical",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORW9DYlZUcVpLLThyV0hoeVo5TGxsM1RSRHE2eUt6cjFSblUwd0JRaDJmcklPTngtZGFUTkI5d1FjQ3BUSUpTSmJPQXNkUjY0R2lHdE0tU1pyNDBEZnF4VU04QmlsRTRweG93OE9sZmJRZGo4S1VHMnRzcnlHRVFhd3M0REhOX21SbmJ5QVRYVUFGTi1scFhlNjBPMXVGNHJBVHRmMjgwTk5reFhlZm4w?oc=5",
-      "published": "Thu, 03 Sep 2026 02:08:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
       "published": "Sat, 23 May 2026 12:15:05 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "‘Moner Kotha’ promotes menstrual health, student confidence",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHZiMVJhck1VbFdqakdQUjNmSlVQWDM2eDlrbUZpSUdwZjQwdU1qaDRsaUNobllZVjBTRHhrVXdBcmJha0Z6c2hyNE4yX0xfaGs4eWFlM3NmYU1JWmdlQTViQWgwR1JMMWd3LWRCWHVYeENxcnZnOERjNS1VR25xVy1PYlIwMWlhU2hXMGJmN2lOTEZzNW5ZS1lPUTVJYTRuNVRB?oc=5",
-      "published": "Mon, 31 Aug 2026 15:01:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "‘Moner Kotha’ promotes menstrual health, confidence among students",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmxiLWpLZC1fQTJONjVfZGN6OWhsSE5seWtTSlBLMDh1WmxidjFyTWJ0cFBKNGxmU1FiUUVTM3A3bDRxX2VuOFpMMGo5WjRTcTFHQVZGTzNORTB5N2pKbjJQdUFTTWVnR215MjdlX0ZzQ2VUZEhfTnFMNFNpRUYyQl9HWF9LRTJneDVibXpCVEpaTHhOMzhuY0pnZ2xwQWZpV1HSAacBQVVfeXFMUFU4a3poUndZek55VFc2OGpURGVqX09RQUtTckJaUjlpLWNBMno2X2R2bUxOaHExaDBRX3V5anZSc3lCeFVIa3NPdldwWGh6cVFjVkxHS2VwWU5xUjVFQ0NFZ2N1QUFGWWpWVDhIRkx6THJLSEprVzZSR2QxQ1BiTjFHQkMwZTA5c295YURFdi1wYnhsYzlRQk5DUF9qWmJBd3RGdEs1czA?oc=5",
-      "published": "Mon, 31 Aug 2026 12:15:27 GMT",
       "label": "News & research"
     },
     {
@@ -183,6 +143,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT282V1BzbHMyMXpvYm9TREJyRGR1dEVFNi1FaVdZSUxkdGpEVUplOWlkYm1YNHVQVWlkSTZqUXc5MmZYc2NFMmlldldSdFdVOTJ5MDNFa3ZRWVdoRnhCM3I4Q0htZlhSUE1tcUdWek53QkJ3ekR4aWV3SWdMOHFYaXd3NHJKYzFTaFdZMDlERWM4ZGVMN29FM2tycVppU2kwbjdfTHUzbw?oc=5",
       "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "SC says menstrual health a fundamental right, mandates free sanitary pads",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXNOY1J1MVdqZFV1VVZTdU8zcERsdV9nNHF1QllZSk5PWTQ2MTdrd2xsY2FJZDB4WEltVUgzZWltbUdrYUh3a1I0UWIzd2plODdFN2ZBTWE2NVU1bDdySUNjcjhJQWE5RUhIeFBmbS1VeEdGVU55Nmo4bDB1R1BMV3RidGM1OW5BeVE5a3RsaTQ2dmtzSWlmLTcySG04aU51REdWYVpZSWdRdjhjUGgxRXpaOFVNcUhUVjB4WWJvS1VCZEI5SzM1UUhNVDJzb2hO0gHXAUFVX3lxTE5xdmJrRVh6eXFxaEpxYk5TUm1Yejg2bW11RDJtWGJMd3JFRXF1TkV4aTh1QjQxSllUS2tBWklHemVGZ2JQcjBGU3NPUV8wdU9iekpKYll3LWMteHNxTjZxQ2k5a2tjYnltcEJURWN2dVpvNTJwYzdscFlLYnBHWkJ3bzA4N3hCYWp0NGFNQUtRUXBGLUx1VVVFZGJJR0ZlV3VuS2xSdkZjSzVDX3JaSjgwd0V2Z0JXNzJTaXVlSkZYR3FER2tfbVRLVWRxODlfbktFcVZYb3Zz?oc=5",
+      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
       "label": "News & research"
     },
     {
