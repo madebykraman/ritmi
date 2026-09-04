@@ -1,0 +1,42 @@
+name: Integrate Ritmi addon
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  integrate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Inject addon into main app
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('index.html')
+          s=p.read_text()
+          tag='<script src="./ritmi-addon.js"></script>'
+          if tag not in s:
+              marker='</body>'
+              if marker not in s:
+                  raise SystemExit('index.html has no closing body tag')
+              s=s.replace(marker, tag+'\n'+marker, 1)
+              p.write_text(s)
+          PY
+      - name: Commit integrated build
+        shell: bash
+        run: |
+          if git diff --quiet -- index.html; then
+            echo 'Addon already integrated.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html
+          git commit -m 'Integrate Ritmi addon into main build'
+          git push origin HEAD:main
