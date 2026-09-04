@@ -88,4 +88,5 @@ document.getElementById('resetBtn').onclick=()=>{openModal(`<div class="eyebrow"
 document.getElementById('startBtn').onclick=()=>{const s=document.getElementById('startDate').value||todayISO(),l=Math.max(15,Math.min(60,+document.getElementById('startLength').value||28));data.started=true;data.lastPeriod=s;data.cycleLength=l;data.periodStarts=[s];data.profiles.self.lastPeriod=s;data.profiles.self.cycleLength=l;data.profiles.self.periodStarts=[s];save();document.getElementById('onboard').classList.add('hide');renderAll();renderSettings()};document.getElementById('startDate').value=todayISO();
 function init(){if(data.started)document.getElementById('onboard').classList.add('hide');renderAll();renderSettings();renderKnowledge()}init();if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
 </script>
+<script src="./ritmi-addon.js"></script>
 </body></html>
