@@ -22,7 +22,18 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Prepare app shell
-        run: cp ritmi-next.html index.html
+        run: |
+          cp ritmi-next.html index.html
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('index.html')
+          s=p.read_text()
+          marker='</body>'
+          injection='<script src="./ritmi-enhance.js"></script>'
+          if injection not in s:
+              s=s.replace(marker,injection+marker)
+          p.write_text(s)
+          PY
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
