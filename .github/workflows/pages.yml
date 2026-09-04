@@ -25,6 +25,7 @@ jobs:
         run: |
           mkdir -p site
           cp index.html site/index.html
+          cp community.html site/community.html
           cp manifest.webmanifest site/manifest.webmanifest
           cp sw.js site/sw.js
           cp icon.svg site/icon.svg
