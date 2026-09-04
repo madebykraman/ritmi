@@ -40,6 +40,8 @@ jobs:
           cp rebuild-bootstrap.js site/rebuild-bootstrap.js
           cp rebuild-periods-v1.js site/rebuild-periods-v1.js
           cp rebuild-periods-v1.css site/rebuild-periods-v1.css
+          cp rebuild-v2.js site/rebuild-v2.js
+          cp rebuild-v2.css site/rebuild-v2.css
           cp community-feed.json site/community-feed.json
       - name: Deploy
         uses: actions/upload-pages-artifact@v3
