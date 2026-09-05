@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T10:39:29.588829+00:00",
+  "updated": "2026-09-05T15:17:19.545112+00:00",
   "items": [
     {
       "type": "news",
@@ -27,14 +27,6 @@
     },
     {
       "type": "news",
-      "title": "Marshall Health to host free teen menstrual health workshop",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVA2QlRnLVQ2ZUlsalpRVTJYT0hCem55Zk9Tb1I0djBtUGQ1b2EzbWhwdUtKZTZmWkFVWFFDTmFMMmdjWVE5VUNTUlZpNnN3UVJYUUQ4a0oycWJVMTl5U1NnQzRlbUdYYlhYczlLdXFjYVZRTGs0cmtzZDJ2X1BjSkRrRlA0MjFLdVlpMVc3cThsd9IBlwFBVV95cUxNeHdUcDJRR1hJYTViSmJTVzJUSTJ4YlJMRnNnU2R6SURjbDg4TWRKUHZaSGhKcnhQQVRvNUxEVGItb29UMWR0SHFlNUdQTlZGdWYwRURCWmlJaXdjbG0xcEdBUGxFOUJweVpXX0Z3WHVhMjJ5cmx2Q0NrLVo2X0g2LVlPakhEUmpaRm5pc1ZKOG16ZThtV1pZ?oc=5",
-      "published": "Wed, 02 Sep 2026 16:20:40 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "How period trackers share your private details",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTERMc0dOcmJib0hZdy1fNkNjVkRrUUozZGUxZ24yUnVXZ1FLM0ZFZ1lDejFJTXA5Q2dvQ1ZSallDcmlaaDFlQ0pxYTVtMjRacWdaTTk4U3VxVWtkOWtkcUpiblRJQU43akNVeXNnbm5GRFpKUldKNUVzNzM1Uzc0SV93NVJuMTRiUkExcHVtNlRWbE9xc3Rn?oc=5",
@@ -43,7 +35,15 @@
     },
     {
       "type": "news",
-      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title": "A foundation model for capturing complexity of menstrual health data - npj Women's Health",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
@@ -83,42 +83,10 @@
     },
     {
       "type": "news",
-      "title": "High Progesterone During Periods May Affect Emotion Control In Brain: Study",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFFmWHdNVTl5dXZ5TXlwekFrbUhhX2ZiWjJMd0I1MjFyV2NLQkNFaTF4dnF6RkwxdEVRc3RMcXI2Rzk2cXljaWxnNWZyRTJPLTRONGVma082cC0zUzIzN2ZQUmNYc0RHUXB5bTB2S0tFY1RlODBwODVlRm1vUlE0bEtGcGFBRTVTU2lMU0JUbFdZdG9kUGtiRGM3cWhiY1Q3d05tUHMtaWo3OTFBMWNPUw?oc=5",
-      "published": "Thu, 03 Sep 2026 11:58:59 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Deaf women \"excluded\" from menstrual health conversations at UK unis",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFNiWWVNY0tDX0FHQmQtVjk3NFZUcXBUUUpsUkEzUDB0MlMzTWN0UEg1VkJ4UDRSc1hpYWNzWXNxWnljcndHTjJtNTFvN2N0Nk8zVVJZZmk2amRsb3Uzd0tvS0ZxU1dkeVEwM1lxZC1CMmhxaXpXSk1SdXJha1hydmpFTGJQdHJlVmUyaDFadnl5bEVqNEp4UEo1cGZBY2FyNFY4WGFJc0tDTi1I?oc=5",
-      "published": "Thu, 03 Sep 2026 08:01:20 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Menopause may start changing the gut years before periods stop - News-Medical",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORW9DYlZUcVpLLThyV0hoeVo5TGxsM1RSRHE2eUt6cjFSblUwd0JRaDJmcklPTngtZGFUTkI5d1FjQ3BUSUpTSmJPQXNkUjY0R2lHdE0tU1pyNDBEZnF4VU04QmlsRTRweG93OE9sZmJRZGo4S1VHMnRzcnlHRVFhd3M0REhOX21SbmJ5QVRYVUFGTi1scFhlNjBPMXVGNHJBVHRmMjgwTk5reFhlZm4w?oc=5",
-      "published": "Thu, 03 Sep 2026 02:08:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
       "published": "Sat, 23 May 2026 12:15:05 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "‘Moner Kotha’ promotes menstrual health, student confidence",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHZiMVJhck1VbFdqakdQUjNmSlVQWDM2eDlrbUZpSUdwZjQwdU1qaDRsaUNobllZVjBTRHhrVXdBcmJha0Z6c2hyNE4yX0xfaGs4eWFlM3NmYU1JWmdlQTViQWgwR1JMMWd3LWRCWHVYeENxcnZnOERjNS1VR25xVy1PYlIwMWlhU2hXMGJmN2lOTEZzNW5ZS1lPUTVJYTRuNVRB?oc=5",
-      "published": "Mon, 31 Aug 2026 15:01:00 GMT",
       "label": "News & research"
     },
     {
@@ -147,14 +115,6 @@
     },
     {
       "type": "news",
-      "title": "SC asks bench that recognised menstrual health as fundamental right to hear PIL on lack of toilets for girls in schools",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSmpyU29aM1FiZTFNN2h1RnpNTGtxNkthS0RxcTJWc2NmTHlDb1dlS3lnb2wtTjNCQXdZZHhhX0JmNXJ1ZVU1WEp3MTI0Ul9pZjFUYTBOVFdONEpGQllkUllXYVBhaTBxUXo4VTZmNE9RX1RTMFhpMEoyaTRIV1kzbGhTZGtrbXQ4d2Y3OUdUdmctNUtLOEgzeHNjZkdOYVctRVp1ODNYcDBaeW1VRnpHcFZzYTdvckhEc0szZFJuNU9BRk4tLXN0MFNfbThKSzM4QWlVaEwxenFBaHBHUjlYelJmbC1CaFE3VDdsVGhPZG0ySGNoU3E1MWo1MFhDNlnSAYwCQVVfeXFMT0s2ZmF0UTdzWU40ZVAwNHhCUjlYZTZfcnJXQ1UyTDRvbTgxdk5KdkhPOFdNVkp5MllXZTJRaENWcHlhb05VMmc0Q0pKclVvck91elRKVi1IcVlCNzd1dVFPaVc1VzNlMGZHRmt0SlRCMnRvWXdkdUpTTzZaUjJwWWhSa0Q5LTZjNS1pblItVFdBUW9STzc1emJ0Y0tnMTJ1YlFZenYtZXBUaFFhMW9NQ1REbE9RYnBpWFFpOS1BVFRhZGU3YWdiS01VbVFWeDZWSGlNd3BBa190Z2RfUXZmNDF2N01aZURpSGtwekN0VnRsTld5OWN2dDVzc00xeW5CZGpzNlpqa3duSjYxTw?oc=5",
-      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Delete These Apps Immediately: Why Your Period Tracker Is a Digital Trap",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT282V1BzbHMyMXpvYm9TREJyRGR1dEVFNi1FaVdZSUxkdGpEVUplOWlkYm1YNHVQVWlkSTZqUXc5MmZYc2NFMmlldldSdFdVOTJ5MDNFa3ZRWVdoRnhCM3I4Q0htZlhSUE1tcUdWek53QkJ3ekR4aWV3SWdMOHFYaXd3NHJKYzFTaFdZMDlERWM4ZGVMN29FM2tycVppU2kwbjdfTHUzbw?oc=5",
@@ -163,7 +123,7 @@
     },
     {
       "type": "news",
-      "title": "More Girls Will Finish School if India’s Supreme Court Ruling on Menstrual Health is Implemented",
+      "title": "More Girls Will Finish School if India’s Supreme Court Ruling on Menstrual Health is Implemented - healthpolicy-watch.news",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWgtWXR3YVoybWtxN2oyWjVtTEtyUlctcTE0TW0wTmZLTGJSc3piUE12S1hnX2c1c3M4enhDanRpLVFEMmU1MFVVM2dmSUh2QVNTajhGQWM4aEtxcFJjTk4tc0kzSGlhODhMcEpfTVhLUlNDOUh4U0Zvd1NicHdyNVpLUU5weU1ZQS14dm1JMWE1UWlFdHQ3dXZlamRRc3FYVE9rR243TWJqOWRiT1ZRaWJfS2g5Q2dCS2tSSFZRWDJ0a1hwc1BZ?oc=5",
       "published": "Fri, 08 May 2026 07:00:00 GMT",
