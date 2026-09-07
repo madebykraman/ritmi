@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T12:39:33.434646+00:00",
+  "updated": "2026-09-07T21:33:11.451618+00:00",
   "items": [
     {
       "type": "news",
@@ -7,6 +7,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Period & Fertility Tracking Apps: How Safe Is Your Data?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjZUSUVCX04xLXFaX1pxV0s2ZjZOREo5SGVuU0hPV2xHaVNTN1ZySVdhV1JKWmNBRG5DeUVFaEFZblpTRDU1eTZyX3NHZmJnQmJVTkxkdTY5dkR2VF9WMlljN0F3LUZQMUVYQ18wLVhLY3BWTU5GY3pMeTFfc3M4WnNUOVFJSUFCODZkY3lpVC1FR203WkFVOVB2aE9wSHA0Y1VGTHBab0JKQQ?oc=5",
+      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -27,6 +35,22 @@
     },
     {
       "type": "news",
+      "title": "A foundation model for capturing complexity of menstrual health data - npj Women's Health",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Call for experts: new WHO guideline on menstrual health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
@@ -39,14 +63,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Your menstruation tracker may be sharing more than you think: Hidden privacy risks",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTlGX3IxWFNIVnRmZndROFlidWEzaFlrdVZqeXc4VGtORVV4MllzVTQxY2RmczNWN0JveTFqb3lsSjByaXNuZTU3aWpEMXJOQTM5Q0RwZUVFMGxRakFJSWRFUTZzTjFKa2F4bUdLejIwQnRDZGFVeUFxUkpaWXJfaXlOT1RjMEo5bGM0Wkd1X3JKaTlJZ0FOSkpqUVpocGxLTTUxdtIBoAFBVV95cUxNRmhZU2NUcWc0ajVNdFRoWmxTemotWDR6aUIwazh2Uy1XdUJ5eEhqWmRtXzRMTk5oc1dkSVNPS19fM3VLLWtISGpBVklLeU9vZzQ2bXNXQlo2aHBSek5aNVVtY1hpVXgzS2hESEtzX2lTNFhkNHFNeTIxanh1NWlKZl91YmhPb1M2SXlpdnFyb2ZlS3k2X3NHMlQwWWp6aEdN?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -75,6 +91,14 @@
     },
     {
       "type": "news",
+      "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
+      "published": "Sat, 23 May 2026 12:15:05 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "How secure is your period-tracking app?: Some share more data than you think; here's what you should & shou...",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGpBMTJ3dDBSc2VoYVBsS2hobmlIeUp3QXlqLXpKcjJjSmN3TVF4ZkowQlpjNFhZVFUtUVNBTHcwcVJOdzRjU0NRVG00eUt1UVdPMzVMbllST0VaaXVqcHgzdWYzMFBuZjRFM0sxdGw3aVI2Y1NmNzdJSVhmdjVRZEEzckJZWFF1NUotMEc4VG1aSnJDOGpVY1duRTRuVG1mQTVHX00yZ1p1Yk14UVVLUVBVMVdiREHSAbwBQVVfeXFMTUhGNFI4eGdVa0w1UmJrUWRSRG5wTWp5TkF2MUFvZ055S2FYcXppdnQ0MUQtQ0lKa1U0T1Nrd0JRQklwTHcyOENjeWttWG8zX3FEcU1WWWNEcHk2RTQybDlneVBPYld2NHNyajEybWZLZ0hBNUxvZnB5al9MQmtXa2hCRnRUSFNxbnY0bU45WURXbUFhazZkQmUtYXY2WmZQcUE3SHNkYThhLWxUX2RWWFo5c0k4aGlrVURWNXA?oc=5",
@@ -99,26 +123,26 @@
     },
     {
       "type": "news",
+      "title": "Bariatric surgery restores menstrual cycles and reduces polycystic ovaries in obese women - News-Medical",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3h0ZV9fRmwwTmpsbTRKSTNwYnJCY1RxUzhvcmFwOHRfdjdSem8xSDhsSlAxWXRWVEJIbFpnRXl3b3JRSG5Id045aS1vR1l4R2VQWTA5anZ0ZFVieHI4RlZ0V2JOUDBITEh4cXlqVHNoSUFjYzJDV3FIUVJsVjdNdFRjZEhYZ2VwQnh3MmdyR1luZjM0akllSHNQSUN1Uk0well5N2N3THNHMDlQUUs3Q1hxMnFNSHVoTlNqVmFES0s3YllXb2NZaUp2ejNYQ0pyTW5N?oc=5",
+      "published": "Mon, 07 Sep 2026 17:09:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "A big assumption has kept women out of health and fitness studies for years. What if it’s wrong?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxZVlNialhicXZlWHBITGNYRmY2cUE2X2xZUWZ6YWFwTHBPQmFwazFhUW1rSWozSnpKVDVicjVSelg5NHpDZEdJTG1GZEFEZzRhY1lLcnFWSlRiODdvSXNLRmlKdy1BaVowMS1oUFhpLVlUdktzc1ZpZlY3cF9FTGxYdFJhSS1zbWtVcWxLUlViaHJSaTRsMkpDSVJJRHRsLUowQWRUclBPbzAyQnFxNHBxRXJTblZFZjNLTTN0b3pTRV9xdnZz?oc=5",
+      "published": "Mon, 07 Sep 2026 12:37:01 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "International workplace menstruation and menopause standard launched",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW1zbFljeE1EalpRdWpkdjB5eWxoRXlWLXFUWUtaSFZyaFJCUHAwVmUtaklVTEJLY3hTd3I0S3dENGpYWVNnVTBtdTV0Qll4dWttcXFITDA4QUpWR0UtVE1OZHhZS252cUhLR0dYVTBLWkxGbTlwbVA1LTFGelA2YmI4RW5ra1V5NkpLalMwejFuYzJiUksyNkxvVllIUzE5WUxXZUZR?oc=5",
       "published": "Mon, 07 Sep 2026 10:46:14 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Global guidance published to support employees experiencing menstruation and menopause",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTDVsU1c1V3hHbmdWM3VuTEhJQll1ejdNRFFBQ2hMTEg3dHRhWTdUeHBFcGEyb2ctTjRZYjdQdXRWNDVPejFNb1ZJNEJzWXh4MlgxcXRtb3lhNHBJdDY1MkJvbVQxMnBqX2Q5TEVRaHR2MWF0WTU3ZnAwRjg2SHlZeXJvVFhHc1BuZGk5OTlPQWtsRGF2Rno5X0k4WE4xT1hiWVVRX2YtcE1pc0kyUFB5dm9WaFhNV2drSlNkSUpwM2xCc1psdFZDUHBXWEZsRFF2bmJ6RDVQN1V3U0U3aktoZHZwdmFndlloQ1pzcUdaeFBnVWxBWkIyMkRYNA?oc=5",
-      "published": "Mon, 07 Sep 2026 10:41:25 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Pee Safe Launches Within Brand for Hormonal, Gut and Menstrual Wellness",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYi1IQ0xqSzFmSTEwcXV1VUJuMDlNYlEzbExVLUJYNFBWY05yVVliNHRJWXdVZjJ2bWw4dDFBaHlYT1dleldDNVA1NGFNdE5JdGU1REpzcGg4SUQzcVlUdnJPbks4WEZBNWwwWXdYYS1uNmw1SkItS01qM0h3REtSMkVITEg5eG1BcmhUWjZwN2lvTHc2RTJqVTVjNG96YVpQa3NxbQ?oc=5",
-      "published": "Mon, 07 Sep 2026 10:26:33 GMT",
       "label": "News & research"
     },
     {
@@ -131,26 +155,10 @@
     },
     {
       "type": "news",
-      "title": "Pee Safe enters women’s wellness with new supplement brand Within",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmhtSE5iWl9VTDVkV2hVMUl5bkpIWi00bHVyRHg5YVhnVm55UVpiNGF4YUZkUVYxWjkxaV9iM0xkZGxTaGZWQTFqOGVIZmpBcjFRbG8yMXUzRmdydTFZaV90VGFZaENhaEpYQ25RcHYyb3JoaU1BQmJOQ0lZaVI2djVqQWJJTmdMS2FHLVAzMVU4OFpxSHo1b0lVQ0dVZ1JGVHlvRTZmVzlJVlE2LWtGd0ViZWRydDUwOWtQYg?oc=5",
-      "published": "Mon, 07 Sep 2026 08:12:37 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "ISO launches first global standard to support m...",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQzllV1lHRURmVkN6Y1N0M09KSHdkVWktUElyVVdxN2ZOOVAxNE5heUdnSHJ1cndFLWxiVWNMOVY3VTJ3V1lEdjJhc0dXMjFqYkJPUG1ZTnRUOWsyMnNjYmZ2VjZkX3BIWlRkbEVid3NXNktpMEVzRHZVQmFnY3VKUUpfb2pteDA2WmFKTVZnakhVVkJkQnkwVTlOUXhVUk5wc1A0NHg4V0YwOUhfMVpsYg?oc=5",
       "published": "Mon, 07 Sep 2026 05:30:56 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "PCOS in teenagers is harder to spot than it seems: Which puberty symptoms could actually need medical att",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORG9Ca2paeE5DVWVVRXFFcDRMRmowY2tvcjQ0SDJxWklVM0gxTVYyejAxb20yTDdiZXYzOWxSaHNGaldzMkNrTXhkcXE1aWg2Z3VoY0N5Skk0MHY1dHBaeC1JZ281QXM1SXdZNkFUUS1xel9ld05MV0pDcmtLN3dmTUVKZTItSV9vSDJqV2FxdTZWcFg2bzZVT2NueDg2VVdjZS1XeGdGTnRLaFlpZDZCbU9RcndhVlVXdGpWek1yYVFFYzFFRlZIa2FPR2pwSnNGeG1lSXlXQXVsR243cDNGWXRuWDFFZzlVV3R1QW4zWHZLZ3Rkck9nSXR2Y3pfc2ZjVVd4c0VIQW9ZdVXSAZACQVVfeXFMTm9VdHhqWmZWZ2xWQjBWX3R1dnprbV96MFlPRGRrM2RWSkRsM1pRTnZWX1hjaDdjQ01XUm1YV1BseUJVdFo0V0JiblByQlVTMVBDbTc4RE5UdDdPVG5ydHg3WHNXU2tDVzNfR3BEWWYwNlA4VXgyODhjOWJxRVVGYlBHZHVFc09FZDlGS2RvdGJRb21acVZzT3ZrWHEwMUMyUGpXOXhVbVAtNDd4RDhOT1hRdEotWDE5a2ZXTUFudU8zVTBtclJQdzB3ZzNXQ3hnbTZkTFNMb3Nyei1lNmhDV1VGZXM5Q1c5bzZUVzRGYUE5VXpTOXI5dnBHbTVfSXp1RXZiV1l4bm1pUlk0c0dEOEQ?oc=5",
-      "published": "Mon, 07 Sep 2026 05:30:00 GMT",
       "label": "News & research"
     },
     {
