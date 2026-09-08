@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T11:23:44.977913+00:00",
+  "updated": "2026-09-08T16:41:01.682056+00:00",
   "items": [
     {
       "type": "news",
@@ -15,6 +15,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Period & Fertility Tracking Apps: How Safe Is Your Data?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjZUSUVCX04xLXFaX1pxV0s2ZjZOREo5SGVuU0hPV2xHaVNTN1ZySVdhV1JKWmNBRG5DeUVFaEFZblpTRDU1eTZyX3NHZmJnQmJVTkxkdTY5dkR2VF9WMlljN0F3LUZQMUVYQ18wLVhLY3BWTU5GY3pMeTFfc3M4WnNUOVFJSUFCODZkY3lpVC1FR203WkFVOVB2aE9wSHA0Y1VGTHBab0JKQQ?oc=5",
+      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -43,6 +51,14 @@
     },
     {
       "type": "news",
+      "title": "Analysis: A big assumption has kept women out of health and fitness studies for years. What if it’s wrong?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTnNJWG5DSTRHdG5oaDhFMVdYWFA3ODhLcldjOF9KYWFIV3p3LS1fODRZalQwcjVwa0RyZk52QXZPMk9wVjY1ZFJheWlIc3g3QkRfVmotcW44LWVKeUd6ek1zdHdSb3ZZaGhvOGU4MHVnR1dFZ2hlckUyanRUenVEc09sSVdtdUY0eks4SU9QZ2xORzhiLTI4LXBsNFRIVnRzWjRrNFFLMUpMcjlPZjNJeFo5SHRLRERPbmRUVWhiRjlNZnhRaDh3?oc=5",
+      "published": "Tue, 08 Sep 2026 13:53:58 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Indian Corporate Gifting Company Supports Menstrual Hygiene Drive for Girls in Dadri School",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEktSGg2cEFnSnF4dkVRMGJ5bE5IelhuUTZ6X2ljMndnenFQci0wakhGbHllME1ZVWFoTXdHYUZPSHNBYndlNGtFYjdxVzVOQ1NMY0Zzdm9waDM2ckc3b3BoQWxWTmZ5QVRWV0ZHbExDWS1BQV9ncFJZUy1iZW9aVnZBTTBEV2FKN2psT3NMNzBiM04zaDBQOXpzT2R4T3dmblhrS0FLQ2lUaEdGN1BDbXFXTFlVaWRxQmljWFVQWk1vYndkUE8zQVVCemRqNGc?oc=5",
@@ -54,7 +70,7 @@
       "title": "Weight loss surgery improves menstrual health and PMOS symptoms, study finds",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVFEVzRlOXJUQ01yQ3hJMlpkbmIxT1Q3d1NxeS0yb00xaWNUV0ZNVTRBLWNIUm55TFFnSG1fQ0JqRmNxZlFvU1g5ckZwTnVKM0VKcTVjbWxjX0lNWEFTbmlBRk1sbmxZZ0FWQ1RxSzJVbF9LWHFYcnJzYzlDUmphWUNZZ1llVHNwYXA3dm5VdnNyVU5hWXpZX1dLdlVGREVja1Y3Qkc0U3JPTVFGdDhtM3Q2YkJlZVZIN1RJSGNXeGlvMjdGaGc?oc=5",
-      "published": "Tue, 08 Sep 2026 08:00:05 GMT",
+      "published": "Tue, 08 Sep 2026 08:05:06 GMT",
       "label": "News & research"
     },
     {
@@ -95,14 +111,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
       "published": "Sat, 23 May 2026 12:15:05 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Check Your Phone Now: These 10 Data-Hungry Apps Are Secretly Tracking You",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTR3dzU5QU5KR2M1Y0lWUkduTGlWNW82bGVQNm13ZFdxRURGQ2MxUC1sY29wWXhsQkY1UjNYcU4wbFF5NFppU0VTRklUZGk4Q0ZfRF9VRFZoLUlXcDVWeS16b1k0bUY0eTkzTUFTQ2xqQlpHTEdwVTNEZFQtWkI1QXJiZGVLZ3pidC1nLVhiNWIwNng2b1l5U09KZ2hYTUVKTjdkMXNJOGw?oc=5",
-      "published": "Sat, 05 Sep 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -151,22 +159,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW1zbFljeE1EalpRdWpkdjB5eWxoRXlWLXFUWUtaSFZyaFJCUHAwVmUtaklVTEJLY3hTd3I0S3dENGpYWVNnVTBtdTV0Qll4dWttcXFITDA4QUpWR0UtVE1OZHhZS252cUhLR0dYVTBLWkxGbTlwbVA1LTFGelA2YmI4RW5ra1V5NkpLalMwejFuYzJiUksyNkxvVllIUzE5WUxXZUZR?oc=5",
       "published": "Mon, 07 Sep 2026 10:46:14 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Global guidance published to support menstruation and menopause at work",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGVRbmdHQUFGMEVnbmVtX3BxRzhKWktUV3c5SGd3UUxrMkI1aXFNS0kzcXVBWGlFazlnQUZObTlqdHJJNEx4dG9zZndiUmlNekxPc1F6bzZTY204ZnFIeHVaQXpCMnFqM2tCTzVZN2ZEaDUwM2RZcVVZdmEycWN6Mzd4UjFWNldFMXpDZ2ZnNjQ4aWR3VTlLczdrSnJoVnBPdTZISUNzVnpqbU9oTEFDcA?oc=5",
-      "published": "Mon, 07 Sep 2026 09:26:34 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "More Girls Will Finish School if India’s Supreme Court Ruling on Menstrual Health is Implemented",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWgtWXR3YVoybWtxN2oyWjVtTEtyUlctcTE0TW0wTmZLTGJSc3piUE12S1hnX2c1c3M4enhDanRpLVFEMmU1MFVVM2dmSUh2QVNTajhGQWM4aEtxcFJjTk4tc0kzSGlhODhMcEpfTVhLUlNDOUh4U0Zvd1NicHdyNVpLUU5weU1ZQS14dm1JMWE1UWlFdHQ3dXZlamRRc3FYVE9rR243TWJqOWRiT1ZRaWJfS2g5Q2dCS2tSSFZRWDJ0a1hwc1BZ?oc=5",
-      "published": "Fri, 08 May 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
