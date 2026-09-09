@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T11:28:16.049371+00:00",
+  "updated": "2026-09-09T16:41:34.233978+00:00",
   "items": [
     {
       "type": "news",
@@ -11,10 +11,34 @@
     },
     {
       "type": "news",
+      "title": "Period & Fertility Tracking Apps: How Safe Is Your Data?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjZUSUVCX04xLXFaX1pxV0s2ZjZOREo5SGVuU0hPV2xHaVNTN1ZySVdhV1JKWmNBRG5DeUVFaEFZblpTRDU1eTZyX3NHZmJnQmJVTkxkdTY5dkR2VF9WMlljN0F3LUZQMUVYQ18wLVhLY3BWTU5GY3pMeTFfc3M4WnNUOVFJSUFCODZkY3lpVC1FR203WkFVOVB2aE9wSHA0Y1VGTHBab0JKQQ?oc=5",
+      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Menstrual tracking apps and concerns about data privacy",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
       "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Fatigue in teenage girls linked to heavy periods and lifestyle – not iron deficiency",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlRjbWIwNXR6UTJWOXFYWGN6MEF2ZGYwZldLeS04S05kOWxxZjgySWYyRDJGdHZ2ZDZST3JYVnJIcHVsQ3JGRFFmVmZOd0NaS2FnUjhpUVI1ejlRWldhWXZaWVc1bm5vWGlkYzh3STdKWUticW4zbmotdW9GWnlkZS1SMi1GZ1I1MUUxUkdLb1ZOODFoZ2dLZ3ROcXp0UDY4eFpQSWF4aEd4XzdJX2N1eWRHMFZUbFBu?oc=5",
+      "published": "Wed, 09 Sep 2026 14:29:36 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "First Indian genome study links endometriosis to genetics",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ09oT2ZaSXc5MFI0M0xVSkFHTzhHc2tIX0Etc3RjeDNoNGdQNTRRbG5DOTBMcHJWeTVfWWNSelRRMTI2NFlUOUQ4emJldkF5NlNONjVPQjYwb0VVaXExNmtxTUxrQWFrT1l4clZuMkNYdE9feHRmNnE1UXhmalpUcjhiY0FIRS04R3FIODZtUmp3Z0J2d2lRNUxLZV9lcngydWxFQ0J1VXRIcWRPY18tWWVn?oc=5",
+      "published": "Wed, 09 Sep 2026 12:42:05 GMT",
       "label": "News & research"
     },
     {
@@ -99,26 +123,10 @@
     },
     {
       "type": "news",
-      "title": "Smart Tracking or False Confidence? Women’s Use of Period-Tracking Apps Overshadowed by Questions of Accuracy and Data Privacy",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUnM0dEdyakkyWjFOVjBRanV2NWJxNDhaX1dEX3dvWFJJNV9namNSUEpBejVEdVEtMEJ5dnUxSjRCbC05V05Ic09VTHdNN2xzblBtcFE3YlFGV1ZHMDgxLU9IcHc3Q05XVzdkcEJvcm1YVlJrbDdvQnp0emRSOWo3UzhZNEdGSldXUlVFVTVEUVBxZG1JRTJhZnRIRzZRUFp4VzdnYzhUQWhibXBoeVFDU3QtMmY4cmw1TTRHNzFYaW5zZEtKLVBYWmM5XzNMeld4MG4wTzV0c0NxMWsySXBIUEZWbTVJSmN5TDBoT0ZiRmJ4dw?oc=5",
-      "published": "Thu, 03 Sep 2026 12:38:11 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
       "published": "Sat, 23 May 2026 12:15:05 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Check Your Phone Now: These 10 Data-Hungry Apps Are Secretly Tracking You",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTR3dzU5QU5KR2M1Y0lWUkduTGlWNW82bGVQNm13ZFdxRURGQ2MxUC1sY29wWXhsQkY1UjNYcU4wbFF5NFppU0VTRklUZGk4Q0ZfRF9VRFZoLUlXcDVWeS16b1k0bUY0eTkzTUFTQ2xqQlpHTEdwVTNEZFQtWkI1QXJiZGVLZ3pidC1nLVhiNWIwNng2b1l5U09KZ2hYTUVKTjdkMXNJOGw?oc=5",
-      "published": "Sat, 05 Sep 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -163,10 +171,10 @@
     },
     {
       "type": "news",
-      "title": "More Girls Will Finish School if India’s Supreme Court Ruling on Menstrual Health is Implemented",
+      "title": "Period tracking apps: Benefits privacy risks and safe alternatives every woman should know",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWgtWXR3YVoybWtxN2oyWjVtTEtyUlctcTE0TW0wTmZLTGJSc3piUE12S1hnX2c1c3M4enhDanRpLVFEMmU1MFVVM2dmSUh2QVNTajhGQWM4aEtxcFJjTk4tc0kzSGlhODhMcEpfTVhLUlNDOUh4U0Zvd1NicHdyNVpLUU5weU1ZQS14dm1JMWE1UWlFdHQ3dXZlamRRc3FYVE9rR243TWJqOWRiT1ZRaWJfS2g5Q2dCS2tSSFZRWDJ0a1hwc1BZ?oc=5",
-      "published": "Fri, 08 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjZEWWdaUDF5X3FNaFBxOWhfOGU3TkxGQXRBck92TVVzWWJFNFZBUGItMjZQRlh3VDF2TEpndWxWbGdFckJSMmN1TmdleVZZMmQtRl9CdDF1bXptUUJSVDBITzFqUEtjZUlBMjJaa0k5ejV2RXhXcWdKT0hHbk1QeTNXLUFNUldSNURwWWtLTVl1dlVRNHo0Mm1TWF9tb3pnQVZ1SE03aXg1dDlUeWV5UHVVVm5QSEphMlVEaTN5UjBuYWlySlFqZENlU1JQVlZYVndjT2xoUnFLMUNLS24xZ2Z30gHnAUFVX3lxTE1iY3kzbnZDUHIyTWVCT0paY0RCd3lWMW9aOHNVTi1zZlpSUVk2djVFemlOZS1Ta2V6aVBYZ1lwTlpvZVR0azFQTFFwYnBsZTNiSy1nLUl4TUpYdF9sWU1UaFF3eVROVGNpd29iNXdqb05IamV1TG9KS25YTnhnbnU4X3NsR055UGhaVFFEZGlPTUg0SC1rTEVXUHR5S3J2NVBKU0dlcVZmTkpJLXB2LTdYeGZWWWxORW1tR3hZVXNSMFM1ZVNoQUVSVXp4STA3Z2p4MzB1bG0yNjRJVkpoLXRabHpmcHJWcw?oc=5",
+      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     }
   ]
