@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T05:00:58.360927+00:00",
+  "updated": "2026-09-14T12:54:09.564556+00:00",
   "items": [
     {
       "type": "news",
@@ -15,14 +15,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
       "published": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Your period app may be sharing more than just your cycle, Dutch regulator warns",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wU2VYRHJZWFlrOEhSbXJjZ1ZHTGVHVEp3RVA0NV9OelJpTHRLbDdfZlZobHZWRWhxV0IwYVF4em1Ld0psQlVPWXRfemtiVGZXUDRYSUYybGI3MnFnTjRFVTAtX1g?oc=5",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -43,7 +35,7 @@
     },
     {
       "type": "news",
-      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
@@ -99,22 +91,6 @@
     },
     {
       "type": "news",
-      "title": "Severe period pain not normal, could signal endometriosis, warn doctors",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkFKZ1Vnek9wTFcwS01qT1JQQ2JCZ09EM0xYQWhzMnZNR0ZJcnBmOW9pT1lTc3VIakYzYzM0Zkd3eDJ1VEZkaEU5eGpLSlVSM1J2QkdMQUhmanhzeHVpQmxZLUZCenc0WEFOU0ZuektlZlJBOUZKQVl0clZkRWNUejExeE5iZUltdVRQN1IyYzA2QUZEWGRQLXBYUXRldlMzcUVIVnJ5Q3ZqRGo4NDdWYmx0YS1tREZMaTFneEtnRG92VFlRZlBNREJMUFdDUdIB0wFBVV95cUxPTHJMMDRISEh5WXVnWVN1YTJIVzhMRFdRRWN2bG9RbDVLSTBLcTk4eDg2RGtHMWZMSi1zdEV3dF9ZN1RmdDl6S3plVXM0eGJlWlZ5Z0NoTzNEQXNXWWFLd2dnemw2TUxOUktTOXl1emxnTHR3SmVtTmxmY1ozRUgzTk9lUGtZdm05QXB2d1VaU1p5c3RzMDV0dm82NF82elZSVFRmSGZCM01wbXhlcFI3amNtZkljdlRXZllNS0hVLWFfcXJVR3FfZER6YnJvSVN0dUdB?oc=5",
-      "published": "Sun, 13 Sep 2026 07:31:24 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "A failed sanitary napkin serves a larger purpose",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2FCQ1NMZkJ6SV9lNHI1R3k4VnlSMmkySUdfR28xclJocHFvQzVyZDlVY1U2LXJmTHpOSl9aRW5UQnpoaUFUVGp1WGxxR0tuTGNfX0tFam5rNkl2SXI2LTR4LVpPb0ZYY3Vkcmx5QmdHYkx1Z21TNFZCYnE5VE5mVTR4Nk94aE55WnRJRjRiUHpxa2RyYzRrTHNHQ00ta3ZxS1JHemlB0gGzAUFVX3lxTE9yejBmM29ub3lIaUwwN1NKQWNDdGJmZkF6c0I2UzlMTXQyU3dvOGE5elR1cEZRY1pIT3h5OWw3VmF6UEE4ckdwV0cycURHRVJ0THhyV1pqVDR0RTNORFJXeW82QU5JelhBb0QyUjJ4N284ZldoTE1Zd3Z3WmxpOE1URU90OGgxY1d4dVQyY19Ba1pnX2lJS0lnMkNhcXJieE5VbDQxWnZNMUdpSEJNUVp2Y1dF?oc=5",
-      "published": "Sun, 13 Sep 2026 04:40:55 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
@@ -143,6 +119,22 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT282V1BzbHMyMXpvYm9TREJyRGR1dEVFNi1FaVdZSUxkdGpEVUplOWlkYm1YNHVQVWlkSTZqUXc5MmZYc2NFMmlldldSdFdVOTJ5MDNFa3ZRWVdoRnhCM3I4Q0htZlhSUE1tcUdWek53QkJ3ekR4aWV3SWdMOHFYaXd3NHJKYzFTaFdZMDlERWM4ZGVMN29FM2tycVppU2kwbjdfTHUzbw?oc=5",
       "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Period Came Early This Month? Expert-Approved 7 Reasons It May Happen",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmZ4R2tKdVI1MFROMXhuWDBmYWNtd3FXNjE3NWZyUmcxWXdVTHVLc1JPd2Z5bHFYRmVDWjlQYnZWV0VtampjRHJSamhienNvTE9qeVFzVkthOW05TGpjMnZLSE9oSkFJWHdXeFBMNHhqQ3ZjZHFiYlFjYXVkV01DRVZpLVY1aDAxTFl6VFRhcENpeDBOWE1oN09R?oc=5",
+      "published": "Mon, 14 Sep 2026 08:37:04 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Period tracking apps: Benefits privacy risks and safe alternatives every woman should know",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjZEWWdaUDF5X3FNaFBxOWhfOGU3TkxGQXRBck92TVVzWWJFNFZBUGItMjZQRlh3VDF2TEpndWxWbGdFckJSMmN1TmdleVZZMmQtRl9CdDF1bXptUUJSVDBITzFqUEtjZUlBMjJaa0k5ejV2RXhXcWdKT0hHbk1QeTNXLUFNUldSNURwWWtLTVl1dlVRNHo0Mm1TWF9tb3pnQVZ1SE03aXg1dDlUeWV5UHVVVm5QSEphMlVEaTN5UjBuYWlySlFqZENlU1JQVlZYVndjT2xoUnFLMUNLS24xZ2Z30gHnAUFVX3lxTE1iY3kzbnZDUHIyTWVCT0paY0RCd3lWMW9aOHNVTi1zZlpSUVk2djVFemlOZS1Ta2V6aVBYZ1lwTlpvZVR0azFQTFFwYnBsZTNiSy1nLUl4TUpYdF9sWU1UaFF3eVROVGNpd29iNXdqb05IamV1TG9KS25YTnhnbnU4X3NsR055UGhaVFFEZGlPTUg0SC1rTEVXUHR5S3J2NVBKU0dlcVZmTkpJLXB2LTdYeGZWWWxORW1tR3hZVXNSMFM1ZVNoQUVSVXp4STA3Z2p4MzB1bG0yNjRJVkpoLXRabHpmcHJWcw?oc=5",
+      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
