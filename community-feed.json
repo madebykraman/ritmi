@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-15T17:02:55.399479+00:00",
+  "updated": "2026-09-15T21:24:37.395752+00:00",
   "items": [
-    {
-      "type": "news",
-      "title": "August: Menstrual fluid biobank | News and features",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TSE9QZDhTcUF1MVZyWUt2djhVNERGRUlObmN5dURlQmRQdUlBV18xUnJncGVtR2E0aERObnlwWV9VeUNrWDJ1OFc4UUdKMTFPS0pJcmR2OGdSdGNuaXJvZG1uTEpvWV9TYXpyOWFQN3VINWZVeDdtaHFIcw?oc=5",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
@@ -35,6 +27,14 @@
     },
     {
       "type": "news",
+      "title": "A foundation model for capturing complexity of menstrual health data",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
@@ -46,15 +46,15 @@
       "title": "Indian American Leaders Rally at Gillette Stadium to Advance Women’s Health in India at Desai Foundation’s 2026 Lotus Festival",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV29rMmxPbFJiaVpNTXAtQW5mTUdpQVNwdk1JUjVFZ3V5WlJ6a1NIb3ozZ29xX1kyM1dfT0pKNFF2aUVuZ3RZTDh5S0VMbTFnZ01KV2hQU3RnSWFYX3pwODVjRDAzSUNBYy1peTJHMDBPUHJRSkZGWTBxbm1GRUZCU1ZOUDhUSEVUeHZkNElhb09lVHhtQUtUUGpqMU1HMmVhMENVQUhVU1h3ZjVIc2syNVpoVTY5eUw0S2ZlZWRBamR1MDRtSGYyZE5tNEgyRDlvRk8yeXZ2bXlyc2ZmSHJ2bjJaUzJLRTdt?oc=5",
-      "published": "Tue, 15 Sep 2026 12:36:31 GMT",
+      "published": "Tue, 15 Sep 2026 12:37:31 GMT",
       "label": "News & research"
     },
     {
       "type": "news",
-      "title": "The 9 Best Period Underwear We Tested in 2026",
+      "title": "Call for experts: new WHO guideline on menstrual health",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QNncyWHJxRVVSTmJ5VFpLQng4TnFkUkxQYUExTVEwYU9zWDZOSFlid3V0anhaa3hTRGtiZjJudElXX1Utc1VfNWxyQWdvcmF2MS1DZFpnSEJUemFzQXNReGhybEo3dXR3?oc=5",
-      "published": "Tue, 15 Sep 2026 03:53:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -75,14 +75,6 @@
     },
     {
       "type": "news",
-      "title": "CAF launches research project on menstrual health and player well-being in African Women’s Football",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONWlNLXJ4dWdwbk5WeTdWR0l1dXA4dERrbkhVTk9PSGlpazdzci1tQ0RaY2dwYXlZblZwRzBYR21JUlR2V3VFWXFOeGQ2VURhLVNueXBCTWFDS2xrRDJzY1pKTFU3VDZkYzZTbkZla2ZtLWVxU3FzX1dmWV9rVFVqQmJQWElKZGVmdXBUc3RBT2wzdlMzNHRiUDdLTTFyUU9zWWpOU0h6MFFtQTRrSzZvWDJOY0hpaEtvaHE1cnBJaFFnTURyck9Vcld3SXlKeWZ0S093WEc3NWhFZw?oc=5",
-      "published": "Thu, 10 Sep 2026 16:09:47 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "The Best Period Tracking Apps for Data Privacy in 2026",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
@@ -99,10 +91,10 @@
     },
     {
       "type": "news",
-      "title": "Why Supporting Women’s Health at Work Leads to Business Success for All",
+      "title": "A failed sanitary napkin serves a larger purpose",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dWOHpwN0ZlT0FZbF9zcmVRRElhQklHWjh5SUtiVVhOWGYzY1pjOE10TlV4VUxNQkkxcFpVTjhuTnRkaHRIRkFuV25WdE92bUtPWWhGdlZJU2JQM1dSQkZLZW9xLW45dDJZbEdlTGtvbnFZbmY4ejV2Z2U4cWRackhuVDZWNjZSeHdjc1NrNlFIRUY5TWVuWUpYRnRmQzhhNFdaa1pKV3ZldjFsZW4w?oc=5",
-      "published": "Sun, 13 Sep 2026 14:08:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2FCQ1NMZkJ6SV9lNHI1R3k4VnlSMmkySUdfR28xclJocHFvQzVyZDlVY1U2LXJmTHpOSl9aRW5UQnpoaUFUVGp1WGxxR0tuTGNfX0tFam5rNkl2SXI2LTR4LVpPb0ZYY3Vkcmx5QmdHYkx1Z21TNFZCYnE5VE5mVTR4Nk94aE55WnRJRjRiUHpxa2RyYzRrTHNHQ00ta3ZxS1JHemlB0gGzAUFVX3lxTE9yejBmM29ub3lIaUwwN1NKQWNDdGJmZkF6c0I2UzlMTXQyU3dvOGE5elR1cEZRY1pIT3h5OWw3VmF6UEE4ckdwV0cycURHRVJ0THhyV1pqVDR0RTNORFJXeW82QU5JelhBb0QyUjJ4N284ZldoTE1Zd3Z3WmxpOE1URU90OGgxY1d4dVQyY19Ba1pnX2lJS0lnMkNhcXJieE5VbDQxWnZNMUdpSEJNUVp2Y1dF?oc=5",
+      "published": "Sun, 13 Sep 2026 04:40:55 GMT",
       "label": "News & research"
     },
     {
@@ -147,14 +139,6 @@
     },
     {
       "type": "news",
-      "title": "Born in Bradford joins major study into periods and menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGZPTjVEbUM1akFxWlJ4VzhKZ0lrbEVfSU1YdHFsdlAtQ0Y3bWdObVZTUlNwYll1Z0xaTll0dVdoTmFVMC1EVHRnTkhnd2lGTEFYdUJvNkdqdzlLTFFMdXYwS3gyNmdTWTBFc3RDX3FBVWdfc2RXMERLSFpkUTMxTHpDRWRuNnBKYXkwcUFhUXlFSTNIdFBGU0FyV214X1JmTUdZeEhtUC1yZw?oc=5",
-      "published": "Mon, 14 Sep 2026 14:28:46 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Period tracking apps: Benefits privacy risks and safe alternatives every woman should know",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjZEWWdaUDF5X3FNaFBxOWhfOGU3TkxGQXRBck92TVVzWWJFNFZBUGItMjZQRlh3VDF2TEpndWxWbGdFckJSMmN1TmdleVZZMmQtRl9CdDF1bXptUUJSVDBITzFqUEtjZUlBMjJaa0k5ejV2RXhXcWdKT0hHbk1QeTNXLUFNUldSNURwWWtLTVl1dlVRNHo0Mm1TWF9tb3pnQVZ1SE03aXg1dDlUeWV5UHVVVm5QSEphMlVEaTN5UjBuYWlySlFqZENlU1JQVlZYVndjT2xoUnFLMUNLS24xZ2Z30gHnAUFVX3lxTE1iY3kzbnZDUHIyTWVCT0paY0RCd3lWMW9aOHNVTi1zZlpSUVk2djVFemlOZS1Ta2V6aVBYZ1lwTlpvZVR0azFQTFFwYnBsZTNiSy1nLUl4TUpYdF9sWU1UaFF3eVROVGNpd29iNXdqb05IamV1TG9KS25YTnhnbnU4X3NsR055UGhaVFFEZGlPTUg0SC1rTEVXUHR5S3J2NVBKU0dlcVZmTkpJLXB2LTdYeGZWWWxORW1tR3hZVXNSMFM1ZVNoQUVSVXp4STA3Z2p4MzB1bG0yNjRJVkpoLXRabHpmcHJWcw?oc=5",
@@ -167,6 +151,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWdHUyUVZUSEdHbFpxZFVpOGItU216RGM0UUJ3ZkpYeTJEVEVRcUo1Qmk2TzNwS3JZTWg3bjhRajBGRlFHZFZLZzJwdjctNHhKR29QNkFDRVBZd0xxd1VKaTNyOHV0OFk?oc=5",
       "published": "Fri, 11 Sep 2026 09:17:06 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "More Girls Will Finish School if India’s Supreme Court Ruling on Menstrual Health is Implemented",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWgtWXR3YVoybWtxN2oyWjVtTEtyUlctcTE0TW0wTmZLTGJSc3piUE12S1hnX2c1c3M4enhDanRpLVFEMmU1MFVVM2dmSUh2QVNTajhGQWM4aEtxcFJjTk4tc0kzSGlhODhMcEpfTVhLUlNDOUh4U0Zvd1NicHdyNVpLUU5weU1ZQS14dm1JMWE1UWlFdHQ3dXZlamRRc3FYVE9rR243TWJqOWRiT1ZRaWJfS2g5Q2dCS2tSSFZRWDJ0a1hwc1BZ?oc=5",
+      "published": "Fri, 08 May 2026 07:00:00 GMT",
       "label": "News & research"
     }
   ]
