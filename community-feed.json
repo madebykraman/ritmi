@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-15T11:48:45.886331+00:00",
+  "updated": "2026-09-15T17:02:55.399479+00:00",
   "items": [
+    {
+      "type": "news",
+      "title": "August: Menstrual fluid biobank | News and features",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TSE9QZDhTcUF1MVZyWUt2djhVNERGRUlObmN5dURlQmRQdUlBV18xUnJncGVtR2E0aERObnlwWV9VeUNrWDJ1OFc4UUdKMTFPS0pJcmR2OGdSdGNuaXJvZG1uTEpvWV9TYXpyOWFQN3VINWZVeDdtaHFIcw?oc=5",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
@@ -19,14 +27,6 @@
     },
     {
       "type": "news",
-      "title": "Your period app may be sharing more than just your cycle, Dutch regulator warns",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wU2VYRHJZWFlrOEhSbXJjZ1ZHTGVHVEp3RVA0NV9OelJpTHRLbDdfZlZobHZWRWhxV0IwYVF4em1Ld0psQlVPWXRfemtiVGZXUDRYSUYybGI3MnFnTjRFVTAtX1g?oc=5",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "How period trackers share your private details",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTERMc0dOcmJib0hZdy1fNkNjVkRrUUozZGUxZ24yUnVXZ1FLM0ZFZ1lDejFJTXA5Q2dvQ1ZSallDcmlaaDFlQ0pxYTVtMjRacWdaTTk4U3VxVWtkOWtkcUpiblRJQU43akNVeXNnbm5GRFpKUldKNUVzNzM1Uzc0SV93NVJuMTRiUkExcHVtNlRWbE9xc3Rn?oc=5",
@@ -35,15 +35,7 @@
     },
     {
       "type": "news",
-      "title": "A foundation model for capturing complexity of menstrual health data",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
-      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right",
+      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
@@ -51,10 +43,10 @@
     },
     {
       "type": "news",
-      "title": "Home Remedies for Vaginal Odor",
+      "title": "Indian American Leaders Rally at Gillette Stadium to Advance Women’s Health in India at Desai Foundation’s 2026 Lotus Festival",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96Mk40SEszX3dzTDR3ZHhlUTJmdXhEc0szeHpHcmNFVG80ZEYxbDBKTWlWU3dEaUhTV0ZTaXlCYUFCdkhaRHVqaDBHMmdncTcwSkJILVBERWV3Qm9qNDdEdS1GYnNlR2t2aEJFa0pYN1NHT1RKRFZFS0c0b1U2UQ?oc=5",
-      "published": "Tue, 15 Sep 2026 08:15:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV29rMmxPbFJiaVpNTXAtQW5mTUdpQVNwdk1JUjVFZ3V5WlJ6a1NIb3ozZ29xX1kyM1dfT0pKNFF2aUVuZ3RZTDh5S0VMbTFnZ01KV2hQU3RnSWFYX3pwODVjRDAzSUNBYy1peTJHMDBPUHJRSkZGWTBxbm1GRUZCU1ZOUDhUSEVUeHZkNElhb09lVHhtQUtUUGpqMU1HMmVhMENVQUhVU1h3ZjVIc2syNVpoVTY5eUw0S2ZlZWRBamR1MDRtSGYyZE5tNEgyRDlvRk8yeXZ2bXlyc2ZmSHJ2bjJaUzJLRTdt?oc=5",
+      "published": "Tue, 15 Sep 2026 12:36:31 GMT",
       "label": "News & research"
     },
     {
@@ -63,14 +55,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QNncyWHJxRVVSTmJ5VFpLQng4TnFkUkxQYUExTVEwYU9zWDZOSFlid3V0anhaa3hTRGtiZjJudElXX1Utc1VfNWxyQWdvcmF2MS1DZFpnSEJUemFzQXNReGhybEo3dXR3?oc=5",
       "published": "Tue, 15 Sep 2026 03:53:41 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Call for experts: new WHO guideline on menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -91,6 +75,14 @@
     },
     {
       "type": "news",
+      "title": "CAF launches research project on menstrual health and player well-being in African Women’s Football",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONWlNLXJ4dWdwbk5WeTdWR0l1dXA4dERrbkhVTk9PSGlpazdzci1tQ0RaY2dwYXlZblZwRzBYR21JUlR2V3VFWXFOeGQ2VURhLVNueXBCTWFDS2xrRDJzY1pKTFU3VDZkYzZTbkZla2ZtLWVxU3FzX1dmWV9rVFVqQmJQWElKZGVmdXBUc3RBT2wzdlMzNHRiUDdLTTFyUU9zWWpOU0h6MFFtQTRrSzZvWDJOY0hpaEtvaHE1cnBJaFFnTURyck9Vcld3SXlKeWZ0S093WEc3NWhFZw?oc=5",
+      "published": "Thu, 10 Sep 2026 16:09:47 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "The Best Period Tracking Apps for Data Privacy in 2026",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
@@ -103,6 +95,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQajE5a1AzbGRyMU12Tk81ZXl5OVdyYU5SOWdReTZ2eTdlLWpLdWtPZlVBME8tVlBELXA4Y0pqVnRBZXpnRXAtY0Z2cjRWQUJSWHVlUHM3RVNkVDlPYXNqcm5qRk5uXzhudkZUR2dEckNDbzdfQmtmSXpLQkRFZ3JvQXI3RjBuczN1dy02ODZhUFE1VEJSalF0NkxLTmt3dGJIbW5oSGw1eHlLckZBSWo5RDFuUU14eThSd01MX0o5Wk9XSVdpajVoSWYxT1lVVGZHUWJDOWsyNUt4YXBERjlZcjB0ZDFWcE1SbnJnc3lmT0ZnR19YaWdRSkJ6Q3hVb2RiVnRpdmFxYVVacWgzUlVGcA?oc=5",
       "published": "Sun, 13 Sep 2026 23:30:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Why Supporting Women’s Health at Work Leads to Business Success for All",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dWOHpwN0ZlT0FZbF9zcmVRRElhQklHWjh5SUtiVVhOWGYzY1pjOE10TlV4VUxNQkkxcFpVTjhuTnRkaHRIRkFuV25WdE92bUtPWWhGdlZJU2JQM1dSQkZLZW9xLW45dDJZbEdlTGtvbnFZbmY4ejV2Z2U4cWRackhuVDZWNjZSeHdjc1NrNlFIRUY5TWVuWUpYRnRmQzhhNFdaa1pKV3ZldjFsZW4w?oc=5",
+      "published": "Sun, 13 Sep 2026 14:08:03 GMT",
       "label": "News & research"
     },
     {
@@ -151,6 +151,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGZPTjVEbUM1akFxWlJ4VzhKZ0lrbEVfSU1YdHFsdlAtQ0Y3bWdObVZTUlNwYll1Z0xaTll0dVdoTmFVMC1EVHRnTkhnd2lGTEFYdUJvNkdqdzlLTFFMdXYwS3gyNmdTWTBFc3RDX3FBVWdfc2RXMERLSFpkUTMxTHpDRWRuNnBKYXkwcUFhUXlFSTNIdFBGU0FyV214X1JmTUdZeEhtUC1yZw?oc=5",
       "published": "Mon, 14 Sep 2026 14:28:46 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Period tracking apps: Benefits privacy risks and safe alternatives every woman should know",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjZEWWdaUDF5X3FNaFBxOWhfOGU3TkxGQXRBck92TVVzWWJFNFZBUGItMjZQRlh3VDF2TEpndWxWbGdFckJSMmN1TmdleVZZMmQtRl9CdDF1bXptUUJSVDBITzFqUEtjZUlBMjJaa0k5ejV2RXhXcWdKT0hHbk1QeTNXLUFNUldSNURwWWtLTVl1dlVRNHo0Mm1TWF9tb3pnQVZ1SE03aXg1dDlUeWV5UHVVVm5QSEphMlVEaTN5UjBuYWlySlFqZENlU1JQVlZYVndjT2xoUnFLMUNLS24xZ2Z30gHnAUFVX3lxTE1iY3kzbnZDUHIyTWVCT0paY0RCd3lWMW9aOHNVTi1zZlpSUVk2djVFemlOZS1Ta2V6aVBYZ1lwTlpvZVR0azFQTFFwYnBsZTNiSy1nLUl4TUpYdF9sWU1UaFF3eVROVGNpd29iNXdqb05IamV1TG9KS25YTnhnbnU4X3NsR055UGhaVFFEZGlPTUg0SC1rTEVXUHR5S3J2NVBKU0dlcVZmTkpJLXB2LTdYeGZWWWxORW1tR3hZVXNSMFM1ZVNoQUVSVXp4STA3Z2p4MzB1bG0yNjRJVkpoLXRabHpmcHJWcw?oc=5",
+      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
