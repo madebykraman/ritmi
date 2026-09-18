@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-17T21:25:38.395544+00:00",
+  "updated": "2026-09-18T04:48:21.384244+00:00",
   "items": [
+    {
+      "type": "news",
+      "title": "August: Menstrual fluid biobank | News and features",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TSE9QZDhTcUF1MVZyWUt2djhVNERGRUlObmN5dURlQmRQdUlBV18xUnJncGVtR2E0aERObnlwWV9VeUNrWDJ1OFc4UUdKMTFPS0pJcmR2OGdSdGNuaXJvZG1uTEpvWV9TYXpyOWFQN3VINWZVeDdtaHFIcw?oc=5",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Period & Fertility Tracking Apps: How Safe Is Your Data?",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjZUSUVCX04xLXFaX1pxV0s2ZjZOREo5SGVuU0hPV2xHaVNTN1ZySVdhV1JKWmNBRG5DeUVFaEFZblpTRDU1eTZyX3NHZmJnQmJVTkxkdTY5dkR2VF9WMlljN0F3LUZQMUVYQ18wLVhLY3BWTU5GY3pMeTFfc3M4WnNUOVFJSUFCODZkY3lpVC1FR203WkFVOVB2aE9wSHA0Y1VGTHBab0JKQQ?oc=5",
-      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -43,6 +43,14 @@
     },
     {
       "type": "news",
+      "title": "PaiSafe, DIU hold ‘HerDays’ menstrual health awareness prog",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTRIT2YzdEU2Ui1fQjVwSFJKcXFCY3JhYzl1NV9tSDA4dmxJWmxPVFRVVThDWDB3c2pQQTNoamxFdGlhWlRZWFI3bGhBUVE1V2p4andpME51TVcwZDlfUXo3VWswX2ZxRHZWMXZabFNLcElyVjhieEUtS2pyZ3o3Y1RJUHlNQTBDbzlpR2JCN3l4YmRyRUZDMnNEem5lblF3RnN2dmwwUldZa00?oc=5",
+      "published": "Wed, 16 Sep 2026 10:51:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Menstrual tracking apps and concerns about data privacy",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
@@ -67,18 +75,10 @@
     },
     {
       "type": "news",
-      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right",
+      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Call for experts: new WHO guideline on menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -131,6 +131,14 @@
     },
     {
       "type": "news",
+      "title": "Period tracker Stardust shares users’ health data with analytics firm, says new research",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSGh2NS10WGhvMG9sVHk2Ry04aHhJaFBkMTY4TGZwWlZyYnZuOXpucUhuU3d4SkVudjRfRTQtazB6a1VUZmZIM3JaMG5EX1lFOWtRVTZzQVo5WFRZUVl2cFhrSGtTLU9veXJYRGFULVh5Rm04TFNKb2pneUp2Z1RVb2tDVVRscTM5OVZjSHRhRzZFSFRxX0lIaWR3OG9VVXF1VGpwNDctVmI2a1BONUpTYjdJb0tvcVdEWUoxb1Y4RmRySnM?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "The Best Period Tracking Apps for Data Privacy in 2026",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
@@ -139,18 +147,18 @@
     },
     {
       "type": "news",
-      "title": "Best Period Tracker App 2026: Gloz Delivers Privacy and Smart AI Insights in a New Era of Women’s Health Tracking",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZVVPZ0taM1FkQnROdkxxOWpiMm4wbEpMcnhvMVpMU1FTZHpCNHB0T19LN0t0aThBQ3RUc0JvazFYYmRIWlV3Z1F4SEIxUXZjd3lpaUZ3MFlFM2tCMnF6ZUhPRWpVbEpzTlVGZkt3a0tpcGdVX3dJY0o4ZlVVamtURXNkUzZZV0RnVjVpNWtDU1dfM2F5cTNNQ3VVWjdBbF9nbHFTemF1VV9xMUdjS2FWVWFCQldjV0FSckJ6Ym1OOV9NZmVwOXZxbVF3cFk2b2lFbTFXVFlsTTlFVlpsdUNrQ0IzYm1Qd3Bjbnc?oc=5",
-      "published": "Sat, 02 May 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "How secure is your period-tracking app?: Some share more data than you think; here's what you should & shou...",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGpBMTJ3dDBSc2VoYVBsS2hobmlIeUp3QXlqLXpKcjJjSmN3TVF4ZkowQlpjNFhZVFUtUVNBTHcwcVJOdzRjU0NRVG00eUt1UVdPMzVMbllST0VaaXVqcHgzdWYzMFBuZjRFM0sxdGw3aVI2Y1NmNzdJSVhmdjVRZEEzckJZWFF1NUotMEc4VG1aSnJDOGpVY1duRTRuVG1mQTVHX00yZ1p1Yk14UVVLUVBVMVdiREHSAbwBQVVfeXFMTUhGNFI4eGdVa0w1UmJrUWRSRG5wTWp5TkF2MUFvZ055S2FYcXppdnQ0MUQtQ0lKa1U0T1Nrd0JRQklwTHcyOENjeWttWG8zX3FEcU1WWWNEcHk2RTQybDlneVBPYld2NHNyajEybWZLZ0hBNUxvZnB5al9MQmtXa2hCRnRUSFNxbnY0bU45WURXbUFhazZkQmUtYXY2WmZQcUE3SHNkYThhLWxUX2RWWFo5c0k4aGlrVURWNXA?oc=5",
       "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "This Period-Tracking App Actually Keeps Your Data Private",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00TmJ1SjFNX055d2lVYVdHT3F2NlZsT2JhTk1zaTVNNU5yWnJLeFVrYTYtcUxJYTJ5YVhtZ3QtV0JNcEcybU0tSDYtQ1ZYcUpnbWNScFNxVUoxZTBHTmhhY2tpeXo?oc=5",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
