@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-19T15:54:56.975646+00:00",
+  "updated": "2026-09-19T20:44:18.502953+00:00",
   "items": [
+    {
+      "type": "news",
+      "title": "World’s largest menstrual fluid biobank will transform understanding of menstrual health",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYURqZU13ajRxWlhScTVmcHVvbFNsWWJkSk91bWJwMzZ1cGdvRVhSQldHZEk1VE9nSmUxR0NTbHpkOHZRNGRTSFh5UUl1cVlfaEhLN3Z4VTN0ZmFxTFBqWlg4QXJyalZPWDZUODhBZmJyUUUwTVJHamVaR2sxMjhEUVd6Y2g5ZFNiSWtOdFlBbnVWOE9PNEdIMUFlTXgya1dvQXdIWkIwUFZtZ21RczE3MGppaUtEbmhIQ18zbm05VFBBOUg3S2lFVHlKaC1kQ3NIaWZJZ00ydUtPbVJRV1FUdURESkQ?oc=5",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
@@ -35,26 +43,10 @@
     },
     {
       "type": "news",
-      "title": "A foundation model for capturing complexity of menstrual health data",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
-      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Call for experts: new WHO guideline on menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -71,6 +63,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Women’s kidney health may be overlooked, delaying critical prevention and treatment opportunities",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWVg4R0ZDVkNodldGLV93bmpyNDltZVRvalFHSG5rM3NYSkpoT1NGVmhlLVZqc1pVRmNxbEhqaDhESk1PTGhidXg5T2x2ZXQydm5aeV9WeFp4YkxVMmN6Y0lmeWZWSVhwMDlIMjRkVDZrWVU2RGpreXNpTGxyTnJKVzlqTkFXLVhBeFdvUWw4OEs3bUZRT1o1Tl9TdlBxb21ibkFtUmhHLWpqLXNheGlnQXVMVmFmaGRiZE93T3JmMXhTZWNWeGc?oc=5",
+      "published": "Thu, 17 Sep 2026 13:03:50 GMT",
       "label": "News & research"
     },
     {
@@ -99,18 +99,26 @@
     },
     {
       "type": "news",
-      "title": "Can Iron Deficiency Affect Your Fertility? The Reproductive Health Link Women Often Miss",
+      "title": "UP govt to provide free sanitary napkins to school girls",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmlUZ1NsU1l1dzktZzFhUWNRUTNDZnRDLXNCbTRmWnY5SHVyekU2bXByMS1YV2hsYUR1eXFYMVYxLVNfR0c0clhwSHQyUFlYVHQxSkNGUktoLUdtbUpGVkFuTlZtMTMtOGVBNk92NnNyWTllLWkta1BDZjBSemxlUnljRVNLWjl0amRmZHhKb1duU2FsUkFuUlVKVXdxTHNmQ01fNkE1NWtNV3lBVE1Jd2tKQjltcmRlQkNYWTZ2RW8wSldqRzN6SFhrNDI5RnhBSXJrXw?oc=5",
-      "published": "Sat, 19 Sep 2026 13:20:57 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhxNmdaaGxKZVB2akZMbHFqMHNwZTZieFZRYWtGWUM0d3Y4S1R3eWJGUnRRV2k4UV9HYWJZRk41Z1ZrY0ZzM0dEY0VyS2ZSUzlPT09jbENTYXNac2VmSjBCNEtqeEstb2J4YW9Qc0tGMUI5YmhMMVJDM2ZRY2ttWFptQzUwS1RDMHl1RVNaTi1uSmw0LTJ4RFY4YWJzcDRISi1nUTZWdW1sdkJxdTd3UkRsaWY0Tzc5VklBdmRaZ24wYlljWWw5YVNwSdIB0AFBVV95cUxOd2pzVUdIb2NBWHVCTXU3MmswNjZ2Uko0REJyc0Q3MXZXZWQyN2tmWk1oakdZNXZsSlBXc29iVzRaM3JiYTR5ckFvczRjOHo4ZWRGVWh1OVJIcVloeDZKQnV2aUxWYXRYdU0wRXdKMjlGSnVveFkxcXdOS1lDMFlhQlpxSnd5NklxSW5sQS1MT0UycHNzS0VBakItYnoxQVQ1NFlHZjZRMGVvRlg4OW1oZjNONkxPdy1jb2sxRUNFVXNxLTdvNDl5cnFDRktkQlli?oc=5",
+      "published": "Sat, 19 Sep 2026 19:44:00 GMT",
       "label": "News & research"
     },
     {
       "type": "news",
-      "title": "#WomensHealthMatters: Spar is ensuring menstruation never becomes a barrier",
+      "title": "The Broken Silence: Dismantling Menstrual Taboos in JK",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXlfOHpGSGpUQ1NxZ2RsMUFpTm5PZWNBc0JmcXlobFVKREMtZzdEZkNtTU1rTktwQ3RlVlFKQ2FHal9wdG1hTjEtY01mTzBMVHhyQmhQSzlIVGdxYllfZVFVRnI0Yi1yTE5Cc3JWM2VpbGF1VVJSWUx5UjdXTTNkMTY1YnFiT1JiNy1VZUktaVZQRnZlUDhxd2MyVGt2dkk?oc=5",
-      "published": "Sat, 19 Sep 2026 11:21:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGZLV0t3VnNsQ0ZEOUstOXJHNzN0MExSNFh1R0xZSmR4YVg1NzZIU2FSYWoxMEQ0N1FzVlJCUS05aHBpMDdqV0hfTzRjZjBzTjY0bGwyUk9hYUJIOVlSRExSYmh6N2dLc2FGMGw5elhZa3huX3R2MEpDbHNhQ3kwaWJrblNDUEk4NEE?oc=5",
+      "published": "Sat, 19 Sep 2026 18:55:08 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Can Iron Deficiency Affect Your Fertility? The Reproductive Health Link Women Often Miss",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmlUZ1NsU1l1dzktZzFhUWNRUTNDZnRDLXNCbTRmWnY5SHVyekU2bXByMS1YV2hsYUR1eXFYMVYxLVNfR0c0clhwSHQyUFlYVHQxSkNGUktoLUdtbUpGVkFuTlZtMTMtOGVBNk92NnNyWTllLWkta1BDZjBSemxlUnljRVNLWjl0amRmZHhKb1duU2FsUkFuUlVKVXdxTHNmQ01fNkE1NWtNV3lBVE1Jd2tKQjltcmRlQkNYWTZ2RW8wSldqRzN6SFhrNDI5RnhBSXJrXw?oc=5",
+      "published": "Sat, 19 Sep 2026 13:20:57 GMT",
       "label": "News & research"
     },
     {
@@ -139,18 +147,18 @@
     },
     {
       "type": "news",
-      "title": "This Period-Tracking App Actually Keeps Your Data Private",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00TmJ1SjFNX055d2lVYVdHT3F2NlZsT2JhTk1zaTVNNU5yWnJLeFVrYTYtcUxJYTJ5YVhtZ3QtV0JNcEcybU0tSDYtQ1ZYcUpnbWNScFNxVUoxZTBHTmhhY2tpeXo?oc=5",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Delete These Apps Immediately: Why Your Period Tracker Is a Digital Trap",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT282V1BzbHMyMXpvYm9TREJyRGR1dEVFNi1FaVdZSUxkdGpEVUplOWlkYm1YNHVQVWlkSTZqUXc5MmZYc2NFMmlldldSdFdVOTJ5MDNFa3ZRWVdoRnhCM3I4Q0htZlhSUE1tcUdWek53QkJ3ekR4aWV3SWdMOHFYaXd3NHJKYzFTaFdZMDlERWM4ZGVMN29FM2tycVppU2kwbjdfTHUzbw?oc=5",
       "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
