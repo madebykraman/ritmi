@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-19T11:04:38.266346+00:00",
+  "updated": "2026-09-19T15:54:56.975646+00:00",
   "items": [
-    {
-      "type": "news",
-      "title": "August: Menstrual fluid biobank | News and features",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TSE9QZDhTcUF1MVZyWUt2djhVNERGRUlObmN5dURlQmRQdUlBV18xUnJncGVtR2E0aERObnlwWV9VeUNrWDJ1OFc4UUdKMTFPS0pJcmR2OGdSdGNuaXJvZG1uTEpvWV9TYXpyOWFQN3VINWZVeDdtaHFIcw?oc=5",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
@@ -23,14 +15,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmODlkanNNNHJmclJrbnBJajlpUzJ5R2dpSUtzYi1MTzRHbEdPc2d6RDUzSDM2cGJWbzBUQnM5WFRnSWRXTzFzYjRvZFhIaEM5VTdtLVZfa3dSMEw2WmdtMnY3aDdqa01VVjJzLTRzYmg?oc=5",
       "published": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "PaiSafe, DIU hold ‘HerDays’ menstrual health awareness prog",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTRIT2YzdEU2Ui1fQjVwSFJKcXFCY3JhYzl1NV9tSDA4dmxJWmxPVFRVVThDWDB3c2pQQTNoamxFdGlhWlRZWFI3bGhBUVE1V2p4andpME51TVcwZDlfUXo3VWswX2ZxRHZWMXZabFNLcElyVjhieEUtS2pyZ3o3Y1RJUHlNQTBDbzlpR2JCN3l4YmRyRUZDMnNEem5lblF3RnN2dmwwUldZa00?oc=5",
-      "published": "Wed, 16 Sep 2026 10:51:00 GMT",
       "label": "News & research"
     },
     {
@@ -51,10 +35,26 @@
     },
     {
       "type": "news",
+      "title": "A foundation model for capturing complexity of menstrual health data",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Call for experts: new WHO guideline on menstrual health",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -71,14 +71,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Women’s kidney health may be overlooked, delaying critical prevention and treatment opportunities",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWVg4R0ZDVkNodldGLV93bmpyNDltZVRvalFHSG5rM3NYSkpoT1NGVmhlLVZqc1pVRmNxbEhqaDhESk1PTGhidXg5T2x2ZXQydm5aeV9WeFp4YkxVMmN6Y0lmeWZWSVhwMDlIMjRkVDZrWVU2RGpreXNpTGxyTnJKVzlqTkFXLVhBeFdvUWw4OEs3bUZRT1o1Tl9TdlBxb21ibkFtUmhHLWpqLXNheGlnQXVMVmFmaGRiZE93T3JmMXhTZWNWeGc?oc=5",
-      "published": "Thu, 17 Sep 2026 13:03:50 GMT",
       "label": "News & research"
     },
     {
@@ -107,10 +99,34 @@
     },
     {
       "type": "news",
+      "title": "Can Iron Deficiency Affect Your Fertility? The Reproductive Health Link Women Often Miss",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmlUZ1NsU1l1dzktZzFhUWNRUTNDZnRDLXNCbTRmWnY5SHVyekU2bXByMS1YV2hsYUR1eXFYMVYxLVNfR0c0clhwSHQyUFlYVHQxSkNGUktoLUdtbUpGVkFuTlZtMTMtOGVBNk92NnNyWTllLWkta1BDZjBSemxlUnljRVNLWjl0amRmZHhKb1duU2FsUkFuUlVKVXdxTHNmQ01fNkE1NWtNV3lBVE1Jd2tKQjltcmRlQkNYWTZ2RW8wSldqRzN6SFhrNDI5RnhBSXJrXw?oc=5",
+      "published": "Sat, 19 Sep 2026 13:20:57 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "#WomensHealthMatters: Spar is ensuring menstruation never becomes a barrier",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXlfOHpGSGpUQ1NxZ2RsMUFpTm5PZWNBc0JmcXlobFVKREMtZzdEZkNtTU1rTktwQ3RlVlFKQ2FHal9wdG1hTjEtY01mTzBMVHhyQmhQSzlIVGdxYllfZVFVRnI0Yi1yTE5Cc3JWM2VpbGF1VVJSWUx5UjdXTTNkMTY1YnFiT1JiNy1VZUktaVZQRnZlUDhxd2MyVGt2dkk?oc=5",
+      "published": "Sat, 19 Sep 2026 11:21:29 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Does endometriosis run in families? Gynaecologist shares who may be at risk; know the signs | Health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONGZDYjBGTmZFM1lCVXFjMDNGUEoyU0hLLVIyaHF3WjlEZmtUNDZKNUY5UnVXX0JtM1hZcmI1N1Y2NWhPdEx6ajhvSlR4REw4T3BKTWhKVXZQY3dXZHM5bGF2eC00MHJhZ2ZWMGhKNXphMm1GaHRJS2hubW5fajBUTTlMQnFLQUdYMU9mcHQ4RFQ0MlNTbm1hSW9CY0ZZV3dpUG8zeEZUX2llRkpqZzY3eG1VN241enVGbzNhSTVmdEJrMnZYcUlsQTJFajROcjM2aVlBMjlKWU9kUWF4U2gtNlVFTzlMRFVUNDE4MW1RSdIB9AFBVV95cUxNTDVHaTBYb0lqSjhld3BuWDcwYVQzbEhyaWxQcm9QSXdQMmtId1ZwS2xoVlBSYnJpNFJhbFBrVF82aWMzQXQ1MjlYWWtWS0RPRWR6d0dNaFI3eVVVV2FFOWxZMERiN3RkSEF0ODI0aEpObkdHWHo3QTQ1X2xLY0hER2pyc1B5d016czZzX2xGaHJuNnhxSnRTV2tZeFQtR2pMN1RCNExZQjR1QXlTdURULW9TN3NZSG92QWNIR2hlSG9hb1YwOTg1OHBrMjJIb05CblJaRnpCT0cwNGxNY0xKWERTcXdtZndkTEF0by1uRHNPMkIx?oc=5",
       "published": "Sat, 19 Sep 2026 08:03:29 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Nehlia Developers introduces paid menstrual leave for eligible women employees",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakNra2tpWUZpakxwYWhPZE1tbGFjdklWYjdpNTZKM0hWNHkyQjFpS05CNlNUNjdEN2k5eGY4ZXNWRG42M1BoWTlVcUc4dHBTTXB4WnZsYmVGazFOTTR6SENRSXNHTmhRN2ZRVGRzMFdjM0tPel9MdlJSc3hoM0x0TnV3Q0hOUmRaY3dqLWRUVTdXUHlGNWlBYkczMXFfRjJwSkprVnVPNGRoZk5WazR2UngteGhWbm5BZGZFcnlkc09vaHhybEl6cXRR?oc=5",
+      "published": "Sat, 19 Sep 2026 05:34:35 GMT",
       "label": "News & research"
     },
     {
@@ -139,42 +155,10 @@
     },
     {
       "type": "news",
-      "title": "Born in Bradford joins major study into periods and menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGZPTjVEbUM1akFxWlJ4VzhKZ0lrbEVfSU1YdHFsdlAtQ0Y3bWdObVZTUlNwYll1Z0xaTll0dVdoTmFVMC1EVHRnTkhnd2lGTEFYdUJvNkdqdzlLTFFMdXYwS3gyNmdTWTBFc3RDX3FBVWdfc2RXMERLSFpkUTMxTHpDRWRuNnBKYXkwcUFhUXlFSTNIdFBGU0FyV214X1JmTUdZeEhtUC1yZw?oc=5",
-      "published": "Mon, 14 Sep 2026 14:28:46 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Experts urge testing for bleeding disorders in teens with heavy periods",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0NLSEhaakRRUXlhdWdqV21sLVNjSGFMYU9SMVVDWUpjN3BhUWdCMFdJRUVFaXFJb0lTeFZGVEV3YUx6OUxQbFNHaVRfcnZwbnhQU2NZN0tsRmt1dnZPQjRZd3VTZnFXTzRETGk4MjNIc093ZHdMZW5uRXhSRm1LTlhxQTd3RGJ0YjZCelhkV3d3Zw?oc=5",
-      "published": "Fri, 18 Sep 2026 20:23:49 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Shruti Hassan says she prayed about thousand times that men get periods, reveals having PCOS: 'It would b",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOMUpiNmRvVEFKUTNoOXU0RVBKZTcxTzR5TEZLeTlKV2Vpc29iVlNfWk5ibUpRSnlLOEtrNWlMWmRpR2ExU0NQeFZ5S1hjYVpsRllhRE5mNkJiN2dEZElwaGJ3Q2o3Y3hfZGdxV0lad2M3R1R2WlladWM4RGlNVkRHQnJxWTY2M0VzZ2xlalNqQ1N1V3pRTVVhcDZuYzVOdE1VM2FpZ2Z5TFprODdkSm5qc1hXbVBWLVNMNFdNaHd0TTUwQ1FUWWY4VjZ1dG9EaVhTSWR5czNuMnNDaVJtXzNqQ3NDNlJ5cmd4N3hMQ1F4SWFqTEdGR1ZzbnNvUWpjaFY1eHhEemF2VmlCZ3k0V0ttU2VLQms5UHliUWE3VUtsMEk1cVpOREpzUDlTRU5TY2V3enRrclNqTHR2Wk1HNUtuZWl6UXNTTGRodk9LN3ROdlI5d2VmeWxnM2s3aEpoZGh2ZlNqR3BpaVJ5Ni16cGlF0gH0AkFVX3lxTFBRRG1uNlY2LXM1X1ZuaW5US0s2dE82SjVYa0JIMTI1cmhjcS10WFlYcnJObVZQN2ZPd2tSWFpsbF9PYnBLVmlOcm9QSU9fS05hUGg2NlFfZlBCVDJuOUVNTUIxR2ZSdzMtbG9wbWNIVE5QczZCTW1HZ0tqQjN5azBiNmw1Y2drajk5TFI5NWlzaWZWN05XTmJRWEtnaU45aVpiSmNmRk9CUTlJeU5WX3FjNUdHemJKNlZ4RXpzX2FDdlJzMk9wRUF4aUM3eEVZZi0xUVp4cTI1dWF1Y0VLekw2SUYtRXFVcmUwWm1CQnVSbm5EUEVZQ0ZGSFhBZnB6b3lNeTZSVkJKZ3ppQmJ1Y21nTV9QemtFNk8yWGE1eVJRMVBDQUwydXU1eGhkSnVQRWhlWGxVRDFtd1EwelBWS1dzczNqNUM4ci1rd0ZjQmlKNWd2bWpiOG15eWNpaUxRQ2V0TV9FRERybk05MWx0dTdUUDliTg?oc=5",
-      "published": "Fri, 18 Sep 2026 12:56:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Independent Testing Confirms Flo Health Does Not Share Reproductive Data",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTNDLXNCSmE5U2dzMS1Oa2Y5dlB0MnNLczFqNkZYWG5yQmJpTnBTdTlXU2JqTk13OWlMZC10TkJfNy04WXA3SVZxZTdNd2FvbnhtNlc0S0I0bHkzb043VXg5cUd3MGVDNDBVWTZfQlZyVWswUFp2YVY2MV85bDdNakFUMXpoWmkxYVpXb1d6LWNlN1FCajFn0gGkAUFVX3lxTFBFajNFYzZ2RVlqVWVtZ0hCcTduRGJ4cTJYcTU1OFZ2ZWttamhjZWFIOUhDbk1XV3FXeFlMYjR1RmxCSnlBa2tjcWU0eVBIdDBfT3FpY1ZvRGpjQk5xa3ZORWhrZklFVWZiWTlFZENtSmNnSS1iN0ppTzNQVGlWMGdWTXJfUkVqUnJRa2xMQ0RRVHl3SlR5TDAxYXk1b1JnLU9jTTRp?oc=5",
       "published": "Fri, 18 Sep 2026 02:54:12 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "More Girls Will Finish School if India’s Supreme Court Ruling on Menstrual Health is Implemented",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWgtWXR3YVoybWtxN2oyWjVtTEtyUlctcTE0TW0wTmZLTGJSc3piUE12S1hnX2c1c3M4enhDanRpLVFEMmU1MFVVM2dmSUh2QVNTajhGQWM4aEtxcFJjTk4tc0kzSGlhODhMcEpfTVhLUlNDOUh4U0Zvd1NicHdyNVpLUU5weU1ZQS14dm1JMWE1UWlFdHQ3dXZlamRRc3FYVE9rR243TWJqOWRiT1ZRaWJfS2g5Q2dCS2tSSFZRWDJ0a1hwc1BZ?oc=5",
-      "published": "Fri, 08 May 2026 07:00:00 GMT",
       "label": "News & research"
     }
   ]
