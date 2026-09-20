@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-20T04:57:17.630534+00:00",
+  "updated": "2026-09-20T11:29:04.295450+00:00",
   "items": [
     {
       "type": "news",
-      "title": "World’s largest menstrual fluid biobank will transform understanding of menstrual health",
+      "title": "August: Menstrual fluid biobank | News and features",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYURqZU13ajRxWlhScTVmcHVvbFNsWWJkSk91bWJwMzZ1cGdvRVhSQldHZEk1VE9nSmUxR0NTbHpkOHZRNGRTSFh5UUl1cVlfaEhLN3Z4VTN0ZmFxTFBqWlg4QXJyalZPWDZUODhBZmJyUUUwTVJHamVaR2sxMjhEUVd6Y2g5ZFNiSWtOdFlBbnVWOE9PNEdIMUFlTXgya1dvQXdIWkIwUFZtZ21RczE3MGppaUtEbmhIQ18zbm05VFBBOUg3S2lFVHlKaC1kQ3NIaWZJZ00ydUtPbVJRV1FUdURESkQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TSE9QZDhTcUF1MVZyWUt2djhVNERGRUlObmN5dURlQmRQdUlBV18xUnJncGVtR2E0aERObnlwWV9VeUNrWDJ1OFc4UUdKMTFPS0pJcmR2OGdSdGNuaXJvZG1uTEpvWV9TYXpyOWFQN3VINWZVeDdtaHFIcw?oc=5",
       "published": "Wed, 26 Aug 2026 07:00:00 GMT",
       "label": "News & research"
     },
@@ -27,6 +27,14 @@
     },
     {
       "type": "news",
+      "title": "Supreme Court criticises States for poor implementation of directions on menstrual hygiene at schools",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeXBhX29GSXg3bDh4NzB3SVR2R21ScnJaVF81enR5SXl4RVpGamZjUzJ3b2ZvdjNpb1pkSzIxRHIyTUVtTXlFNXhmdWNoTVZGbkQyUVc5WmhBeHE5R3ZycjdKb2I2em5RbVd1TTREMGptU3FodGxLQThhTjFIU0Utcm5KTVNwaTROOC1Wc1praV9TZEVWODl0N0VLb0xfUG1XRTlpdVNRT1dSLXJSaFBfaHljMlBvdGRvNUk3RlNkRVhodWNBS0FWdGZaT3hJQ29LSnJBLVBOMnh6ajBxbFE?oc=5",
+      "published": "Wed, 16 Sep 2026 11:09:19 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Menstrual tracking apps and concerns about data privacy",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
@@ -39,14 +47,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTERMc0dOcmJib0hZdy1fNkNjVkRrUUozZGUxZ24yUnVXZ1FLM0ZFZ1lDejFJTXA5Q2dvQ1ZSallDcmlaaDFlQ0pxYTVtMjRacWdaTTk4U3VxVWtkOWtkcUpiblRJQU43akNVeXNnbm5GRFpKUldKNUVzNzM1Uzc0SV93NVJuMTRiUkExcHVtNlRWbE9xc3Rn?oc=5",
       "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "A foundation model for capturing complexity of menstrual health data",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
-      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -71,6 +71,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Women’s kidney health may be overlooked, delaying critical prevention and treatment opportunities",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWVg4R0ZDVkNodldGLV93bmpyNDltZVRvalFHSG5rM3NYSkpoT1NGVmhlLVZqc1pVRmNxbEhqaDhESk1PTGhidXg5T2x2ZXQydm5aeV9WeFp4YkxVMmN6Y0lmeWZWSVhwMDlIMjRkVDZrWVU2RGpreXNpTGxyTnJKVzlqTkFXLVhBeFdvUWw4OEs3bUZRT1o1Tl9TdlBxb21ibkFtUmhHLWpqLXNheGlnQXVMVmFmaGRiZE93T3JmMXhTZWNWeGc?oc=5",
+      "published": "Thu, 17 Sep 2026 13:03:50 GMT",
       "label": "News & research"
     },
     {
@@ -123,22 +131,6 @@
     },
     {
       "type": "news",
-      "title": "Does endometriosis run in families? Gynaecologist shares who may be at risk; know the signs | Health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONGZDYjBGTmZFM1lCVXFjMDNGUEoyU0hLLVIyaHF3WjlEZmtUNDZKNUY5UnVXX0JtM1hZcmI1N1Y2NWhPdEx6ajhvSlR4REw4T3BKTWhKVXZQY3dXZHM5bGF2eC00MHJhZ2ZWMGhKNXphMm1GaHRJS2hubW5fajBUTTlMQnFLQUdYMU9mcHQ4RFQ0MlNTbm1hSW9CY0ZZV3dpUG8zeEZUX2llRkpqZzY3eG1VN241enVGbzNhSTVmdEJrMnZYcUlsQTJFajROcjM2aVlBMjlKWU9kUWF4U2gtNlVFTzlMRFVUNDE4MW1RSdIB9AFBVV95cUxNTDVHaTBYb0lqSjhld3BuWDcwYVQzbEhyaWxQcm9QSXdQMmtId1ZwS2xoVlBSYnJpNFJhbFBrVF82aWMzQXQ1MjlYWWtWS0RPRWR6d0dNaFI3eVVVV2FFOWxZMERiN3RkSEF0ODI0aEpObkdHWHo3QTQ1X2xLY0hER2pyc1B5d016czZzX2xGaHJuNnhxSnRTV2tZeFQtR2pMN1RCNExZQjR1QXlTdURULW9TN3NZSG92QWNIR2hlSG9hb1YwOTg1OHBrMjJIb05CblJaRnpCT0cwNGxNY0xKWERTcXdtZndkTEF0by1uRHNPMkIx?oc=5",
-      "published": "Sat, 19 Sep 2026 08:03:29 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Nehlia Developers introduces paid menstrual leave for eligible women employees",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakNra2tpWUZpakxwYWhPZE1tbGFjdklWYjdpNTZKM0hWNHkyQjFpS05CNlNUNjdEN2k5eGY4ZXNWRG42M1BoWTlVcUc4dHBTTXB4WnZsYmVGazFOTTR6SENRSXNHTmhRN2ZRVGRzMFdjM0tPel9MdlJSc3hoM0x0TnV3Q0hOUmRaY3dqLWRUVTdXUHlGNWlBYkczMXFfRjJwSkprVnVPNGRoZk5WazR2UngteGhWbm5BZGZFcnlkc09vaHhybEl6cXRR?oc=5",
-      "published": "Sat, 19 Sep 2026 05:34:35 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "How secure is your period-tracking app?: Some share more data than you think; here's what you should & shou...",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGpBMTJ3dDBSc2VoYVBsS2hobmlIeUp3QXlqLXpKcjJjSmN3TVF4ZkowQlpjNFhZVFUtUVNBTHcwcVJOdzRjU0NRVG00eUt1UVdPMzVMbllST0VaaXVqcHgzdWYzMFBuZjRFM0sxdGw3aVI2Y1NmNzdJSVhmdjVRZEEzckJZWFF1NUotMEc4VG1aSnJDOGpVY1duRTRuVG1mQTVHX00yZ1p1Yk14UVVLUVBVMVdiREHSAbwBQVVfeXFMTUhGNFI4eGdVa0w1UmJrUWRSRG5wTWp5TkF2MUFvZ055S2FYcXppdnQ0MUQtQ0lKa1U0T1Nrd0JRQklwTHcyOENjeWttWG8zX3FEcU1WWWNEcHk2RTQybDlneVBPYld2NHNyajEybWZLZ0hBNUxvZnB5al9MQmtXa2hCRnRUSFNxbnY0bU45WURXbUFhazZkQmUtYXY2WmZQcUE3SHNkYThhLWxUX2RWWFo5c0k4aGlrVURWNXA?oc=5",
@@ -155,18 +147,18 @@
     },
     {
       "type": "news",
-      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
+      "title": "Born in Bradford joins major study into periods and menstrual health",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGZPTjVEbUM1akFxWlJ4VzhKZ0lrbEVfSU1YdHFsdlAtQ0Y3bWdObVZTUlNwYll1Z0xaTll0dVdoTmFVMC1EVHRnTkhnd2lGTEFYdUJvNkdqdzlLTFFMdXYwS3gyNmdTWTBFc3RDX3FBVWdfc2RXMERLSFpkUTMxTHpDRWRuNnBKYXkwcUFhUXlFSTNIdFBGU0FyV214X1JmTUdZeEhtUC1yZw?oc=5",
+      "published": "Mon, 14 Sep 2026 14:28:46 GMT",
       "label": "News & research"
     },
     {
       "type": "news",
-      "title": "Women’s health is a workforce issue",
+      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1BJVDJuZUh3SVNRc3FrdUJ3QVg3VHJJQzhzM040SktVN1EzZENhdjQxS1NaZV9JM0tnN212elA3SVNPRGpaQjBsTDc2TWN5WVpEX0FyZEpKb2phdzZMcVE1dlliSktCQkc3VndaMncyUE1hVGc4elBvaU5zUWpqV0t3MU5HT1E?oc=5",
-      "published": "Fri, 18 Sep 2026 10:12:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
