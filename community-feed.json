@@ -1,28 +1,12 @@
 {
-  "updated": "2026-09-20T16:11:02.825122+00:00",
+  "updated": "2026-09-20T20:51:55.069969+00:00",
   "items": [
-    {
-      "type": "news",
-      "title": "World’s largest menstrual fluid biobank will transform understanding of menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYURqZU13ajRxWlhScTVmcHVvbFNsWWJkSk91bWJwMzZ1cGdvRVhSQldHZEk1VE9nSmUxR0NTbHpkOHZRNGRTSFh5UUl1cVlfaEhLN3Z4VTN0ZmFxTFBqWlg4QXJyalZPWDZUODhBZmJyUUUwTVJHamVaR2sxMjhEUVd6Y2g5ZFNiSWtOdFlBbnVWOE9PNEdIMUFlTXgya1dvQXdIWkIwUFZtZ21RczE3MGppaUtEbmhIQ18zbm05VFBBOUg3S2lFVHlKaC1kQ3NIaWZJZ00ydUtPbVJRV1FUdURESkQ?oc=5",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Who’s at risk for painful periods?",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmODlkanNNNHJmclJrbnBJajlpUzJ5R2dpSUtzYi1MTzRHbEdPc2d6RDUzSDM2cGJWbzBUQnM5WFRnSWRXTzFzYjRvZFhIaEM5VTdtLVZfa3dSMEw2WmdtMnY3aDdqa01VVjJzLTRzYmg?oc=5",
-      "published": "Wed, 16 Sep 2026 12:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -51,10 +35,26 @@
     },
     {
       "type": "news",
-      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "title": "A foundation model for capturing complexity of menstrual health data",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Call for experts: new WHO guideline on menstrual health",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -75,14 +75,6 @@
     },
     {
       "type": "news",
-      "title": "Women’s kidney health may be overlooked, delaying critical prevention and treatment opportunities",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWVg4R0ZDVkNodldGLV93bmpyNDltZVRvalFHSG5rM3NYSkpoT1NGVmhlLVZqc1pVRmNxbEhqaDhESk1PTGhidXg5T2x2ZXQydm5aeV9WeFp4YkxVMmN6Y0lmeWZWSVhwMDlIMjRkVDZrWVU2RGpreXNpTGxyTnJKVzlqTkFXLVhBeFdvUWw4OEs3bUZRT1o1Tl9TdlBxb21ibkFtUmhHLWpqLXNheGlnQXVMVmFmaGRiZE93T3JmMXhTZWNWeGc?oc=5",
-      "published": "Thu, 17 Sep 2026 13:03:50 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "$seo->meta_title ?? Pathology lab & Diagnostic Center for Blood Tests in India",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlNmUlM5LWNNT0JrRzBUT0o3OXpaUzJzUnZnUzRmakhQSkFGeHVKWTNMYXZTcXUtckdXaUtSQkI3eUcyUF9yY3NjaXNDcUZxckdPd3FGQ0YtcGlNVEpGMkR2dWNFaUJtbFhqUUgwNTZKZ1EtZjNvdm1VOVdVczJyZ1pFRzJCVVU?oc=5",
@@ -99,10 +91,18 @@
     },
     {
       "type": "news",
+      "title": "Are girls getting their periods earlier? And can parents do anything about it?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjRPWDFHdlFYellIQWRXQmxoVjBlN1htRnRUUFFhRXB2LUlUeEwtLXkzT0dZOHVGdFdpd3RoTDhrSmd3MkZxaFJzb2VXNzlCbXBnX1NlLWhIbTdKUnZmMHo5cXYxVUd1a0doMnNGcmlJbW9leTEwYTFsYzlUbUllM3pGM2VjcmxpU1dpaXBXQWZDYVJzZTRBRG1OdlJCOTZYa1hXTXV1T1lqSFprU2R5TA?oc=5",
+      "published": "Sun, 20 Sep 2026 20:13:34 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Rising Sanitary Pad Prices Deepen Menstrual Poverty in Iran Threatening Women’s Right to Health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzY5c05sWWU1eWh5bXNwekdENkwtR2NtTmwtX3pHd0FVZFk4ekdpVWpoU2tFaEpfaGFKNjBlUGhKaHBMdndUM3MtSW90QTRhTVo1emJ3RTRmVU5pOUdsektvRHZraHJfZ3IySVFJWktRTFpJX2ZzUUM2TnZHZmdiMGpFNEdQOWEyMzRaNmFleWlOSno4dUpBdWhEbVo4NWEwYk5CWHpkYVBIQ05sV0VndEhNUGxMNUxQYVktUkFfOA?oc=5",
-      "published": "Sun, 20 Sep 2026 13:48:04 GMT",
+      "published": "Sun, 20 Sep 2026 08:34:32 GMT",
       "label": "News & research"
     },
     {
@@ -139,26 +139,10 @@
     },
     {
       "type": "news",
-      "title": "Born in Bradford joins major study into periods and menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGZPTjVEbUM1akFxWlJ4VzhKZ0lrbEVfSU1YdHFsdlAtQ0Y3bWdObVZTUlNwYll1Z0xaTll0dVdoTmFVMC1EVHRnTkhnd2lGTEFYdUJvNkdqdzlLTFFMdXYwS3gyNmdTWTBFc3RDX3FBVWdfc2RXMERLSFpkUTMxTHpDRWRuNnBKYXkwcUFhUXlFSTNIdFBGU0FyV214X1JmTUdZeEhtUC1yZw?oc=5",
-      "published": "Mon, 14 Sep 2026 14:28:46 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
       "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Shruti Hassan says she prayed about thousand times that men get periods, reveals having PCOS: 'It would b",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOMUpiNmRvVEFKUTNoOXU0RVBKZTcxTzR5TEZLeTlKV2Vpc29iVlNfWk5ibUpRSnlLOEtrNWlMWmRpR2ExU0NQeFZ5S1hjYVpsRllhRE5mNkJiN2dEZElwaGJ3Q2o3Y3hfZGdxV0lad2M3R1R2WlladWM4RGlNVkRHQnJxWTY2M0VzZ2xlalNqQ1N1V3pRTVVhcDZuYzVOdE1VM2FpZ2Z5TFprODdkSm5qc1hXbVBWLVNMNFdNaHd0TTUwQ1FUWWY4VjZ1dG9EaVhTSWR5czNuMnNDaVJtXzNqQ3NDNlJ5cmd4N3hMQ1F4SWFqTEdGR1ZzbnNvUWpjaFY1eHhEemF2VmlCZ3k0V0ttU2VLQms5UHliUWE3VUtsMEk1cVpOREpzUDlTRU5TY2V3enRrclNqTHR2Wk1HNUtuZWl6UXNTTGRodk9LN3ROdlI5d2VmeWxnM2s3aEpoZGh2ZlNqR3BpaVJ5Ni16cGlF0gH0AkFVX3lxTFBRRG1uNlY2LXM1X1ZuaW5US0s2dE82SjVYa0JIMTI1cmhjcS10WFlYcnJObVZQN2ZPd2tSWFpsbF9PYnBLVmlOcm9QSU9fS05hUGg2NlFfZlBCVDJuOUVNTUIxR2ZSdzMtbG9wbWNIVE5QczZCTW1HZ0tqQjN5azBiNmw1Y2drajk5TFI5NWlzaWZWN05XTmJRWEtnaU45aVpiSmNmRk9CUTlJeU5WX3FjNUdHemJKNlZ4RXpzX2FDdlJzMk9wRUF4aUM3eEVZZi0xUVp4cTI1dWF1Y0VLekw2SUYtRXFVcmUwWm1CQnVSbm5EUEVZQ0ZGSFhBZnB6b3lNeTZSVkJKZ3ppQmJ1Y21nTV9QemtFNk8yWGE1eVJRMVBDQUwydXU1eGhkSnVQRWhlWGxVRDFtd1EwelBWS1dzczNqNUM4ci1rd0ZjQmlKNWd2bWpiOG15eWNpaUxRQ2V0TV9FRERybk05MWx0dTdUUDliTg?oc=5",
-      "published": "Fri, 18 Sep 2026 12:56:00 GMT",
       "label": "News & research"
     },
     {
