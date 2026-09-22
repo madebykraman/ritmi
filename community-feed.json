@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T11:43:45.210191+00:00",
+  "updated": "2026-09-22T16:59:49.809950+00:00",
   "items": [
     {
       "type": "news",
@@ -31,6 +31,22 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
       "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Employers should review health polices following ISO menopause and menstruation guidance",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUk4ZmVfMERUSWN4TlpndFp5UmxXWi1EQ01yRXZITWFaU0htYWt1b2dJSk93SERIUVpUZVlCeHRHSEZSd0NRWGYydVo0cUFfa3Ewb0VadFE4SXRnZy1tT2dEbmNxa0JmMHF4VXVmVUpMUHhxNDdRSTl3b3AzSWxZM1BrZENBRlBVaHVhamY2NzBZQ2laTXlUMzJCeWlvZko4SVZ5UzdETXZ0SW0zM1RnaGROUC0?oc=5",
+      "published": "Tue, 22 Sep 2026 14:03:13 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Lua Launches Privacy-Focused Period and Birth Control Tracking Application for iPhone",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNellqd0NINXBDZmlqR2xta0xyM3ZMYk9IUVVnNmREckg2TTVVZVBlTjBfQ3NwWXVJT3ZfUkRmWS1iNHVBTDAweHdxODQ2X2IzWmtlc0RwdDRkZ2FZb2YtaHV3ZklUMW1ndGZJWUVBVHdOWktkZGJZajlWaTdhakNXSFZvMkhRUFBzUHlmUTZGRHhfaDgtRHppMVV4X1lXN1lGb1Jub1M1VkZiTF9BTXhOVV9fRG5TaDRRajVWUVJrZE9hTEtoRzN3eVhkZGgyQWttb0U1bGVRcmVwcm9hQ3lzdnVFMTk1R3YtWWlNT9IB8gFBVV95cUxNaDJwa290Zzl0OFJ0dXVSZ2tkcm83b1RQS2RZbzU0dThvZkdCdmZPTm00eXMyRTFzT2U4MklPRVREWDFRdHVDWXBsNnNrNko3bm5QTEFHYThnSjlWZU5WMmZPanFfRWlEcXJzcUtjN3htSkJsendIakd1MjBZRTRvaERDQVRXYjlha3ZHemJCTF9OYzEyMF9pT3Q2N1ZmLUJFZmRNVjl5d0N0MVFEZm1mei1YdE41Wm50UDFwNkMzUDBiVHFPVHlsbF8zNlYtRTVrQlhZMXBaQXFSNFhtaldEaDFOSlFVc3VxYmdGQVBfdVBtdw?oc=5",
+      "published": "Tue, 22 Sep 2026 12:30:54 GMT",
       "label": "News & research"
     },
     {
@@ -111,22 +127,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
       "published": "Sat, 23 May 2026 12:15:05 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "The Broken Silence: Dismantling Menstrual Taboos in JK",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGZLV0t3VnNsQ0ZEOUstOXJHNzN0MExSNFh1R0xZSmR4YVg1NzZIU2FSYWoxMEQ0N1FzVlJCUS05aHBpMDdqV0hfTzRjZjBzTjY0bGwyUk9hYUJIOVlSRExSYmh6N2dLc2FGMGw5elhZa3huX3R2MEpDbHNhQ3kwaWJrblNDUEk4NEE?oc=5",
-      "published": "Sat, 19 Sep 2026 18:55:08 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "How secure is your period-tracking app?: Some share more data than you think; here's what you should & shou...",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGpBMTJ3dDBSc2VoYVBsS2hobmlIeUp3QXlqLXpKcjJjSmN3TVF4ZkowQlpjNFhZVFUtUVNBTHcwcVJOdzRjU0NRVG00eUt1UVdPMzVMbllST0VaaXVqcHgzdWYzMFBuZjRFM0sxdGw3aVI2Y1NmNzdJSVhmdjVRZEEzckJZWFF1NUotMEc4VG1aSnJDOGpVY1duRTRuVG1mQTVHX00yZ1p1Yk14UVVLUVBVMVdiREHSAbwBQVVfeXFMTUhGNFI4eGdVa0w1UmJrUWRSRG5wTWp5TkF2MUFvZ055S2FYcXppdnQ0MUQtQ0lKa1U0T1Nrd0JRQklwTHcyOENjeWttWG8zX3FEcU1WWWNEcHk2RTQybDlneVBPYld2NHNyajEybWZLZ0hBNUxvZnB5al9MQmtXa2hCRnRUSFNxbnY0bU45WURXbUFhazZkQmUtYXY2WmZQcUE3SHNkYThhLWxUX2RWWFo5c0k4aGlrVURWNXA?oc=5",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
