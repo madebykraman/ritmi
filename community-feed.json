@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-22T21:22:32.158461+00:00",
+  "updated": "2026-09-23T04:49:01.452576+00:00",
   "items": [
+    {
+      "type": "news",
+      "title": "Lack of hygienic menstrual shelters posing health risk to tribal women",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNamY5UXNsNll3dExiaXhwcHo2ZUdlTzVyWTZaM3JtdzJQMVAwei1SR1ZXdVRTRE9EVS1pRVRuUVZFOVJZMGM2N1lfLVdXZGpxN25HUHpPXzcyZ0RTb3hDc0ViWVVnRXd2RW42cERNaWVROG1vNUkzVG1NT0N1X2ptWTlUUWJ1OVFUc25rTk9Ed2c2emtqeXFHNDBaNm5vMHdTM2RIcjVCRXBuVVlrazZLN2dUallOZm5NZWVEUmFpeVZ1S3QtU2Q1eC1MS19wR19jV1HSAdgBQVVfeXFMTWJxRkdVVW5NTUVvOUcyLUd6Z0F4dl9nSFM1aUJzOFBYam5UV1laUWxEb2hPd0RLVjhOSzF6WWZYc0NMZ1cxY0RaRGpic1Y5OEhVYVFOeVo4NGpReVRKQTNRcGY5c3loTUdQOF9lSmFJTEgyYlZDSXJ6bC1KaG4zWXFNMW1oM3NtQ0o1MEtiRWlVeUNUZTJObWpvY2tZRE5rdlZfN2FtLXZPS3czRWFXNE9rc3djRUE2d3R5am9KUFhFdTViemF5ZHh4T3puTm81SUJkV2dvRTZY?oc=5",
+      "published": "Wed, 23 Sep 2026 01:34:00 GMT",
+      "label": "News & research"
+    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
@@ -27,10 +35,34 @@
     },
     {
       "type": "news",
+      "title": "A foundation model for capturing complexity of menstrual health data",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "The new UNAM Menstrual Health Clinic offers medical care, nutrition counseling, and psychological support: find out how to make an appointment",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTRHpYa1QzNDJsdlo0S0lFWDJHYzdsenUzX0ttNDNPeHNKaVViaHV6V1NDME4tZmJFbUFHdkpmMjNUeEpoVkt2M3J3SGRrZjJ3bFNtSHF4azFmYnZOM0RFZDRhTXJNd2s?oc=5",
+      "published": "Tue, 22 Sep 2026 20:05:15 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Report on menstrual health project released by Punjabi University",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnJzZk1rVG5sdlloWllEM0RDTGhsa0lZT0dwNTFRblBqMG1vLXd5UWtsLWZOT0hXOU9mMjhaMmRySGlGaVNpQ1EwYmw0T1RjUnhBNnZldllmWGhsVS05dWxINTZtNmlJUGVwVERYNFRoejVvRG1FdFUyY2NRVnRlZHZpUTBlYmZPQ29BMjBxcERmOU9SalRZN1N1SzdjdFVRcEEwTm00MkxqWDRj0gGwAUFVX3lxTE9ZanpnbU1RR3F2cnhWR3U4b3JEWmN2RmEwMFRSYWhfMktJLXBRcEhRNnFPa1pXYno0OHlnVlk2NG0weF91U3hJOENRUHNWXzNkYktScDc3bVFoQ29EX2tGaXRDWjJKN2hMbmVrUGQ1T3RPT2xuMmZOV1RLM3lYVVBaMXgtOGFCcEEzN1ZSbmtyVXlKY0ptYlJqMGZrdlpGbmhSWXlTVlhvR0x0RUtqaVk1?oc=5",
       "published": "Tue, 22 Sep 2026 19:37:08 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "New study highlights opportunities to advance women’s health research across the lifespan",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFU3WndON204Ynp3Mm1mSWRLSHJHckR1Z3J0SVFVbHc5dGkxX1lIaS1kWWVxTUJTOFBKT29BTC11OGZLdVN6VDhxNmF2NWtuV2dKNVJFN1RncGxkRGl6VVl5OXU2VlV6RmdoZjk5WE9Ta01Tby1WZXhyZVMybXNIY2hqLURBdTBFZUFSZHNrZE16eWxjdDFnQ0VDM0FNMWhnS1JDWDJISUYzWWwyaEViR0V1YURKUGNFRW45SWhRSDY1NkVFOTgyZENOcG1sTXJmbEZ5Nw?oc=5",
+      "published": "Tue, 22 Sep 2026 19:09:20 GMT",
       "label": "News & research"
     },
     {
@@ -43,34 +75,10 @@
     },
     {
       "type": "news",
-      "title": "Bradford women invited to join periods research project",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13M0JzR041LXh6ZWZIRU91eXZKR2N0ak9zMG92QTJ6RzFvREFvNmd1M3hzR2dLY3VRUVVSenR4UXNxVGtPX01ndUh6a0NVTC1DWXcxRWJTOEJWZ1E?oc=5",
-      "published": "Tue, 22 Sep 2026 05:12:06 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "8 months after SC’s menstrual hygiene mandate, states report major implementation gaps—Centre affidavit",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYTNnNjhaYWhjQXlSX29BWmF4ZmNrZmxpOEhFalBZU0tfTTJxMG1kREpCcm52QkRtb2l0TlBoeWxFVU1jaWFsdGFPVnZtRUc0T05qQzFwMGk2UXl6V2tNT3lZWUlxd042RWo0aEQxMXVTdWFNdF81T2kycEtqSHZOOHJnWmVuZEg3aXctVkdvRGNuNmFQSllfYktJX3RCZnZKUzBZX09wSndNV0lNSWdTdmZqQ0txRS1HWTlJVjF3TjNNUmZ0MWZ6LUtRcjRGN043M2hIUnRqa9IB3AFBVV95cUxNMWsyTEZZTzA4TmdsZEM0bS1tQW5CRU5yNU1Fb2FCMmtHZHdrcGdCQlZWeWlYMGk1UHQ4dGtpc2JMeThYVjQ0OWhCUlU3RENjQUs4Y0MzY3FyZFpEOGJBYXdGOUlPVGs5UWxnNXg1ZGhIZjRSaGFJMnlXRU8tNDB2WVJ3WTN4a3JiZlBuTTRQRzdaWEZuWDdwQmRDU3ZzbUFqZTlsQlA1RDk5dC10T0JCbnVKbnBQSVl0T3VIRllIa0loSTVvc0xjSldMOFd1c0tNd3ZESkxKOFBaUC00?oc=5",
-      "published": "Tue, 22 Sep 2026 04:54:26 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Call for experts: new WHO guideline on menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
