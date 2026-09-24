@@ -31,6 +31,7 @@ jobs:
           cp icon.svg site/icon.svg
           cp ritmi-storage-v4.js site/ritmi-storage-v4.js
           cp rebuild-v4.js site/rebuild-v4.js
+          cp rebuild-v4.css site/rebuild-v4.css
           cp rebuild-v5.css site/rebuild-v5.css
           cp ritmi-experience-v2.js site/ritmi-experience-v2.js
           cp community-feed.json site/community-feed.json
