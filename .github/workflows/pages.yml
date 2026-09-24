@@ -30,8 +30,8 @@ jobs:
           cp manifest.webmanifest site/manifest.webmanifest
           cp sw.js site/sw.js
           cp icon.svg site/icon.svg
-          cp ritmi-storage-v4.js site/ritmi-storage-v4.js
-          cp rebuild-v4.js site/rebuild-v4.js
+          cp ritmi-storage-v5.js site/ritmi-storage-v5.js
+          cp rebuild-v6.js site/rebuild-v6.js
           cp rebuild-v4.css site/rebuild-v4.css
           cp rebuild-v5.css site/rebuild-v5.css
           cp community-feed.json site/community-feed.json
