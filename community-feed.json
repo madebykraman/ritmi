@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:15:00.113101+00:00",
+  "updated": "2026-09-24T21:33:31.876445+00:00",
   "items": [
     {
       "type": "news",
@@ -35,14 +35,6 @@
     },
     {
       "type": "news",
-      "title": "A foundation model for capturing complexity of menstrual health data",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
-      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Bradford women invited to join periods research project",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13M0JzR041LXh6ZWZIRU91eXZKR2N0ak9zMG92QTJ6RzFvREFvNmd1M3hzR2dLY3VRUVVSenR4UXNxVGtPX01ndUh6a0NVTC1DWXcxRWJTOEJWZ1E?oc=5",
@@ -59,18 +51,26 @@
     },
     {
       "type": "news",
-      "title": "Call for experts: new WHO guideline on menstrual health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Bonn Dialogue: breaking the cycle – putting menstrual hygiene at the centre of environment and health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Employers should review health polices following ISO menopause and menstruation guidance",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUk4ZmVfMERUSWN4TlpndFp5UmxXWi1EQ01yRXZITWFaU0htYWt1b2dJSk93SERIUVpUZVlCeHRHSEZSd0NRWGYydVo0cUFfa3Ewb0VadFE4SXRnZy1tT2dEbmNxa0JmMHF4VXVmVUpMUHhxNDdRSTl3b3AzSWxZM1BrZENBRlBVaHVhamY2NzBZQ2laTXlUMzJCeWlvZko4SVZ5UzdETXZ0SW0zM1RnaGROUC0?oc=5",
+      "published": "Thu, 24 Sep 2026 13:20:08 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "PMOS Signs Beyond Irregular Periods: Nutritionist Shares 4 Lesser-Known Symptoms",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFVDeDBHS3NwSEFYeG90VFNrOU41bGpmS3hrS1cya2d5bzZVLWhyWGZxYk1lVzQyZjRhSW5hQ0daemNUM3BtcE9nZUs3UFhJWS1wZndzRjh1TUwwM1BTRDJtSjljVmJaV0wxM0hkdVRmX3FWRW8zNXctb0N3UmdzWmR2U0FZN29PVjJNU1h4clhzYVRQRUg4QjVWejNvcV9UeVhuQmRObVltVDdhQWR4WS1ieUpSclc3SG4zeUtMU09nbW40X0J0NVRR?oc=5",
+      "published": "Thu, 24 Sep 2026 13:06:55 GMT",
       "label": "News & research"
     },
     {
@@ -127,14 +127,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGpBMTJ3dDBSc2VoYVBsS2hobmlIeUp3QXlqLXpKcjJjSmN3TVF4ZkowQlpjNFhZVFUtUVNBTHcwcVJOdzRjU0NRVG00eUt1UVdPMzVMbllST0VaaXVqcHgzdWYzMFBuZjRFM0sxdGw3aVI2Y1NmNzdJSVhmdjVRZEEzckJZWFF1NUotMEc4VG1aSnJDOGpVY1duRTRuVG1mQTVHX00yZ1p1Yk14UVVLUVBVMVdiREHSAbwBQVVfeXFMTUhGNFI4eGdVa0w1UmJrUWRSRG5wTWp5TkF2MUFvZ055S2FYcXppdnQ0MUQtQ0lKa1U0T1Nrd0JRQklwTHcyOENjeWttWG8zX3FEcU1WWWNEcHk2RTQybDlneVBPYld2NHNyajEybWZLZ0hBNUxvZnB5al9MQmtXa2hCRnRUSFNxbnY0bU45WURXbUFhazZkQmUtYXY2WmZQcUE3SHNkYThhLWxUX2RWWFo5c0k4aGlrVURWNXA?oc=5",
       "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Does Eating Red Meat Help With Iron Loss During Your Period?",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nVTdPdGdGT2l4bEI3NDFwbjV6dnVZUjZYTGU0RzlYXzFpeWg2WG1ydi00My1ublFoZklUVDN5aWdVYVl5VzR3UFhsTnRiQm9RRi05anNfWld6cFV3aWNJcTlHN3I?oc=5",
-      "published": "Mon, 21 Sep 2026 19:05:15 GMT",
       "label": "News & research"
     },
     {
