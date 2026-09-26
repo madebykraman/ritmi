@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-25T21:37:29.825287+00:00",
+  "updated": "2026-09-26T05:03:37.972521+00:00",
   "items": [
-    {
-      "type": "news",
-      "title": "Lack of hygienic menstrual shelters posing health risk to tribal women",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNamY5UXNsNll3dExiaXhwcHo2ZUdlTzVyWTZaM3JtdzJQMVAwei1SR1ZXdVRTRE9EVS1pRVRuUVZFOVJZMGM2N1lfLVdXZGpxN25HUHpPXzcyZ0RTb3hDc0ViWVVnRXd2RW42cERNaWVROG1vNUkzVG1NT0N1X2ptWTlUUWJ1OVFUc25rTk9Ed2c2emtqeXFHNDBaNm5vMHdTM2RIcjVCRXBuVVlrazZLN2dUallOZm5NZWVEUmFpeVZ1S3QtU2Q1eC1MS19wR19jV1HSAdgBQVVfeXFMTWJxRkdVVW5NTUVvOUcyLUd6Z0F4dl9nSFM1aUJzOFBYam5UV1laUWxEb2hPd0RLVjhOSzF6WWZYc0NMZ1cxY0RaRGpic1Y5OEhVYVFOeVo4NGpReVRKQTNRcGY5c3loTUdQOF9lSmFJTEgyYlZDSXJ6bC1KaG4zWXFNMW1oM3NtQ0o1MEtiRWlVeUNUZTJObWpvY2tZRE5rdlZfN2FtLXZPS3czRWFXNE9rc3djRUE2d3R5am9KUFhFdTViemF5ZHh4T3puTm81SUJkV2dvRTZY?oc=5",
-      "published": "Wed, 23 Sep 2026 01:34:00 GMT",
-      "label": "News & research"
-    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
@@ -43,6 +35,14 @@
     },
     {
       "type": "news",
+      "title": "8 months after SC's menstrual hygiene mandate, states report major implementation gaps—Centre affidavit",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYTNnNjhaYWhjQXlSX29BWmF4ZmNrZmxpOEhFalBZU0tfTTJxMG1kREpCcm52QkRtb2l0TlBoeWxFVU1jaWFsdGFPVnZtRUc0T05qQzFwMGk2UXl6V2tNT3lZWUlxd042RWo0aEQxMXVTdWFNdF81T2kycEtqSHZOOHJnWmVuZEg3aXctVkdvRGNuNmFQSllfYktJX3RCZnZKUzBZX09wSndNV0lNSWdTdmZqQ0txRS1HWTlJVjF3TjNNUmZ0MWZ6LUtRcjRGN043M2hIUnRqaw?oc=5",
+      "published": "Tue, 22 Sep 2026 04:54:26 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Call for experts: new WHO guideline on menstrual health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
@@ -63,6 +63,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Employers should review health polices following ISO menopause and menstruation guidance",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUk4ZmVfMERUSWN4TlpndFp5UmxXWi1EQ01yRXZITWFaU0htYWt1b2dJSk93SERIUVpUZVlCeHRHSEZSd0NRWGYydVo0cUFfa3Ewb0VadFE4SXRnZy1tT2dEbmNxa0JmMHF4VXVmVUpMUHhxNDdRSTl3b3AzSWxZM1BrZENBRlBVaHVhamY2NzBZQ2laTXlUMzJCeWlvZko4SVZ5UzdETXZ0SW0zM1RnaGROUC0?oc=5",
+      "published": "Thu, 24 Sep 2026 13:20:08 GMT",
       "label": "News & research"
     },
     {
