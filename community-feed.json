@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T14:02:04.055100+00:00",
+  "updated": "2026-09-28T23:19:02.069825+00:00",
   "items": [
     {
       "type": "news",
@@ -15,6 +15,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
       "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Menstrual fitness: Why some women are 'cycle-syncing' their workouts",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13VTV2cDgyNi1qT3hpemNNaVFib0duWUUtTEVHMkRQbFIwdXR2TF82OXY4WnFoaFIzV2RIWjV0VVBaU1dsSWVhWXR1eW1wYnZEYWh5S0dFVUZYZw?oc=5",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -51,34 +59,18 @@
     },
     {
       "type": "news",
+      "title": "Dutch privacy agency warns of risks in period-tracking apps",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3ppRjVWQ2F1cE5ZdDdvMy1ubUwxTk52VkI5cEFtVWptQ1YyajZTRUpwekdNMi0wME8yRFhFWVc1ZUJKUGstNm9hM2VsaDhCT0t5eDBGMmM1a21Rc0l5Yk9kLVRPd1ptUlZwa0R3NnZmQzI5VnFJLVZOaGZqcllWODBabmhvWlh6WGxF?oc=5",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Bonn Dialogue: breaking the cycle – putting menstrual hygiene at the centre of environment and health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Employers should review health polices following ISO menopause and menstruation guidance",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUk4ZmVfMERUSWN4TlpndFp5UmxXWi1EQ01yRXZITWFaU0htYWt1b2dJSk93SERIUVpUZVlCeHRHSEZSd0NRWGYydVo0cUFfa3Ewb0VadFE4SXRnZy1tT2dEbmNxa0JmMHF4VXVmVUpMUHhxNDdRSTl3b3AzSWxZM1BrZENBRlBVaHVhamY2NzBZQ2laTXlUMzJCeWlvZko4SVZ5UzdETXZ0SW0zM1RnaGROUC0?oc=5",
-      "published": "Thu, 24 Sep 2026 13:20:08 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "The Real Trade-Off Behind Flo Health’s Personalized Period Tracking",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFdRdTM1ZUVnSGwwYUlIX0FtbWJ5elp1aXNCdmwySjh5STM0MTA0eUdJX3dKb09uallIeFZtVExsdXd3R0NuTjU2aGNDelM0T2h2NzJNNlRqZExrLUl1LWYtNVlZNnBSSEk3ZkdUXzg2TzNXZVRHV3FrOUltd3NUYkI1bGRTbExLMlQ2UklEWXdjYTNQSDMybnV0TUlhdzcxbVZzOU9R?oc=5",
-      "published": "Thu, 24 Sep 2026 11:35:18 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "5 reproductive health goals every woman should set: A gynaecologist shares simple steps to protect fertility, manage periods and stay healthier as you age",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPd1BsUzlWT3pEQ2plZWE0cUo4Q3RqM213WFhmZHNfc1c0YTd6dERob1p4cXNQWWg5NzJPZGpJb2VEZ0I5QWd3NW8xb3FSbm83Mm1pdVBDQzFQWFdmVEs2WjlOc0JsZ0FNUHF6MlhkSkhOdTRQbnNwdzJjd3E4N2l2UHZ2WXNNTjhDemlzV1FEUFZTeExSeDloV0hLU2N6VXVfZ0FCXzlxa0pYS0V0cnNGUEEtbjEwWUFqMlhuVnNFU0NweGRIYnpkeldSdVExVElWR2g0QlpFYXFwXy1nRFhNTVhoc0NBcXh6UUJEZWRKLVZIVk5GS3M5QzNjWURUeV9CQzlLRHI0N1Bpc25QSHhkQi1Id2xpRkFSMUFMbnl6ekNsQTZvQjFaLUNnVW9ieUx3MkF2TUhCNnA4Wm9TSW92TVAtMmNsSWVnYnppN01B0gHWAkFVX3lxTE4yaHJFeDZ1dDduNzdkMjJheVQtRVdKWDl2MkVFVGN5NWgxM3poYWduMVdraWpIUTA4NjEzNjM2a1k0TXRabDdzMUpCOVg5dWkxdS1BNkU1Wkl0SWRFcHVFQTVaTFl0b2JNU1NCTE92M0lzdlROd3RUNFQtOVVUZXFlSlpJaC1uZzFQSThfODNBNGVDTDNRQ19valctQ1Z2ZTFRcVdJcnc2VnRwckNuZ3RNLU1SWGg4a0Z1VDR3SWIySVA3ejJIZXAtNWlwZG5fTmJFSE9jSnA3MVNtTTBaMVctU0xHYTE2S01zVWp6QnVnS09ZUjBtaWU2RkVLQjJsZ1hCeDJkSnI3dUoza3M3eE0xUG9iR0pYbzgybXhfQ0FoSFVmWUVRc2ZYWjFTejk1WWlfWThYbDJKeENaYng1N3paa2ZVeG5iUXk3QVFVLVd5U004RHpwUQ?oc=5",
-      "published": "Thu, 24 Sep 2026 05:38:33 GMT",
       "label": "News & research"
     },
     {
@@ -123,10 +115,18 @@
     },
     {
       "type": "news",
-      "title": "From skipping meals to delaying pad changes: Period habits that seem harmless but can impact your health in the long run | Health",
+      "title": "Women's health drinks offer retailers new growth category",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNMDhHZ0NEZS1YZWJjR01hYnRHSFNYalZ2SlFiYUdGQlJBdS15T014Q3doZ1lwdVRJMzlsMWlQV1N5cXVfdUhvN2o0U0Z3bWRHX1pGM0lMQzlvUUlNbVB6eWdMcWRLc0s2S1hJLXBmQmNwV3Z0RDlLUFZ1VFBkZTlwSDlkRFA3aGxxcjcwdE5mekt6T3BnUElfd24zcW40OEpXTEREbUZGbVBNV2JGU2FFYkdOM3RNVWxtcTdLNEd0a0syTWVyWml4bDV5ZENLa3NCTnYtQl9lYkV3OUlHbUJDNnROV0d0MDY2clVXQjBHbk1DYXVhcmR0RVROZ21ROG5tb3kwbzc5M0tRNzFLd1lkenctMFQ1dWdPSlVTd9IBnAJBVV95cUxNMDhHZ0NEZS1YZWJjR01hYnRHSFNYalZ2SlFiYUdGQlJBdS15T014Q3doZ1lwdVRJMzlsMWlQV1N5cXVfdUhvN2o0U0Z3bWRHX1pGM0lMQzlvUUlNbVB6eWdMcWRLc0s2S1hJLXBmQmNwV3Z0RDlLUFZ1VFBkZTlwSDlkRFA3aGxxcjcwdE5mekt6T3BnUElfd24zcW40OEpXTEREbUZGbVBNV2JGU2FFYkdOM3RNVWxtcTdLNEd0a0syTWVyWml4bDV5ZENLa3NCTnYtQl9lYkV3OUlHbUJDNnROV0d0MDY2clVXQjBHbk1DYXVhcmR0RVROZ21ROG5tb3kwbzc5M0tRNzFLd1lkenctMFQ1dWdPSlVTdw?oc=5",
-      "published": "Mon, 28 Sep 2026 10:31:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUF0bmFRUFdrdjljSVp4TUcxZWZXVXY4WGdoZ1Brc0p3SlI4TGhzSmRXd29QeXZCbTVrNFJNXzVFT3dyOVBHcUdDZ0Vxck43TnY4LWsybC12VnlIc2NpaDJORkZ5UFNob1pDSVZQSW9YcERuOXN0c3NMNjhiRktPMjR4czYtTDBPTFVfbUp3QTJmQ3h5cVJjUEhyaVY4NjZSMVpJV3YxaEY?oc=5",
+      "published": "Mon, 28 Sep 2026 22:26:24 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Can Sex Get Your Period Early? Doctor Explains What Really Happens",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3V3SDJXc1AwZ3dkRzdWM0tGMnk5b250cHo0QTZRMmVIYUZzc2hxQS15dUFqRDhOUWNEcVFqLVhLd0FIcWQ5d0dZaFYxNlpvSGMwOFFOWFUyZE5Ta0UwazZDOFVacmxRdXdTcTEwSzB5eDBVLUZqc2tFemZfYzJ1aURpa2V5VXV1Mlhka2Rn?oc=5",
+      "published": "Mon, 28 Sep 2026 14:38:34 GMT",
       "label": "News & research"
     },
     {
