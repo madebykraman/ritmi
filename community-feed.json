@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-02T05:44:07.161300+00:00",
+  "updated": "2026-10-02T12:41:33.886045+00:00",
   "items": [
+    {
+      "type": "news",
+      "title": "The Best Period Tracking Apps for Data Privacy in 2026",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
     {
       "type": "news",
       "title": "What does menstruation mean to you?",
@@ -51,14 +59,6 @@
     },
     {
       "type": "news",
-      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
-      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Call for experts: new WHO guideline on menstrual health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
@@ -83,26 +83,10 @@
     },
     {
       "type": "news",
-      "title": "Why menstrual-health policy must move beyond products",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnZFSkV5Y090Q3FIUzh6ZExESFJfSnQ1WEV5SVkxRGRMQUowTEhUSmsxN1R3a1pIbm9xWVNvOVhrUnhHZ3pjRE5icEdWdjRISmxxMEIyR0NkbDBaNGliZXNuSjhhVnk4UE9ZS0pXUnVCMDRXcEpRQWxOZTlyY0JRb2dQekd6RnhmaVdoMHM1Slg1SlBqeWlCUzlGSThhcTZfb19YeWc4dGxQTUZRNHc?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "$seo->meta_title ?? Pathology lab & Diagnostic Center for Blood Tests in India",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlNmUlM5LWNNT0JrRzBUT0o3OXpaUzJzUnZnUzRmakhQSkFGeHVKWTNMYXZTcXUtckdXaUtSQkI3eUcyUF9yY3NjaXNDcUZxckdPd3FGQ0YtcGlNVEpGMkR2dWNFaUJtbFhqUUgwNTZKZ1EtZjNvdm1VOVdVczJyZ1pFRzJCVVU?oc=5",
       "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "The Best Period Tracking Apps for Data Privacy in 2026",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -159,6 +143,22 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTNDLXNCSmE5U2dzMS1Oa2Y5dlB0MnNLczFqNkZYWG5yQmJpTnBTdTlXU2JqTk13OWlMZC10TkJfNy04WXA3SVZxZTdNd2FvbnhtNlc0S0I0bHkzb043VXg5cUd3MGVDNDBVWTZfQlZyVWswUFp2YVY2MV85bDdNakFUMXpoWmkxYVpXb1d6LWNlN1FCajFn0gGkAUFVX3lxTFBFajNFYzZ2RVlqVWVtZ0hCcTduRGJ4cTJYcTU1OFZ2ZWttamhjZWFIOUhDbk1XV3FXeFlMYjR1RmxCSnlBa2tjcWU0eVBIdDBfT3FpY1ZvRGpjQk5xa3ZORWhrZklFVWZiWTlFZENtSmNnSS1iN0ppTzNQVGlWMGdWTXJfUkVqUnJRa2xMQ0RRVHl3SlR5TDAxYXk1b1JnLU9jTTRp?oc=5",
       "published": "Fri, 18 Sep 2026 02:54:12 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Nausea, dizziness before puberty may signal risk of painful periods",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3BKMlppejg4NWFxVHZ4bWx5VTdibDNDdzRTeEs2NHNlZ3hvbnlGNWhieldqRjFjY2VydnVLbDBSWHdldGRsaWxQQ3dXaWR6XzlTeThhVUtQbjhENmNfbEw2eVZWcUxPU2JXSEZxbl9jdThKZURJUFlWaWVxWmc0a0c3d1VnNkNNeWtfSnF6aXZSeUYzeEtWeGZLVmE1SGZ6bk43ZHhkcWM4N0tNMkZmdjB0TEVDa2hjQkNR?oc=5",
+      "published": "Fri, 02 Oct 2026 11:23:40 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "The menstrual makeover | Menstrual hygiene in India",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmtWN1I3VWwtUVcteHI0R0N5SjUyZWQwbnpsUUFZWUJPWGdibEJUeW5Jb0t2TUltalUxcTh2RDRvOEpWWWdKZ3R3N21FaFhfMzB0YWpSdmVYb3NSTl9LQ3NOMmN5bjF0eG9ZdjdtdTNRLTRQNXVMd2F0OTYzYmVHc0hERW92dGJOd2lobFlKVGFybDFFY2FZZzJoMHg0amhRazFvNnNpeGtpRER4VDBGRWtQWVQ4NEhoN01IZ0pmalhGSjjSAcgBQVVfeXFMTW9vdGRNV0xZXzY2clloSm56a05BcjVuX1RqUjlYQ3U0T2d1cV9UeWticUdSVHE2ZXVSZzRiZm5NQXlxVXFoTGQyQlRTb2NzYUFMamxNWmpFeFlTSF9DYlJoQTY4VDFfZW5veGdILUdtcjB6b2pnaURDdXBBVDlCNDJIMEROVEU3YnlnV2R4MXRxcFVZTEFSYkJqb0JYbXJHMnRwQ1VqM2NTU1lDNjI2amNXU1hXRldVd3k2aFdxOTBaWHhJMDNMLU8?oc=5",
+      "published": "Fri, 02 Oct 2026 11:12:29 GMT",
       "label": "News & research"
     }
   ]
