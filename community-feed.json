@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T12:26:09.635403+00:00",
+  "updated": "2026-10-04T21:31:34.143211+00:00",
   "items": [
     {
       "type": "news",
@@ -15,6 +15,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93b09WVXI4Q2o0RUQ2N1g2d0RpWFVjSnl3aGZ4SVZnUWgwLURsZU1ld0VXeElieGV0bWwwYXNNbDlTM2hWYTE4NkNvdEdQLVYwY2IyemU4aTBGbWNzZDRENFZwbnpRdzBROUJtd0djN3A5ODBsTkl5MGFMbw?oc=5",
       "published": "Wed, 23 Sep 2026 15:37:43 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Lack of hygienic menstrual shelters posing health risk to tribal women",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNamY5UXNsNll3dExiaXhwcHo2ZUdlTzVyWTZaM3JtdzJQMVAwei1SR1ZXdVRTRE9EVS1pRVRuUVZFOVJZMGM2N1lfLVdXZGpxN25HUHpPXzcyZ0RTb3hDc0ViWVVnRXd2RW42cERNaWVROG1vNUkzVG1NT0N1X2ptWTlUUWJ1OVFUc25rTk9Ed2c2emtqeXFHNDBaNm5vMHdTM2RIcjVCRXBuVVlrazZLN2dUallOZm5NZWVEUmFpeVZ1S3QtU2Q1eC1MS19wR19jV1HSAdgBQVVfeXFMTWJxRkdVVW5NTUVvOUcyLUd6Z0F4dl9nSFM1aUJzOFBYam5UV1laUWxEb2hPd0RLVjhOSzF6WWZYc0NMZ1cxY0RaRGpic1Y5OEhVYVFOeVo4NGpReVRKQTNRcGY5c3loTUdQOF9lSmFJTEgyYlZDSXJ6bC1KaG4zWXFNMW1oM3NtQ0o1MEtiRWlVeUNUZTJObWpvY2tZRE5rdlZfN2FtLXZPS3czRWFXNE9rc3djRUE2d3R5am9KUFhFdTViemF5ZHh4T3puTm81SUJkV2dvRTZY?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -83,14 +91,6 @@
     },
     {
       "type": "news",
-      "title": "Why menstrual-health policy must move beyond products",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnZFSkV5Y090Q3FIUzh6ZExESFJfSnQ1WEV5SVkxRGRMQUowTEhUSmsxN1R3a1pIbm9xWVNvOVhrUnhHZ3pjRE5icEdWdjRISmxxMEIyR0NkbDBaNGliZXNuSjhhVnk4UE9ZS0pXUnVCMDRXcEpRQWxOZTlyY0JRb2dQekd6RnhmaVdoMHM1Slg1SlBqeWlCUzlGSThhcTZfb19YeWc4dGxQTUZRNHc?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "$seo->meta_title ?? Pathology lab & Diagnostic Center for Blood Tests in India",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlNmUlM5LWNNT0JrRzBUT0o3OXpaUzJzUnZnUzRmakhQSkFGeHVKWTNMYXZTcXUtckdXaUtSQkI3eUcyUF9yY3NjaXNDcUZxckdPd3FGQ0YtcGlNVEpGMkR2dWNFaUJtbFhqUUgwNTZKZ1EtZjNvdm1VOVdVczJyZ1pFRzJCVVU?oc=5",
@@ -99,10 +99,18 @@
     },
     {
       "type": "news",
-      "title": "Menstrual tracking apps lack evidence of health and performance benefits - News-Medical",
+      "title": "Menstrual tracking apps lack evidence of health and performance benefits - news-medical.net",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3dtTDFqanpWZjlyZllkemN5c1l1UVBsQXlVMko2bkNNcXZGRkhFTE5TdE1qRmhxMHZwZVRsaU0xZVI2ckp0U1NXejFUNWlPRlFmZWdvQm95bTZRQXF2N01yeDlCb2laYjVOUTdNUTlUV090OVJ0LWt4bWRxVEYydThxNDRXcEhGMHRieUlEc1k3Y2w3ZVRwblBxc1o0eC1qdlVCYy1GcWJteWZEeG4xU0k1Y3V4LXhrbFhrZg?oc=5",
       "published": "Thu, 01 Oct 2026 03:30:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Kashmiri teacher fights period stigma, one village at a time",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb0dEZ0RoNjN2ajBzTEJmZUJuQ0RlT1BCUG44MXBHTGtnMHIxM1QxQWtUUUpJbjY4VTZaRk5icjJDTHFKY0ltREp3WHotSHRfRzRNU09sLWY1VFktQUU5Wmw0dUtMVHRwOUdIY1I2WlNrQ3otT0JnOEd1aDEtUF84bmI1NnhaSDN1SEQ0eWNwNjl3c2p4WU5qcjlnN1hhQXc3ck96MUdrb0hwYWtiZ0kyZVprTWVsempnZHdzUXNQVHNyMThSWnfSAcsBQVVfeXFMUE9xUVRLQ193eEpTdFpmTmJrdnZKa1ZiYmJkN2FqMVBTTE5udHdsOW5BazExNmprS29nTzF6ME9PazJIQXhSekdXT2NZS2twYUpXejE3ejVEcXl4dG03aG1ReTlzZ2JpLXhpc2l3T2ppTzJYNVNYYUtPakpLWVdGY2laUHFTZmJqRzQwdGE5eVdyUDBIWXE1aGJPcXg3TE5lSS1oUkFEYTJIVF96eVhXNS1sdGYyWk9iWnRNemdtV0JycVhLLWZtS0RDaEU?oc=5",
+      "published": "Sun, 04 Oct 2026 19:03:00 GMT",
       "label": "News & research"
     },
     {
