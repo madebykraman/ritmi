@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:25:25.470861+00:00",
+  "updated": "2026-10-09T22:41:30.166652+00:00",
   "items": [
     {
       "type": "news",
@@ -47,6 +47,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTERMc0dOcmJib0hZdy1fNkNjVkRrUUozZGUxZ24yUnVXZ1FLM0ZFZ1lDejFJTXA5Q2dvQ1ZSallDcmlaaDFlQ0pxYTVtMjRacWdaTTk4U3VxVWtkOWtkcUpiblRJQU43akNVeXNnbm5GRFpKUldKNUVzNzM1Uzc0SV93NVJuMTRiUkExcHVtNlRWbE9xc3Rn?oc=5",
       "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "A foundation model for capturing complexity of menstrual health data",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -123,6 +131,14 @@
     },
     {
       "type": "news",
+      "title": "This Period-Tracking App Actually Keeps Your Data Private",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00TmJ1SjFNX055d2lVYVdHT3F2NlZsT2JhTk1zaTVNNU5yWnJLeFVrYTYtcUxJYTJ5YVhtZ3QtV0JNcEcybU0tSDYtQ1ZYcUpnbWNScFNxVUoxZTBHTmhhY2tpeXo?oc=5",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Delete These Apps Immediately: Why Your Period Tracker Is a Digital Trap",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT282V1BzbHMyMXpvYm9TREJyRGR1dEVFNi1FaVdZSUxkdGpEVUplOWlkYm1YNHVQVWlkSTZqUXc5MmZYc2NFMmlldldSdFdVOTJ5MDNFa3ZRWVdoRnhCM3I4Q0htZlhSUE1tcUdWek53QkJ3ekR4aWV3SWdMOHFYaXd3NHJKYzFTaFdZMDlERWM4ZGVMN29FM2tycVppU2kwbjdfTHUzbw?oc=5",
@@ -135,22 +151,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1ExNHBKY1dRSGhHQ3dPWVZybnVfWGdjNC02NktkZy1PYVNlQ1NNdDVZdWVwZWMtd091ekJkb1VCUGFrUG0yRVIwYV9JMlJ6WlZjREdYMFZHSXVOVmlGQlpKTlR1X0dTamZzTlRPNGZDNWUxREN6MURZRmRwNDRTRl9IcVF4c1hkcnF5NkE0UzF1aG5YV2hCQmpjUTZ5R1d0T0tiMGVIblVQZGNKbTZXclA0dzcyNXZ3WnR3?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "New Clue initiative transforms period tracking into gateway to healthcare",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRDNLcS1ndXF4ZHVPX1FXSGlLQjN5NWZfNURYc0ptS0dQWkFGWkpRTjcycGJ0UTl5TFMxQ3NrYmJQdnNDREthSk9Pa003S1EzeEk5YXllR3BSQ2cyeVpGeDZTRHZzWGJPeFpINHl0czdqWmZwclFYVmZ0blV6a2o0ejlNeEdMbzZQY01LLWFMcl9rclFzVDFWRl9INDdrY1Ixck1LWEJBYU5fdHYzcUx0NTFMNENoVGF4bjdBajdrQlNCYXUtMkxLVjQzdTFlZw?oc=5",
-      "published": "Fri, 09 Oct 2026 12:04:59 GMT",
       "label": "News & research"
     }
   ]
