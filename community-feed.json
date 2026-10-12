@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:03:50.394199+00:00",
+  "updated": "2026-10-12T15:33:25.894817+00:00",
   "items": [
     {
       "type": "news",
@@ -7,14 +7,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93b09WVXI4Q2o0RUQ2N1g2d0RpWFVjSnl3aGZ4SVZnUWgwLURsZU1ld0VXeElieGV0bWwwYXNNbDlTM2hWYTE4NkNvdEdQLVYwY2IyemU4aTBGbWNzZDRENFZwbnpRdzBROUJtd0djN3A5ODBsTkl5MGFMbw?oc=5",
       "published": "Wed, 23 Sep 2026 15:37:43 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Lack of hygienic menstrual shelters posing health risk to tribal women",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNamY5UXNsNll3dExiaXhwcHo2ZUdlTzVyWTZaM3JtdzJQMVAwei1SR1ZXdVRTRE9EVS1pRVRuUVZFOVJZMGM2N1lfLVdXZGpxN25HUHpPXzcyZ0RTb3hDc0ViWVVnRXd2RW42cERNaWVROG1vNUkzVG1NT0N1X2ptWTlUUWJ1OVFUc25rTk9Ed2c2emtqeXFHNDBaNm5vMHdTM2RIcjVCRXBuVVlrazZLN2dUallOZm5NZWVEUmFpeVZ1S3QtU2Q1eC1MS19wR19jV1HSAdgBQVVfeXFMTWJxRkdVVW5NTUVvOUcyLUd6Z0F4dl9nSFM1aUJzOFBYam5UV1laUWxEb2hPd0RLVjhOSzF6WWZYc0NMZ1cxY0RaRGpic1Y5OEhVYVFOeVo4NGpReVRKQTNRcGY5c3loTUdQOF9lSmFJTEgyYlZDSXJ6bC1KaG4zWXFNMW1oM3NtQ0o1MEtiRWlVeUNUZTJObWpvY2tZRE5rdlZfN2FtLXZPS3czRWFXNE9rc3djRUE2d3R5am9KUFhFdTViemF5ZHh4T3puTm81SUJkV2dvRTZY?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -67,22 +59,6 @@
     },
     {
       "type": "news",
-      "title": "A foundation model for capturing complexity of menstrual health data",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
-      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVjSktoTkxTS3RLN0d3V0YydWRVODlCN3JNYU93YThHSW5tbm1kdmdzNmx1UFV0Zkk4OUpneXdiY0dfZlFwTjkzZDZSYXQxZkVZakJ3UGowdElkbTg2NHdrUHFTa01BS3phRkRacng0SnlWbWhyN2pLbkdDV3BqQkk3RWhBRzRScEtKUmZtZWVpR29nQWxnaGl0U3hKSTd6WTNqSm4wY0V2OF91?oc=5",
-      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Call for experts: new WHO guideline on menstrual health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
@@ -107,34 +83,10 @@
     },
     {
       "type": "news",
-      "title": "Ending period poverty in emergencies: dignity and a brighter future for adolescent girls",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd21wZG1TZG5sNWVsU0FPS3pyRUR6U09MYWJHRW5WaWo1RVRUbVpkbENOdmFIaV9WTWktTVVyS09qeWNjTVdZYlNXcEppbzlEREhETlFiWE5QVDhTSlNsdXZzdGFhd2hSUWRiNHVQUTJrdUI4S29LZ0U0TnB3Qm9yQnVYbTBrWm1Qel9BT1paWDRqVHRBLTFtak85SjRYRVZqVWV2SHNWM01RTmVmblBYWjROanZ0OGRDSGc?oc=5",
-      "published": "Thu, 24 Sep 2026 01:12:32 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Why menstrual-health policy must move beyond products",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnZFSkV5Y090Q3FIUzh6ZExESFJfSnQ1WEV5SVkxRGRMQUowTEhUSmsxN1R3a1pIbm9xWVNvOVhrUnhHZ3pjRE5icEdWdjRISmxxMEIyR0NkbDBaNGliZXNuSjhhVnk4UE9ZS0pXUnVCMDRXcEpRQWxOZTlyY0JRb2dQekd6RnhmaVdoMHM1Slg1SlBqeWlCUzlGSThhcTZfb19YeWc4dGxQTUZRNHc?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "How Egyptian femtech is tackling taboos around women's health",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2J5bjhDcEFKbzhFWVlvUjdQSnZEUjEtNjlqTkRnUF9ILUpvODBtcU5NaUV1VUxvTXdIdm1HYWd2VVllR3ROUGFOeGF2aTdGb0d6VEVRUGZldjhrNzdNX0hPaVByNUhhR1dOc1BwQzZIQXBiZ1VEV0EyN0R3a3Zfb1E3MkRjSEpFVktmckJZS0JnTXZsRllFX1EzNEh0c09C?oc=5",
       "published": "Sun, 11 Oct 2026 14:00:04 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
-      "published": "Sat, 23 May 2026 12:15:05 GMT",
       "label": "News & research"
     },
     {
@@ -163,10 +115,50 @@
     },
     {
       "type": "news",
-      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
+      "title": "EA promotes health, menstrual hygiene and financial empowerment among women street vendors",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjBfbk8tOEhRcFhQOFYzQWs4Z1Zaa3NBd3ZrVU1keWVUOFpHMEtzbFotQmdUR2tCcmxzRGN1TWh1VlplaFZpV3E5VEJVczFvUFh4UGlsNWdnM0E1bFdmd3kyVDJJWGJPaTZLRXNOaGdhazZDT3RLU21jRmR6UzYyZFp1bVdRNjRSdzNjZTV1LUZfTURqQzRoX1dORW1LQWwyMUxDbHg1TGRpYVJMSV96OVNMNUpzN0Ux?oc=5",
+      "published": "Mon, 12 Oct 2026 15:21:42 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Flo Health and Google Health Join Forces to Put Women's Health at the Center of Wearable Tracking and Personalized Coaching",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZmFZc0JrMkRwOGczeVpZVUh0ZDJSa2VDVlFhcWVucEdyT19Fd2tMbGJFV3JJUDR2MTcwdnRXRGFIVUY0MmFJa0p5NjJuZExYdmpsc0R3ejBSaEJpTlBwZHVYTHIzWEljUVUyaHlIcmFTRFVlNTNWTTB5cGxMY2UtRHktLXJRQTc0MlJRWlh4LTJiY2pSQWtfbXA3YkJQX3BSM0tiRW5ZZGc1TVl5aGxVTGJfVjVlV2RDbEh5TzBlazRqV3lGbmVoQUxtcldvU3BUOUprWkI4WUJSbGdJaUVKeXVaSFpaMm1QUmk5cHp4eklGeUZISnVJaXBDMFVENXRRSTM1ZGJlY2N1UQ?oc=5",
+      "published": "Mon, 12 Oct 2026 13:10:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Google teams up with menstrual health tracker Flo to develop new wellness hardware and sync apps",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlJyZ09aemh1Yl81QUZtWVhHOTNkNHBwV1YwTk9NaVVlaXIzSTlZSFBWU0NuanlfZGo1bl9paHdXdU1NWTFBQ01ELW5WSXhJcnlqUjVzNjNsc3JVSWVQTUtSUkVvWTIwZDhnZnVrTHVvTHBweFlxWWlKUjlTVTRwc2h1ZjR4anJ5UzlUQlV6WjJOZVlDRGYwZ2J6Wm5PZEhMajVrTGRJR21qZGY0M0d6dFpZRU1TdG1abmM4N3ROXzBXVzJYd1dVZE53?oc=5",
+      "published": "Mon, 12 Oct 2026 13:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Child Help Foundation Conducted Menstrual Health Programme Across India",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3Vha2dibE5PVWxCWTVnSlBZRllOeFRZd2tIQkVELTNlNk5QVmlCcEExZWxfUXMzWHd3WjZEX1pGRG9YTDFyU3AyUW5sQWZ0WGpLMUwwQ1NSdkVnT1NTVGpvQ3RRUHpSMDF1LWU1SDdhWWo4QkdEYmpCbmFsUUFNRE1NSmZ4eS0yV0JFWUNsd08tV2Vua1o0MDlwaDYyNTFxcDJJczhSNW02elNsZFNRWkJfbjNPQ0l0WWsw0gHAAUFVX3lxTE42ZFFFVGpybGhLckxiUlJ0XzR4SGcyM1lGSXg3dFJiUUE5OHhkTTdWcjdGMkNvOVhMSmxEOGsyR1ZmYms1dWJmaHNaSHQ4UFRZa1RBSHNwQWRCVWdXZ3JsZ0k2QVJPM09pMUlFVFdHV01uSXM1ZU0tTk1qUU4zcmZSeTBBUDBFZHhrZ1dlWnhubFNkZ0E3R1JMZlZvOV9kaHlZYzdKdW9KbGhmQ25QTFdtR3lQUU55T3RPcWdFMTM5LQ?oc=5",
+      "published": "Mon, 12 Oct 2026 12:30:35 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "OP-ED | Menstrual Health Is About More Than Giving Girls Menstrual Products - Health-e News",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjRxRC1Pa0tHakREdkFMYXpkb0loWG1pcVZfX2pwQjIxcXlJbFdpTmp3RWVXWTNuWkt3MnIwQ1c5b3lpdDNFN3Ntb0ZEWjBwUGFSX3RGbEt1UGdhUHo2Zl9nV2hfTkxnVzFLNEFBdV9EdUlPZkFpcG1xTWJNbk9PLUFIRm92QzNabGhNVk4xbzUyYnNSYkZGcVllSFdxWWc5ZkRDYmNGZ3Q0dDJ0bnc?oc=5",
+      "published": "Mon, 12 Oct 2026 05:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Independent Testing Confirms Flo Health Does Not Share Reproductive Data",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTNDLXNCSmE5U2dzMS1Oa2Y5dlB0MnNLczFqNkZYWG5yQmJpTnBTdTlXU2JqTk13OWlMZC10TkJfNy04WXA3SVZxZTdNd2FvbnhtNlc0S0I0bHkzb043VXg5cUd3MGVDNDBVWTZfQlZyVWswUFp2YVY2MV85bDdNakFUMXpoWmkxYVpXb1d6LWNlN1FCajFn0gGkAUFVX3lxTFBFajNFYzZ2RVlqVWVtZ0hCcTduRGJ4cTJYcTU1OFZ2ZWttamhjZWFIOUhDbk1XV3FXeFlMYjR1RmxCSnlBa2tjcWU0eVBIdDBfT3FpY1ZvRGpjQk5xa3ZORWhrZklFVWZiWTlFZENtSmNnSS1iN0ppTzNQVGlWMGdWTXJfUkVqUnJRa2xMQ0RRVHl3SlR5TDAxYXk1b1JnLU9jTTRp?oc=5",
+      "published": "Fri, 18 Sep 2026 02:54:12 GMT",
       "label": "News & research"
     }
   ]
