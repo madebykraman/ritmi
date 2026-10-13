@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T00:45:17.034974+00:00",
+  "updated": "2026-10-13T14:16:48.327410+00:00",
   "items": [
     {
       "type": "news",
@@ -23,6 +23,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
       "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Nexira spotlights menstrual health ingredient BloomEase and ViNitrox vascular data at SupplySide Global",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWk1cWQxQnZWUE5naHFFQ1U0WUlweVJ1cG1YWk9oTVZIa2pSSFJyVUdpMmlYWVVJYXV1OUxaalNreWpteUR5NXh4Z3M4cmJMTVd2RjBhSk05LXpRSE1TSkhLSEZFdUxyV3JqV3dFdDhETkhxVnVGLUFSbmI4YjN1Qm5IclVQTEcxb2dDYXp2bmNKM3JIbE5vRlkwSkhYYWduTU9jemJobW5XRTFzdXJxWExZWkxadw?oc=5",
+      "published": "Wed, 07 Oct 2026 14:11:57 GMT",
       "label": "News & research"
     },
     {
@@ -51,10 +59,34 @@
     },
     {
       "type": "news",
-      "title": "Call for experts: new WHO guideline on menstrual health",
+      "title": "World Menopause Day and new global standard for menopause, menstrual health and menstruation in the workplace",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzYzNk11ZzdTNHMyR05pTkFGd2xvbVRvZXAyLXJVdnNySGUxTC1sUFFQQkhyaHZldERyMjRiQjl0RVZ2aTZiN28tTm5YSmRLSllzQmNtcHpCXzd3U1hNWUYyY3B5VUhRaTlabVJjNVB1LXZ3VnBYMjlBM29hVVAtbS1hak1BT3NOYWEyb01RT3RxYThNV21vQ19hdzlBZw?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMEdnOE1KUGdTeEpJbFBYaW00NUItdkFVQnRHbnlrWTJVTjQ5anIyd1FhcHNTR1B6RkZlc0dPRnU0c1JkaFp2OXh5cVhzX2lGNnUyT3BHNXR2S19xOURYNzIxVXZYS05WcDFZN01zMUROdU40LUVjUDJycnFsY2s0Sm1oeTVwOFhzWFhaazcxazAwWTlZX1hldVloSzZQMEg0VUQzajZnRkVYOC1LN1luNG5JUFg0eVZGQkVldlI1WUdvdWpyMTdmcXUyZXEzdHAxancyZVVR?oc=5",
+      "published": "Tue, 13 Oct 2026 12:33:45 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Many women plan their lives around their menstruation cycle; Employers not so much",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzc4aE1mYjJDVnVSQmlwWmtrblVFSm9DcTFwN2VGNEFPRFdDQ2ladlo0MzBvOHN1aWUxWEJTOHFRVTVqbk54VHVvTzRlNDI0dWhtN3NOVkNnLUFVRjAza0ExaU9lUGhZMUx0a1hZbExmNVdQV3hnZnFqN2hoVDNnZ1RiRExRTE8tS1lGNXdmb1p2MDZzaTZR?oc=5",
+      "published": "Tue, 13 Oct 2026 05:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Flo Period App Settlement: Claims for the $59.5M Fund Close October 15",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3ZzhrMlp3eS11bWtNYmhwd3ljQWJxU1I1N0x3MFNRaEJjaUs2VG5UQlNxY0ZfZGN1THhwRFFmU3BtN2h1QlRqaGFGTDBmRFctYUVjbkNqbzJEMXRDY3NoOUpsYVFOTWQ4Zmc?oc=5",
+      "published": "Tue, 13 Oct 2026 01:39:40 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Menstruation invisible to homelessness support services",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2w2bW13Wk1JU2NaSHBoVkhVWi1fM1NEVWoxOS0zcmQtaXZ1OTh0aWxiRUNPS1dwSVR5M3VMcTN5enZVZ3QxSkNpR0JmU182Rzdja1dsN1BJRm5yZlk0VFdGWlh4clFyUlIwRkdoV1J1NzhQT0xlVk9oc0M2SzlqYlFjZzdqUQ?oc=5",
+      "published": "Tue, 13 Oct 2026 01:20:02 GMT",
       "label": "News & research"
     },
     {
@@ -63,30 +95,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3ppRjVWQ2F1cE5ZdDdvMy1ubUwxTk52VkI5cEFtVWptQ1YyajZTRUpwekdNMi0wME8yRFhFWVc1ZUJKUGstNm9hM2VsaDhCT0t5eDBGMmM1a21Rc0l5Yk9kLVRPd1ptUlZwa0R3NnZmQzI5VnFJLVZOaGZqcllWODBabmhvWlh6WGxF?oc=5",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Bonn Dialogue: breaking the cycle – putting menstrual hygiene at the centre of environment and health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "How Egyptian femtech is tackling taboos around women's health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2J5bjhDcEFKbzhFWVlvUjdQSnZEUjEtNjlqTkRnUF9ILUpvODBtcU5NaUV1VUxvTXdIdm1HYWd2VVllR3ROUGFOeGF2aTdGb0d6VEVRUGZldjhrNzdNX0hPaVByNUhhR1dOc1BwQzZIQXBiZ1VEV0EyN0R3a3Zfb1E3MkRjSEpFVktmckJZS0JnTXZsRllFX1EzNEh0c09C?oc=5",
-      "published": "Sun, 11 Oct 2026 14:00:04 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
-      "published": "Sat, 23 May 2026 12:15:05 GMT",
       "label": "News & research"
     },
     {
@@ -107,10 +115,10 @@
     },
     {
       "type": "news",
-      "title": "tEA organises health, hygiene session for women street vendors in Kohima",
+      "title": "Menstrual Health Wearable Market Size, Share, Trends 2036",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXhERS1DOGo2MGtLYXNva0JMV1U5VDlGWEZfZG4zd0p0SU5QSmFBam1yYzVnLS1IdWxGNmQyMm5DdGlxbjJUeWVNdG54TS1pNGVDVG82cGdsa3JKMVlOMDQwS1FYcnFmV2ZDODdnc1J1QTRpQzJ1bEZESjlob21JSTZlel9NQ2pRaXNkVUtFRmJ5VXhDTE9yZjBUcVVqUQ?oc=5",
-      "published": "Mon, 12 Oct 2026 16:16:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanItUzZvR1NZdnhsdTlFSmtMckJDcXd6MjdVa0phNEI4aUdRM0p1SFIxS3FrbUNXUEplN3piTG1Ea21LcWFzeFZIdnNoU1IyN0VYRHJkR3BjajVwdUVaRVJOZzUtNkQzdGpYQ1Npa0IzdURqUVJfcHZWc05FNzc2VV9HWQ?oc=5",
+      "published": "Mon, 12 Oct 2026 18:30:00 GMT",
       "label": "News & research"
     },
     {
@@ -143,22 +151,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3Vha2dibE5PVWxCWTVnSlBZRllOeFRZd2tIQkVELTNlNk5QVmlCcEExZWxfUXMzWHd3WjZEX1pGRG9YTDFyU3AyUW5sQWZ0WGpLMUwwQ1NSdkVnT1NTVGpvQ3RRUHpSMDF1LWU1SDdhWWo4QkdEYmpCbmFsUUFNRE1NSmZ4eS0yV0JFWUNsd08tV2Vua1o0MDlwaDYyNTFxcDJJczhSNW02elNsZFNRWkJfbjNPQ0l0WWsw0gHAAUFVX3lxTE42ZFFFVGpybGhLckxiUlJ0XzR4SGcyM1lGSXg3dFJiUUE5OHhkTTdWcjdGMkNvOVhMSmxEOGsyR1ZmYms1dWJmaHNaSHQ4UFRZa1RBSHNwQWRCVWdXZ3JsZ0k2QVJPM09pMUlFVFdHV01uSXM1ZU0tTk1qUU4zcmZSeTBBUDBFZHhrZ1dlWnhubFNkZ0E3R1JMZlZvOV9kaHlZYzdKdW9KbGhmQ25QTFdtR3lQUU55T3RPcWdFMTM5LQ?oc=5",
       "published": "Mon, 12 Oct 2026 12:30:35 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "OP-ED | Menstrual Health Is About More Than Giving Girls Menstrual Products - Health-e News",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjRxRC1Pa0tHakREdkFMYXpkb0loWG1pcVZfX2pwQjIxcXlJbFdpTmp3RWVXWTNuWkt3MnIwQ1c5b3lpdDNFN3Ntb0ZEWjBwUGFSX3RGbEt1UGdhUHo2Zl9nV2hfTkxnVzFLNEFBdV9EdUlPZkFpcG1xTWJNbk9PLUFIRm92QzNabGhNVk4xbzUyYnNSYkZGcVllSFdxWWc5ZkRDYmNGZ3Q0dDJ0bnc?oc=5",
-      "published": "Mon, 12 Oct 2026 05:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Independent Testing Confirms Flo Health Does Not Share Reproductive Data",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTNDLXNCSmE5U2dzMS1Oa2Y5dlB0MnNLczFqNkZYWG5yQmJpTnBTdTlXU2JqTk13OWlMZC10TkJfNy04WXA3SVZxZTdNd2FvbnhtNlc0S0I0bHkzb043VXg5cUd3MGVDNDBVWTZfQlZyVWswUFp2YVY2MV85bDdNakFUMXpoWmkxYVpXb1d6LWNlN1FCajFn0gGkAUFVX3lxTFBFajNFYzZ2RVlqVWVtZ0hCcTduRGJ4cTJYcTU1OFZ2ZWttamhjZWFIOUhDbk1XV3FXeFlMYjR1RmxCSnlBa2tjcWU0eVBIdDBfT3FpY1ZvRGpjQk5xa3ZORWhrZklFVWZiWTlFZENtSmNnSS1iN0ppTzNQVGlWMGdWTXJfUkVqUnJRa2xMQ0RRVHl3SlR5TDAxYXk1b1JnLU9jTTRp?oc=5",
-      "published": "Fri, 18 Sep 2026 02:54:12 GMT",
       "label": "News & research"
     }
   ]
