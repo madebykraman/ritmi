@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:13:23.477609+00:00",
+  "updated": "2026-10-20T21:40:10.147358+00:00",
   "items": [
     {
       "type": "news",
@@ -15,14 +15,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Menstrual tracking apps and concerns about data privacy",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
-      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -51,10 +43,10 @@
     },
     {
       "type": "news",
-      "title": "Gaps in workplace menopause support revealed",
+      "title": "A foundation model for capturing complexity of menstrual health data",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUpwX1h6eGJYSy1hVU1LMFFHeWdVTlBJNTVqNThuVnVoRHk5Nk9vS0d5UDlJRGlsb1pwdzdLOUM5YlhMb0tJVmktZ1RUYlRSVWg5T1VPOFR3bENMTGtrekV6VUhtM2U3aERqTUhFQkc5X1pLc0tINnJSSDhvdHhCVkNR?oc=5",
-      "published": "Tue, 20 Oct 2026 14:56:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -99,6 +91,14 @@
     },
     {
       "type": "news",
+      "title": "Menopause triggers sudden bodily changes, with hormonal shifts beginning over a decade earlier, study finds",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWwteXR5azVkVTR1TkFhYUFfbW1EMDJuSnJoYnJwQTB1SEpiQWMtZE9Ud3RJQkpybEQ1a3NPbDdLUWVFbjljT2VLQk41cEQydXhLQnMzbjk2M2Z1UlExUUQ5UnZ2Tmc0WGFQcHZFOE1TbUlKNFcxWnFvRXhfN3VIMVExZ3BVMHZKMjV1SUlwTEVUOGljdENRekI5VFBOR0twdkFYaUxGdDhuOWFxTzRZMmZPR2JUMjVOOWVscW0yZ2FWNnU5Z1UxcG52XzBoeTEzWHdBUllNWDV0ZU3SAegBQVVfeXFMT2t4a2N5UmVYeEVZSk82RzltaFlXX2lRX0hDem9ZZ283YzdDZEpQU0lPUFhoOVlDSlRYOFpmaWxwang4b2JMLUNxWXB0V3NZYlY0S3k0UVZyWV9zMUhnNjNza1N2TlM5ZUdiNWtxaDYwOHctSVVJMV95VXRjNWUtTzJTTXlhYmQ1ZnAwRUcydXp1aWtNRmhWcnVpUHlseHZJVXZxWWJkaV8yODJXQlpCT2d6V2tmcTBuV0daM1VQUHRDdW5HdWE3b05FYzIydkEzVXR3Uko2RTRkeVpVX0NqRWZnOGp3aHdfaQ?oc=5",
+      "published": "Thu, 15 Oct 2026 05:09:23 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Supreme Court raps states for failing to comply with order on menstrual hygiene facilities in schools",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSzVjY2c4T2xlOU5jYTlOZ1ZxUm9mNkJ1T0gwXzBtUU1Wcm94V3VNNmFCeTRoa0RpdzRGV09hc3F1Tl9WWC0wTTM4Ti1NZDdOVkdrTjlOT1VSVkhkYXkzWnRwM0ZlbHVzUEZUYTJxM0xoM0psc0ZXQUVFSjBrVnhVMC01ZG1yWklQbFpuMXQ4UmJfQi11dm54T3pnTFJGbmJ5TEJqUjhVemJNdnoxQUllMTB3VkpRNVExNjZOejhtdzVTSU5pRmxnSWpxQldNaXMtNTdqN09KWm5nOU00aFM1LUlqVnM2eHPSAfQBQVVfeXFMT2IyMjl3UFU1UUtRWHN2S0xUQ2tMNklxVTFpakR1dVNvZ1ZHeFYyVU93bHpYTjA1dXhEYk5oRFp5VFhxQnMxdGpsWmpsRzZ4Z1dWTl9zRjhOdmw3eW95SzdGSmgyZjVwdlJXNUo0eUJFNnE4TW50UmJxZFNLaWM1SXJuNjE3c29ZTzVRUU5BOTI1NDhNbEMwMEhCVG93U1AzWU9pMlM0OTl1NGp5MFMyM3VZeEVJQk41MTJaXzYzVWhza2xRenpGUHpreDZER2wydG1zQ1BrNnJnNmRDa2xHS2sta2plR19DVm42YXNZTXNrQ0t0Qg?oc=5",
@@ -139,14 +139,6 @@
     },
     {
       "type": "news",
-      "title": "SC raps states over delay in menstrual hygiene facilities in schools, sets 4-week deadline",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSVhIUTFDcTFGSk9USVQxX2ZpY2ZVOWhYbUVfVXZWbmo2Wmxqdmo4RGJMdjdQMXEtMUFiS3RaOGg0NVQ1a1FjUlQxY3EyYnNOMDc1UEJkUHpNaUJGS2ljS1drT1B5NU9YeWxndFFyOEF1RjNVbFlNVEQ3MGRDT2tUODZ4SjB3SzM0Ym9VV3pzNE9BY1RydF96UzJVTmlJN2xnUjV4VEVmeHZ0M1hSMHotMi1rN2U2WXprdWlTR3ViRHFwbXBQRl9RWmE5MNIB0AFBVV95cUxOUHBfd2lEUkVScnhqaWJjVTVxM1hYbzRnMDYzMG1jeUwyMlczWlhWMVlYYTBwczNMTk94bnBjZ0Y4Q29OUmlRQlRZSHVHaGxQWmFPZmI4dnlDZVItWXQ4VGlqeUg2MUZibDJCeG14MDdJUk9YVHlNUUh6SDBLczlINTZiNEVRX3ZEMVQxNFd4dFUxRUdHU2x5UDk3aHNVbHhuUFkzSHNvV2RQWTFVaTNjd1JWLTlDYk5PdlBQY2pvcEY4d0kyLWZhV0QxbGotZ2Ni?oc=5",
-      "published": "Mon, 19 Oct 2026 10:53:48 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Delete These Apps Immediately: Why Your Period Tracker Is a Digital Trap",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT282V1BzbHMyMXpvYm9TREJyRGR1dEVFNi1FaVdZSUxkdGpEVUplOWlkYm1YNHVQVWlkSTZqUXc5MmZYc2NFMmlldldSdFdVOTJ5MDNFa3ZRWVdoRnhCM3I4Q0htZlhSUE1tcUdWek53QkJ3ekR4aWV3SWdMOHFYaXd3NHJKYzFTaFdZMDlERWM4ZGVMN29FM2tycVppU2kwbjdfTHUzbw?oc=5",
@@ -159,6 +151,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanItUzZvR1NZdnhsdTlFSmtMckJDcXd6MjdVa0phNEI4aUdRM0p1SFIxS3FrbUNXUEplN3piTG1Ea21LcWFzeFZIdnNoU1IyN0VYRHJkR3BjajVwdUVaRVJOZzUtNkQzdGpYQ1Npa0IzdURqUVJfcHZWc05FNzc2VV9HWQ?oc=5",
       "published": "Mon, 12 Oct 2026 18:30:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
