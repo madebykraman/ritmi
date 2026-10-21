@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:40:10.147358+00:00",
+  "updated": "2026-10-21T04:54:57.679701+00:00",
   "items": [
     {
       "type": "news",
@@ -11,10 +11,34 @@
     },
     {
       "type": "news",
+      "title": "Park Seo-yeon Completes First Marathon Despite Menstruation",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2h2UUpZS1YzUHJ3UHVxY0JLd0R6ZEV3aFZrdUNIYkI4U0VwZndoZG9Zcm9JdGhfa2FXdGxZdk9oV0ZtejFJWUV1NzBnTnh5TkdMcE9SOGZKamZuSzE2OGhYWnZKcWtKU2w3OVdCeU9SWG03eUJXakRKZ080NWhBNzd3Tml5Zw?oc=5",
+      "published": "Wed, 21 Oct 2026 04:41:34 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "A Teenager Cried Blood Every Time She Had Her Period, and Doctors Suspected a Rare Form of Endometriosis",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3RRTDZFTzZsQVJMWFlKbGtNOGtxNW5OVjNsRENUSHFfaHkwOUpya3FfZHVPeV9NRXBvck41dDhFcjllZU55MG13d1g2X1EyQ3licFdzcHJWQ2FreWx6LXlUY1Y2MWwzcDFVWmtVeVFlTFYtOFRLaDNzUXlvMEdRRk90Q1BmMkhNS0E?oc=5",
+      "published": "Wed, 21 Oct 2026 01:29:22 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Menstrual tracking apps and concerns about data privacy",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
+      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -59,14 +83,6 @@
     },
     {
       "type": "news",
-      "title": "Why do scientists still not understand how menopause changes the brain?",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaG9OeVVXbmdnRmctTDhBQ3poZHVzOHlkM0RSa3RQZm1WQjFQSURQWVN5LWRSbU5GcFlLODFJTGEtM29mbWlCTkkwd1I4R2dGQkl2ZlI2SFFlSnlYeHBhSDk0U2dMdUxhc0E5WWxQLS1rX3lsSUxjbnBHOVJITnNVRHgxdjNpcTA3Y0tHQUhmT3BnZ3lwa0xMZFZudWxGNl84UV9GQmtQSzJsaDhUZmxwV1FESDI4UQ?oc=5",
-      "published": "Tue, 20 Oct 2026 08:54:12 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Dutch privacy agency warns of risks in period-tracking apps",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3ppRjVWQ2F1cE5ZdDdvMy1ubUwxTk52VkI5cEFtVWptQ1YyajZTRUpwekdNMi0wME8yRFhFWVc1ZUJKUGstNm9hM2VsaDhCT0t5eDBGMmM1a21Rc0l5Yk9kLVRPd1ptUlZwa0R3NnZmQzI5VnFJLVZOaGZqcllWODBabmhvWlh6WGxF?oc=5",
@@ -83,10 +99,10 @@
     },
     {
       "type": "news",
-      "title": "Period tracker Stardust shares users’ health data with analytics firm, says new research",
+      "title": "Why menstrual-health policy must move beyond products",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSGh2NS10WGhvMG9sVHk2Ry04aHhJaFBkMTY4TGZwWlZyYnZuOXpucUhuU3d4SkVudjRfRTQtazB6a1VUZmZIM3JaMG5EX1lFOWtRVTZzQVo5WFRZUVl2cFhrSGtTLU9veXJYRGFULVh5Rm04TFNKb2pneUp2Z1RVb2tDVVRscTM5OVZjSHRhRzZFSFRxX0lIaWR3OG9VVXF1VGpwNDctVmI2a1BONUpTYjdJb0tvcVdEWUoxb1Y4RmRySnM?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnZFSkV5Y090Q3FIUzh6ZExESFJfSnQ1WEV5SVkxRGRMQUowTEhUSmsxN1R3a1pIbm9xWVNvOVhrUnhHZ3pjRE5icEdWdjRISmxxMEIyR0NkbDBaNGliZXNuSjhhVnk4UE9ZS0pXUnVCMDRXcEpRQWxOZTlyY0JRb2dQekd6RnhmaVdoMHM1Slg1SlBqeWlCUzlGSThhcTZfb19YeWc4dGxQTUZRNHc?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -99,26 +115,10 @@
     },
     {
       "type": "news",
-      "title": "Supreme Court raps states for failing to comply with order on menstrual hygiene facilities in schools",
+      "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSzVjY2c4T2xlOU5jYTlOZ1ZxUm9mNkJ1T0gwXzBtUU1Wcm94V3VNNmFCeTRoa0RpdzRGV09hc3F1Tl9WWC0wTTM4Ti1NZDdOVkdrTjlOT1VSVkhkYXkzWnRwM0ZlbHVzUEZUYTJxM0xoM0psc0ZXQUVFSjBrVnhVMC01ZG1yWklQbFpuMXQ4UmJfQi11dm54T3pnTFJGbmJ5TEJqUjhVemJNdnoxQUllMTB3VkpRNVExNjZOejhtdzVTSU5pRmxnSWpxQldNaXMtNTdqN09KWm5nOU00aFM1LUlqVnM2eHPSAfQBQVVfeXFMT2IyMjl3UFU1UUtRWHN2S0xUQ2tMNklxVTFpakR1dVNvZ1ZHeFYyVU93bHpYTjA1dXhEYk5oRFp5VFhxQnMxdGpsWmpsRzZ4Z1dWTl9zRjhOdmw3eW95SzdGSmgyZjVwdlJXNUo0eUJFNnE4TW50UmJxZFNLaWM1SXJuNjE3c29ZTzVRUU5BOTI1NDhNbEMwMEhCVG93U1AzWU9pMlM0OTl1NGp5MFMyM3VZeEVJQk41MTJaXzYzVWhza2xRenpGUHpreDZER2wydG1zQ1BrNnJnNmRDa2xHS2sta2plR19DVm42YXNZTXNrQ0t0Qg?oc=5",
-      "published": "Sun, 18 Oct 2026 15:55:37 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Menstrual hygiene: Supreme Court expresses displeasure over States, UTs not responding to Centre",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOUpNN0p6dlpFU2Q3aHRtaHdwSzdTazhlVkQ2VjZDUk5fbXlDci1TQjBLT2FQQlhXYm1IMmx2Q25OUmNxaFljc1Y2VXlBZkFYbzFVcURJOEJrb3FRREFLNF9qVUV5NDNHN2dIUndsS2JpQVRacTFicTNyZzRpQ0JmNTlQazV2OU1sTEh3RTkxUFUzLTc3TFBUU3ctaWtEa1lPTmpGLVJpVEs0eWdTY1UwTV9QUzdmV2h3SlJwVjhZeV9HQWVRUl9WX1pFbmRUTE5JUEhfU3dsVkVad0doSnZwUGJOWnNVSklM0gHvAUFVX3lxTE41OFM1UWhHeE5pVmd1MU54VTdISllPTWVBZFFDVDZXTmJxMHZUZEFLRWZQTVNlcW1xX0ZjNzZNWWxwYUhoMzUwUUJVdmJDU2kwZExfUGM1SlBMSDBXalRuV3ZFUUlnSVY0UFVZZDZPZFFIUndBck9nVEVPd2lCbVpqUURmVmkxX3ZmWGRjWWR1bXVmNXk4bXZtOEhkS0o2RnpyRWxveDR3MERVTFQ2NW5ZREZLWlQyTmlBTUs3bUc2UWtQUlI5cVdyRkJkMzBjeHYzNmxJb1JEazdxQk5BaTlGQVg1dFJPZnRYVjBRRm5V?oc=5",
-      "published": "Sun, 18 Oct 2026 09:17:29 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Kubbra Sait climbed a summit on her period: ‘I’m just so grateful for this body’",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWh0UFpLM0c5cjdCTkVzcjJlbllYUldDMF9TR0NrbkZIQTVKQlRXZVdlSnQtZko0Q09KSTZlX0dSeGZlb3JfWDE0dW93enZvSkNKMWs5WE16cVZVT0hZZUVLNVJINVA4Y0E5YWs5UXBLc2ZpX1R1ZF9UMmMxYXhtWVhGRUNac2dUTGl5dDVUTkJNbm9JekR1YTViZVg4MDdvVWV1UW0xZEdMWjk0OVY3N2FCYUNnbllncWZQaWhyTlVlbDk2X3pleUEtQzh1RERPdGdNVtIB2wFBVV95cUxOMy1fVmtUN3hybFJIM090ek9tdEdjdmdnbDhpeUFqM0xROWx5bmZxVE5KQTBmQ2pVbC1RamQ3WjdianF1cEtpRldHYmxkZGpMaFlEUlJuX0tSdVFMM19Oal9vVmxXVlh1MERLZFhYOWdYeDdsVzUzTU84ckJPekxzaktsR0Q3SXQ5dy0za0JiT0FhU2p1VUFMa0s5TlMxcHBXejQwSzJERmpkQVNfT3ZvaF9ycFNqWFF2Xy1ycDMyUnp1NUhYajc0R0VPQ2JCaUI0RmVGbzI5Wl9GNDA?oc=5",
-      "published": "Sat, 17 Oct 2026 14:30:52 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
+      "published": "Sat, 23 May 2026 12:15:05 GMT",
       "label": "News & research"
     },
     {
@@ -155,18 +155,18 @@
     },
     {
       "type": "news",
-      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
+      "title": "Population-scale reconstruction of menopause dynamics reveals a physiological cliff at the final menstrual period",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pWUN2T2R5RjhVRzR1QUZmbGI2Y0ZmbG9SRjFBVGY4QmZXTGdhTkp1cl9OVlZRNVd2NEF6VXIxREZoc2lYX3NhZ1hwMEFHVl9HYnczVFpHd3RIdmlEZFYw?oc=5",
+      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
       "type": "news",
-      "title": "Will menstrual hygiene judgment remain on paper? Supreme Court seeks implementation details",
+      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzhBYjl4bHd2cnRYd0w2S1FybmVYQVhKMWRNbzk0bUV4RUg0RU4zN0x2T0VhYVpqZHp2R0w4cEo5aEdPVmtEdHI1RkdyMl9ObENlR1k4U1dabVBYWFNsQnVkbEFjazJINExWeS1YLVFraThnWkdSbFVIOTdMUnhrQ3pNVk8tRklXRng3ZXRmUm1NNEw2SF9uZVR2ZmFRN0pZNzJ1MWlSQk9lamFUZEZuWDhkVEU2cHFaZjVibFJHSDNuWUZXdWNSaW1lNGtrUU0?oc=5",
-      "published": "Fri, 16 Oct 2026 07:52:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "label": "News & research"
     }
   ]
