@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:54:35.561184+00:00",
+  "updated": "2026-10-22T11:58:11.378465+00:00",
   "items": [
     {
       "type": "news",
@@ -15,14 +15,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON3M0NmNhMHhTMjZjcFNzc0FLd3Ftdm1GeU5OTmtOZDZraFJIUlBHRVVqUUJUaE41M1lfNXBnYVV0S3BMeEJFVGZ6SkpUX2M1WG1NTE9zSkM1MzhkYlQtLThxNkZ0dFdpN3NnUEJ6NUhpYW5SS0U3b3hZUUU5dWN1UENDV05UQkthQWpEb05zczJibTRpd1FJYkVsZmpjcXExbmRWR3VxVnphOGQtQUh5ek96QjhHUnR5eTloT2pUazZ0VEZyekR1VG9PcFZIMlU?oc=5",
       "published": "Wed, 21 Oct 2026 20:43:46 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Reusable period care moves beyond eco hook to comfort and cultural fit.",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUNDM0dZTmxDdUUyV2I5cWhzZjE2Qy01WUhMdzZsQ3Z1WUNlYk9WYzF3ZUdqcS1IUWkzMU1FMGw3WU1PQ1prS1oxMWtpYXdNWjlJSWs4blZnRVhpTmlxV0xxLU13RnV3c3ZJY2dPZVJxYkstVmpxN2NleGtXR2JSNEhyWEdGUHVtSm8zM0VBYi1jODZRdFVV?oc=5",
-      "published": "Wed, 21 Oct 2026 13:34:37 GMT",
       "label": "News & research"
     },
     {
@@ -43,17 +35,17 @@
     },
     {
       "type": "news",
-      "title": "The Best Period Tracking Apps for Data Privacy in 2026",
+      "title": "All Eyes on my Period? Period tracking apps and the future of privacy in a post-Roe world",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTBtRjc3UzVrVVhvODlIa1FPMWRYVzBxU2VYbWZldVhtWFZ6ZHR3NHd2cVJ0dEVBdXp0UnVqQ1FWWXJ2UnZpU18zQ0dKclFJX1poSnlTU0QxRVktT0ZRWXZkR2hhNHhQRlVISV9obVNpdldGRjA1aHZEdXE5U2E3cG1kRmZfQU1ScTNWVVJjdklSNHhvWWF4emFqVF9OVWh6MUt1cVp0TFVWM0VSaGNGeVNiSkN6QQ?oc=5",
+      "published": "Wed, 11 Jun 2025 07:00:00 GMT",
       "label": "News & research"
     },
     {
       "type": "news",
-      "title": "New questions arise about the health benefits and privacy risks of menstrual tracking apps",
+      "title": "The Best Period Tracking Apps for Data Privacy in 2026",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUEpKZTg4c1RpeHJRU1dpel84SmNRU25xUjdCczhocGJMTm96aWlFLWU3M05YdXQ0b1BPVkpmNTZDRkR1QTdVelNIRHh2dGFESFVUV1JaVlVTc1pyNmdfRnVxSE1FdFotYk1DSEJzbE9BNU0zcUg1SXVvRTZTNjNDeG1yd3cwN2t2c1J2V3RNWHF1NGc1R0ZZYXcwdjhJU1ZuZjljaGZuMUlRd2ZwNmhOd1ZaVEVpRE45VTNDbTExX2R4dmZkUVhzUktfUDhnRVBL?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
       "published": "Wed, 07 Oct 2026 07:00:00 GMT",
       "label": "News & research"
     },
@@ -67,10 +59,26 @@
     },
     {
       "type": "news",
+      "title": "A foundation model for capturing complexity of menstrual health data",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WFIyTmMzWUtuOVU4S1RvdWFoQThNVDdXWVAtM2swSGFLT08wdjJURWdCcG1RdjVtZmNobkh5cmhzUzh6SkgySFVUNU8teW5XZTAwVnctTkpoY2lFV0pF?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Tackling the taboo: Medical students break through the stigma of period education",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFVpM0NNakswaVJ1UWZ6eHFUR1JiWVhac3hDUklWNXhmekh2OHFWZFJlc25jLXBSeDV1MjlTWXUwRktaZ1hfTFlWdEVXa2xkY1JzYnRDLWwtUzBVQWRlS2JsVGZ0UUdINkhFQjh3UnB1bG5POEpyZGhZMTRnMlF6Zk16WmZyZDh1UzBjSDVaUEwzaE1JakJtTmE3TS1kT1RkMEZIQWVJMzAyblFQWXc?oc=5",
       "published": "Tue, 20 Oct 2026 13:49:36 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "How period tracking apps threaten digital privacy rights",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZF92TEZlQ0tGVjNSY3FMbFJ6ZkJBa0t6UFNvNmdTQUY5T0JBbWlaODlZNUxqWTRobndHZDFHRE1TZ0pSd1NoWkJ3TGFlQW9tWlYxNTdZeldma1FESWEza3FGcHJ5a0pTZWFHWFExMGl0ZzhMWVdwMFlWUFVTendDU3RIQnFWNmlrZng5VFZMMnBhdkhZRENVbll0ODM?oc=5",
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -91,10 +99,18 @@
     },
     {
       "type": "news",
+      "title": "Google, Flo Health to pay $56 million in period-tracking app privacy case",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaHR2alBKMHVRTTJ6YWdJeFJ1VkZlOGNWbUlMeXNMSmNrYU11eDhoUWZMcThoTXFHdXhqM2QxbGo2WWZsdmxTRjJZNHEyQlI4NDNjeG5rSklybVBlU0Vfbk5UQUFKLVZCa0dzZ21wOHZxaE9RT3NFR19NUndYOUpHWHdRSWZTMTZkaHZQT1RTaE9RMGNVN21nQlJCOWhJM01NSUtUX3cwLTRmbkVGWDlEWWNLVW1aQ0FJazNER0kzT05yUk9McHlZc1VVRm5xUzljSDY3REVKeDM?oc=5",
+      "published": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Sirona breaks silence around women's health with ‘Unpause Menopause’",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGRTeGhtMG1xTFFvVkpzQzd5VHktZzNZVmMzQTZ3UTNvOXN3S3czbVRadDBLOFJnQzVMMHBRZ1FqcnZIUWVpVXJIdkRETXl3VHJsV1JRVS1SWm93YUhxTm5ub2V2LXd0RzUxTmY3dzk1TXFuSGViZUgtOUM3clQtMFNUVlNCa3BINXFaMUhaRm1iVzk2ZU1PUk5kVUphbFAzbWc?oc=5",
-      "published": "Thu, 22 Oct 2026 03:30:52 GMT",
+      "published": "Thu, 22 Oct 2026 03:31:02 GMT",
       "label": "News & research"
     },
     {
@@ -123,14 +139,6 @@
     },
     {
       "type": "news",
-      "title": "How secure is your period-tracking app?: Some share more data than you think; here's what you should & shou...",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGpBMTJ3dDBSc2VoYVBsS2hobmlIeUp3QXlqLXpKcjJjSmN3TVF4ZkowQlpjNFhZVFUtUVNBTHcwcVJOdzRjU0NRVG00eUt1UVdPMzVMbllST0VaaXVqcHgzdWYzMFBuZjRFM0sxdGw3aVI2Y1NmNzdJSVhmdjVRZEEzckJZWFF1NUotMEc4VG1aSnJDOGpVY1duRTRuVG1mQTVHX00yZ1p1Yk14UVVLUVBVMVdiREHSAbwBQVVfeXFMTUhGNFI4eGdVa0w1UmJrUWRSRG5wTWp5TkF2MUFvZ055S2FYcXppdnQ0MUQtQ0lKa1U0T1Nrd0JRQklwTHcyOENjeWttWG8zX3FEcU1WWWNEcHk2RTQybDlneVBPYld2NHNyajEybWZLZ0hBNUxvZnB5al9MQmtXa2hCRnRUSFNxbnY0bU45WURXbUFhazZkQmUtYXY2WmZQcUE3SHNkYThhLWxUX2RWWFo5c0k4aGlrVURWNXA?oc=5",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "Menstrual Health Should Be Part of Routine Pediatric Clinical Care",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGpENGpOT2oydGplUkNIRFFPY2lMaGNKT0JSZ2xHcnhEaVQ5c0lFM2dIOWxwLTVDUEdFLUxWUGVkMlA5QV9nTHpRbjdBWTk2Q1hGSUcya1RUZjdGZ2lUTk5kbTlyTnB1R0J6Nk5qNDhlZWU4ZmtfOTZfWm8xcnRtWTFVcS1La0VCMFVPUENSR0lVQldVWlFtT2pvVkcyQnA4TzV6cEVkSWpkZ1JS?oc=5",
@@ -147,18 +155,10 @@
     },
     {
       "type": "news",
-      "title": "Menstrual Health Wearable Market Size, Share, Trends 2036",
+      "title": "Population-scale reconstruction of menopause dynamics reveals a physiological cliff at the final menstrual period",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanItUzZvR1NZdnhsdTlFSmtMckJDcXd6MjdVa0phNEI4aUdRM0p1SFIxS3FrbUNXUEplN3piTG1Ea21LcWFzeFZIdnNoU1IyN0VYRHJkR3BjajVwdUVaRVJOZzUtNkQzdGpYQ1Npa0IzdURqUVJfcHZWc05FNzc2VV9HWQ?oc=5",
-      "published": "Mon, 12 Oct 2026 18:30:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pWUN2T2R5RjhVRzR1QUZmbGI2Y0ZmbG9SRjFBVGY4QmZXTGdhTkp1cl9OVlZRNVd2NEF6VXIxREZoc2lYX3NhZ1hwMEFHVl9HYnczVFpHd3RIdmlEZFYw?oc=5",
+      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
       "label": "News & research"
     }
   ]
