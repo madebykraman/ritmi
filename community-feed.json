@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-30T05:54:10.232469+00:00",
+  "updated": "2026-10-30T13:01:10.786358+00:00",
   "items": [
-    {
-      "type": "news",
-      "title": "What does menstruation mean to you?",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93b09WVXI4Q2o0RUQ2N1g2d0RpWFVjSnl3aGZ4SVZnUWgwLURsZU1ld0VXeElieGV0bWwwYXNNbDlTM2hWYTE4NkNvdEdQLVYwY2IyemU4aTBGbWNzZDRENFZwbnpRdzBROUJtd0djN3A5ODBsTkl5MGFMbw?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Lack of hygienic menstrual shelters posing health risk to tribal women",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNamY5UXNsNll3dExiaXhwcHo2ZUdlTzVyWTZaM3JtdzJQMVAwei1SR1ZXdVRTRE9EVS1pRVRuUVZFOVJZMGM2N1lfLVdXZGpxN25HUHpPXzcyZ0RTb3hDc0ViWVVnRXd2RW42cERNaWVROG1vNUkzVG1NT0N1X2ptWTlUUWJ1OVFUc25rTk9Ed2c2emtqeXFHNDBaNm5vMHdTM2RIcjVCRXBuVVlrazZLN2dUallOZm5NZWVEUmFpeVZ1S3QtU2Q1eC1MS19wR19jV1HSAdgBQVVfeXFMTWJxRkdVVW5NTUVvOUcyLUd6Z0F4dl9nSFM1aUJzOFBYam5UV1laUWxEb2hPd0RLVjhOSzF6WWZYc0NMZ1cxY0RaRGpic1Y5OEhVYVFOeVo4NGpReVRKQTNRcGY5c3loTUdQOF9lSmFJTEgyYlZDSXJ6bC1KaG4zWXFNMW1oM3NtQ0o1MEtiRWlVeUNUZTJObWpvY2tZRE5rdlZfN2FtLXZPS3czRWFXNE9rc3djRUE2d3R5am9KUFhFdTViemF5ZHh4T3puTm81SUJkV2dvRTZY?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
     {
       "type": "news",
       "title": "Supreme Court directs implementation of menstrual health facilities in schools",
@@ -27,10 +11,18 @@
     },
     {
       "type": "news",
-      "title": "New questions arise about the health benefits and privacy risks of menstrual tracking apps",
+      "title": "Menstrual tracking apps and concerns about data privacy",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUEpKZTg4c1RpeHJRU1dpel84SmNRU25xUjdCczhocGJMTm96aWlFLWU3M05YdXQ0b1BPVkpmNTZDRkR1QTdVelNIRHh2dGFESFVUV1JaVlVTc1pyNmdfRnVxSE1FdFotYk1DSEJzbE9BNU0zcUg1SXVvRTZTNjNDeG1yd3cwN2t2c1J2V3RNWHF1NGc1R0ZZYXcwdjhJU1ZuZjljaGZuMUlRd2ZwNmhOd1ZaVEVpRE45VTNDbTExX2R4dmZkUVhzUktfUDhnRVBL?oc=5",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHhKZlIyTkRiVkFwbWt6Yk95QmZxaHdPSjVzYWc0YTI5dXBuYzN1Z2pxN1EyUmw2cnJjS25xeXNpVjVhVFVUbGpxYjRCemxST1NlWFBpNzByZUZDUkstNm4zNGt4MU9waXRVQTRYa0VuZTl6SmpnVjJxYUlpUXBORzRmVTNNazVTak5F?oc=5",
+      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "All Eyes on my Period? Period tracking apps and the future of privacy in a post-Roe world",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTBtRjc3UzVrVVhvODlIa1FPMWRYVzBxU2VYbWZldVhtWFZ6ZHR3NHd2cVJ0dEVBdXp0UnVqQ1FWWXJ2UnZpU18zQ0dKclFJX1poSnlTU0QxRVktT0ZRWXZkR2hhNHhQRlVISV9obVNpdldGRjA1aHZEdXE5U2E3cG1kRmZfQU1ScTNWVVJjdklSNHhvWWF4emFqVF9OVWh6MUt1cVp0TFVWM0VSaGNGeVNiSkN6QQ?oc=5",
+      "published": "Wed, 11 Jun 2025 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -51,10 +43,10 @@
     },
     {
       "type": "news",
-      "title": "Knowledge, economic, and WASH challenges affecting menstrual health and hygiene among nursing students in Bangladesh using a mixed-methods approach",
+      "title": "Dutch privacy agency warns of risks in period-tracking apps",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SzhaVnBHNVZWY1hyY05wLVo5dGF3QnhadDRBYnNWVTdJWU9XU0M3ejZyQ2Ezb2xVSjNsUklJa251T2I2dmxuV0dONml3aDlzNlR0WWF1VnEwalZCOEN3?oc=5",
-      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3ppRjVWQ2F1cE5ZdDdvMy1ubUwxTk52VkI5cEFtVWptQ1YyajZTRUpwekdNMi0wME8yRFhFWVc1ZUJKUGstNm9hM2VsaDhCT0t5eDBGMmM1a21Rc0l5Yk9kLVRPd1ptUlZwa0R3NnZmQzI5VnFJLVZOaGZqcllWODBabmhvWlh6WGxF?oc=5",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -75,22 +67,6 @@
     },
     {
       "type": "news",
-      "title": "Judge Urges Faster Pace in Meta’s Menstrual Health Privacy Case",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2RScDQ3b2lFYVg3TDdpczdYeXY1SG5HUkZtcHlkWXhWd2FIMUpTaDZTal9HWHZZS1dYbWRMSVcwYWgzYnVUaFF2WnoxTDlCTUhGNHNxZl9ldkFIUnhMeFh0QTNVQ0UwNEExQmh4RW85YnlQQ2htMTZpWUljcjN0MG5RMWNZM2Q3MHdwRzBrZl80VzYwVG80bXFCeHl6cHY5OERRcWhibThWTFZhR0JBOW5aUnVnX3BN?oc=5",
-      "published": "Thu, 29 Oct 2026 21:37:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Group calls for improved menstrual health support in public schools",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXJXZUU3SEswTGVHcEVrc05nTDNYdFl1N0JnNWtWOTdVZUJUbWxXVDlKdjRzMDV4dUlsZ1dwS0dfbFNwMllVMWM0MFVWSmJzZzdYM3BOU1RFLUZkekhyWmRSZkNxR2lOR2dBOU5aZU5Kal9hOVNBYzY0d0Q1YmR1T0pVUU1jMENwdlh5M3k0QjJucUU2eTJwaQ?oc=5",
-      "published": "Thu, 29 Oct 2026 15:41:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "A Sample Grant Proposal on “Keeping Adolescent Girls in School through Menstrual Health Support”",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbElRWjBBRDdsNUdOalBabG45ZFRSTDBpTTlvUHRxbjhhUGp4VlRiQmVZRjJsTkN6TDhTWjZSY1BwU19MN2dlX1BmNmltRWNXaUhUWFNHT2hNWENwdFZRa3ltZWViT29yTEJJU05pczBQSkFIV1FNbE1mVkZ0S1NxNEtRbUpaenYySmdsbE1IVUtoVHhKU2tuSWloWF9MV2lNUkJDbko5ai02WkhOM0VveXRicUhHRVNNX2piX2NaN2xqWTMzamZocnVqbUhPQW5FQkFJMg?oc=5",
@@ -99,34 +75,18 @@
     },
     {
       "type": "news",
+      "title": "Bonn Dialogue: breaking the cycle – putting menstrual hygiene at the centre of environment and health",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "The Best Period Tracking Apps for Data Privacy in 2026",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
       "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Why menstrual-health policy must move beyond products",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnZFSkV5Y090Q3FIUzh6ZExESFJfSnQ1WEV5SVkxRGRMQUowTEhUSmsxN1R3a1pIbm9xWVNvOVhrUnhHZ3pjRE5icEdWdjRISmxxMEIyR0NkbDBaNGliZXNuSjhhVnk4UE9ZS0pXUnVCMDRXcEpRQWxOZTlyY0JRb2dQekd6RnhmaVdoMHM1Slg1SlBqeWlCUzlGSThhcTZfb19YeWc4dGxQTUZRNHc?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "SC says menstrual health fundamental right under Article 21; directs states to provide free biodegradable sanitary pads in schools | Akashvani News",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelMzaVltd0d4SGNlck5zekhTek94V0pFRUJ5SzJwTUdhZXBLRXlZcjRpRHM2T2JpTzBtSGpYVmZFVXRFYnlIRHhvb2Q2TElqZVc3dXJuaDNuUVVUd0IwUm85MlA5YVhmbXlDZF94cEJfM1g0aERPODNNSHpjOXZtMDJnUFBvVkhTanp2WWdmZllqc3FmQWZXU21WOHBzVV96Sm5lempwXzlLNWliYXc?oc=5",
-      "published": "Sat, 23 May 2026 12:15:05 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "How secure is your period-tracking app?: Some share more data than you think; here's what you should & shou...",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGpBMTJ3dDBSc2VoYVBsS2hobmlIeUp3QXlqLXpKcjJjSmN3TVF4ZkowQlpjNFhZVFUtUVNBTHcwcVJOdzRjU0NRVG00eUt1UVdPMzVMbllST0VaaXVqcHgzdWYzMFBuZjRFM0sxdGw3aVI2Y1NmNzdJSVhmdjVRZEEzckJZWFF1NUotMEc4VG1aSnJDOGpVY1duRTRuVG1mQTVHX00yZ1p1Yk14UVVLUVBVMVdiREHSAbwBQVVfeXFMTUhGNFI4eGdVa0w1UmJrUWRSRG5wTWp5TkF2MUFvZ055S2FYcXppdnQ0MUQtQ0lKa1U0T1Nrd0JRQklwTHcyOENjeWttWG8zX3FEcU1WWWNEcHk2RTQybDlneVBPYld2NHNyajEybWZLZ0hBNUxvZnB5al9MQmtXa2hCRnRUSFNxbnY0bU45WURXbUFhazZkQmUtYXY2WmZQcUE3SHNkYThhLWxUX2RWWFo5c0k4aGlrVURWNXA?oc=5",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -155,26 +115,42 @@
     },
     {
       "type": "news",
-      "title": "LSHTM review shows how climate change impacts menstrual health and hygiene",
+      "title": "Population-scale reconstruction of menopause dynamics reveals a physiological cliff at the final menstrual period",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1ExNHBKY1dRSGhHQ3dPWVZybnVfWGdjNC02NktkZy1PYVNlQ1NNdDVZdWVwZWMtd091ekJkb1VCUGFrUG0yRVIwYV9JMlJ6WlZjREdYMFZHSXVOVmlGQlpKTlR1X0dTamZzTlRPNGZDNWUxREN6MURZRmRwNDRTRl9IcVF4c1hkcnF5NkE0UzF1aG5YV2hCQmpjUTZ5R1d0T0tiMGVIblVQZGNKbTZXclA0dzcyNXZ3WnR3?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pWUN2T2R5RjhVRzR1QUZmbGI2Y0ZmbG9SRjFBVGY4QmZXTGdhTkp1cl9OVlZRNVd2NEF6VXIxREZoc2lYX3NhZ1hwMEFHVl9HYnczVFpHd3RIdmlEZFYw?oc=5",
+      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
       "type": "news",
-      "title": "Judge 'Put Off' By Atty Fee Bid In $59.5M Menstrual App Deal",
+      "title": "Ujaas and FICCI YFLO strive to make menstrual health conversations open and crosses 13,000 reach",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZTZfRS16V181RHZhTl96Q1E3ekl2QUpQUERXQnlfZmJPZDlqTkRKTUJWVWhsbEgybWpJamlrbnJEXzRyVlNVazd6RmtpOEFSOXBGMWNlVks2czRsSEFhbjlrQzkyelNPNm9pblZ5NFlvbTQzUUhjUjRrQWJyaTNlNGZzVnl5R1BBMTl3WXpfMl83UjlYajExaWVyV0RwTnB1NW81bnpaeTcwczB2Rzg5OTdLcUdyYjI2MkFqQkVGZVlobkpRM0RNNTBvLVlSYTBPWGtSQTQ2RzVZWENR0gFyQVVfeXFMT1lmcGVtVzF0bnNnQm1QUHFUdThqeEZ6cmhaVzY5ZjlSRmh6Tl9FOVFrX21MdFhXWmhmLTRvbnoyMmk5c0lwdkNqQVU4NXN3ZTZibWI4OFByUEhnMFdGbDRsZ0pfYUMzWmVyS3NubjE3VFNR?oc=5",
-      "published": "Fri, 30 Oct 2026 02:35:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQblRjRi05S1ZKdmdNa2tkOXlXQnNhQ1JmbmRwZ3BTekxTYmg2dXgyT1QtS3NSUkNqZWRQbk0wNmo4dzFrNkpFaGxNSnZQWWJQRXJwdXVQRGdzVl9Pd0NTU24wa1JJWTdaWVBfTTRHRndGZEtWd3NjaGdMNEVSVG83ZEpORlZZOTMzQ2Y5Qy16UFpMaW9mT1B0UVQ0QWxXdVVxZklTOUNWam1mUU5ONHVDMTE2dGFDSkNkMFgtY0lsdzNtTUZWSzZJWHBZTFZRU2dwWU5vTWlRWDFvb3o4dmtod29nWlZsbWdFS0xtNTBCU2JOTm83a3fSAfYBQVVfeXFMUG5UY0YtOUtWSnZnTWtrZDl5V0JzYUNSZm5kcGdwU3pMU2JoNnV4Mk9ULUtzUlJDamVkUG5NMDZqOHcxazZKRWhsTUp2UFliUEVycHV1UERnc1ZfT3dDU1NuMGtSSVk3WllQX000R0Z3RmRLVndzY2hnTDRFUlRvN2RKTkZWWTkzM0NmOUMtelBaTGlvZk9QdFFUNEFsV3VVcWZJUzlDVmptZlFOTjR1QzExNnRhQ0pDZDBYLWNJbHczbU1GVks2SVhwWUxWUVNncFlOb01pUVgxb296OHZraHdvZ1pWbG1nRUtMbTUwQlNiTk5vN2t3?oc=5",
+      "published": "Fri, 30 Oct 2026 12:02:42 GMT",
       "label": "News & research"
     },
     {
       "type": "news",
-      "title": "Are Period-Tracking Apps Bad—and Should You Delete Yours?",
+      "title": "WaterAid urges Nigeria to implement menstrual health policy",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNnVSUGxaZTZwQVd4am10Ulp5RC01bWdUdm1GRnk2Um5BWlQxRG05bXdVN1FmaGJaWld3SXBUbFlNaVR1bzVBWEJ0cnZDTmZzMjVMNGd0V0RucFpsVFBGWkNrNUZVQTFUcnBJVFVRaUNsNEU?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVjRrUEtNSGFNY2xTcjJpazZwRnoyTDJtUlhPWHJVNlhGMGJXbUY3RXN2VWlTZ1RPUU5nZ3pJbzJiaXJ0emdjQU5Fd0JfT2otbmd3a0M5Q3NBSUNiMnVrZTc1RnZNOGZBTUtTc2s2SDFkSHplU3pqMDVBYkg0ZTdEdHJCNllOLVYyOF9N?oc=5",
+      "published": "Fri, 30 Oct 2026 11:48:09 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Working late, sleeping poorly and constantly worrying? Doctors explain how chronic stress can affect fertility",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU1hUbGJLRHZhVUUzXzVlMmVBTDcxdDY5b3NwU01qTTh3aDFkcktKQVpFV2R4d0YwWWxWVG1YaW9qZ2hPMDNmaFNRSXp3dlBtMjlJSFQ0UEltQUF1SHlXaC1YOXEzTk9ma3F4c21pM20yRlBTazZfNGxLQjdPX3dxR2pZVHUtcDlkSE96dEhQbnRBV0t4VEtLTjFrdXRlQVVxSHEzRWxlYks0SHBWcU1IeGpvb2EwYTJPTV9XdmtWZEp0bXhfNWNDQzR2b3J3TXhiU0RjQkdHdUhxeW5kMFFlcDBfRkxxLV96dURmWHcwMzNoazhaNTh2d21jVTJ4NDAtN3FJU2xHemE?oc=5",
+      "published": "Fri, 30 Oct 2026 07:30:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Schoolgirls Build AI Tools for Menstrual Health, Safety, Flood Alerts as AfroTechxcel Pushes Child-Safe AI Policy to FG",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1pQajlzWWF1clFQRlVpcFliLVdYc0RFWTRiakRMYzVZVkRZS0RtNFMyVXdKR1lKNEpwVkRvS1ROVkotNnBqVG1kSURuVEtyRXFyMk1NWHpSTzdQdlhNRERGQ1VVWTFOYkRhVHA1RG1fNlhEQm9oc2Y3QVQ2ZUlGSkhQUG5yY3p5MC1qWmtpUkExdFJsLWFxRUJOU002ZTU4LUtTTmdCWkg0WHBtWUM3OG1aS2ZLRGNQU1RJQmRJMGNDbVNYNXJrVjNFQVFNU0NTVVFObkRfclcxMG1rVnl5TXhXbTE4QURKWFdlVjVn?oc=5",
+      "published": "Fri, 30 Oct 2026 03:49:17 GMT",
       "label": "News & research"
     }
   ]
