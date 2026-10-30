@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:47:53.551053+00:00",
+  "updated": "2026-10-30T05:54:10.232469+00:00",
   "items": [
     {
       "type": "news",
@@ -23,14 +23,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5pMmN5SUFablhmTVJsUHVJN2tnN284NHNpY3pOazZQV0pRVVQ0Z2hsSEo0MmlDQjI5b3ZSbEozaHR3TTBsY3Ewemx3UEhOZVdYYkFnQmljYnpoMHYyUGhZMjF6N2hpMWp2YzUwUHFSeVRpN2dMeERSYk9jOHl6eFVHc1hySng3U2k5YmNtRUZldXZmTC1RM21FNmpOcGI5Z3NFNTdtelV2NFIyd2p1dmdFOA?oc=5",
       "published": "Wed, 18 Feb 2026 06:36:12 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Menstrual tracking apps and concerns about data privacy",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXh3Zm15MEp5LS1QWU9ycXJwMHZGUU1nYUFaUGtNT1lhbkhGTmhScHBFLThxdXMtWG5DbHgzWjBxN3BYek9WZHQ3N1FJUEdkdGdNTVJ0MTJzM0h6Z2NGMVBxaHlaQ19KckU4R2JsOG9OSUM4ODB4dVNfS0ZyRTRhalBVMmNfVHc4dm44?oc=5",
-      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -59,10 +51,18 @@
     },
     {
       "type": "news",
-      "title": "Dutch privacy agency warns of risks in period-tracking apps",
+      "title": "Knowledge, economic, and WASH challenges affecting menstrual health and hygiene among nursing students in Bangladesh using a mixed-methods approach",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3ppRjVWQ2F1cE5ZdDdvMy1ubUwxTk52VkI5cEFtVWptQ1YyajZTRUpwekdNMi0wME8yRFhFWVc1ZUJKUGstNm9hM2VsaDhCT0t5eDBGMmM1a21Rc0l5Yk9kLVRPd1ptUlZwa0R3NnZmQzI5VnFJLVZOaGZqcllWODBabmhvWlh6WGxF?oc=5",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SzhaVnBHNVZWY1hyY05wLVo5dGF3QnhadDRBYnNWVTdJWU9XU0M3ejZyQ2Ezb2xVSjNsUklJa251T2I2dmxuV0dONml3aDlzNlR0WWF1VnEwalZCOEN3?oc=5",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Slamming 'astronomical' attorney fees, judge likely to OK $56 million menstrual app privacy deal",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWJsNkZFbEdGLWo0R2FYbERpVHVwTXVqQ1pEdEZVX3hZdUIyN1p5WEp3LVk4VHc4Z1RxTHdsd0YyeXR3VG4xTUppVTlVTXNVV01tRzdRRWNOVE0xTER1R0htUkY0dHAtbmNFUGk3VV9ieURZVHIzaGxoZEdndzNXbHB2UE5MSy1HdzNYdU5TZnA4d1FZNmdBYmUxa3ZBd1RRNWZZNEtNYmRvdk9Kbm9VdW9ucU1ZeTdHT1pJbTQ1eEE?oc=5",
+      "published": "Thu, 29 Oct 2026 22:20:28 GMT",
       "label": "News & research"
     },
     {
@@ -70,6 +70,14 @@
       "title": "Judge Urges Faster Pace in Meta’s Menstrual Health Privacy Case",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1k4LUVfZ0ttTm1HV1B0OVNGQmlVZmFXckdDUEstd0pOQUN6Q3A0QnpUaDRVdXBvaWU3TmZlRUNpTmNWUUkxaDV3QnU5MjFCcU02bHNXbW16cFJ5M25sR2dUZFRoUWdxdnhuOC15UFlPZWIwd3ZMUFdMekgweXl3MHZDVUVlcTB2MUpxQi1kc0VEbGFLazRzVEw3V3NYLVY4?oc=5",
+      "published": "Thu, 29 Oct 2026 21:37:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Judge Urges Faster Pace in Meta’s Menstrual Health Privacy Case",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2RScDQ3b2lFYVg3TDdpczdYeXY1SG5HUkZtcHlkWXhWd2FIMUpTaDZTal9HWHZZS1dYbWRMSVcwYWgzYnVUaFF2WnoxTDlCTUhGNHNxZl9ldkFIUnhMeFh0QTNVQ0UwNEExQmh4RW85YnlQQ2htMTZpWUljcjN0MG5RMWNZM2Q3MHdwRzBrZl80VzYwVG80bXFCeHl6cHY5OERRcWhibThWTFZhR0JBOW5aUnVnX3BN?oc=5",
       "published": "Thu, 29 Oct 2026 21:37:00 GMT",
       "label": "News & research"
     },
@@ -83,26 +91,10 @@
     },
     {
       "type": "news",
-      "title": "Student organizations collaborate to educate campus community on period poverty",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXQxNWNyRm5sVHFSdFJBcnotMFk4OVJtd25WZkpYejBHTG1LZl9BcTVGTk9SazNaalJUYUYweC1GR2lZWHZrd0xSY3lBVXdEMXVSRXktRmx6NkpOUzZfcXRkWG9ZYVdzdFBZUDRHTkhPbGtqYkdOcVJ3RVppYnFseW5FZDBHRC14SE9yWnRWWUxxRUkxb0g3d2NFVzJlZ21mekdOeEdiQ1JUN1NYOW11TFRrNFJyakZSRV9kNA?oc=5",
-      "published": "Thu, 29 Oct 2026 13:45:51 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "A Sample Grant Proposal on “Keeping Adolescent Girls in School through Menstrual Health Support”",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbElRWjBBRDdsNUdOalBabG45ZFRSTDBpTTlvUHRxbjhhUGp4VlRiQmVZRjJsTkN6TDhTWjZSY1BwU19MN2dlX1BmNmltRWNXaUhUWFNHT2hNWENwdFZRa3ltZWViT29yTEJJU05pczBQSkFIV1FNbE1mVkZ0S1NxNEtRbUpaenYySmdsbE1IVUtoVHhKU2tuSWloWF9MV2lNUkJDbko5ai02WkhOM0VveXRicUhHRVNNX2piX2NaN2xqWTMzamZocnVqbUhPQW5FQkFJMg?oc=5",
       "published": "Thu, 29 Oct 2026 04:07:35 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Bonn Dialogue: breaking the cycle – putting menstrual hygiene at the centre of environment and health",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjRmRWthZkpMNUt6cXBGNmZaaVVGYjdQUlZfTHNFWGo2NlF4bEhMOThtWnlaVkRERTZ5VmxYSFkxb1V4b0FZc0NqdEw0UjNOSXVrOC1pYVRRdUlGaEVNZHJtX1pRUFhWaHFnalprczVlXzdvempyTEZRMWhodXVfT2tUX05ZMkM0R1E4a29MNTRnMmpkTFpnN2RfMi14RDNMbE5ldGpSWGZyTFE0aV92U0NLbzdFWXhJblJxbjd1QWp4VDhiUFJoaG9JSGdhQ0xPY05TTy1WWGt0VmxOdjlsYnhRUDNpdnoycElNYU1MTmZRZkJkRVlqd1ZGRDF0Rjg3bEx1UklkT1RQZw?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -163,10 +155,18 @@
     },
     {
       "type": "news",
-      "title": "Population-scale reconstruction of menopause dynamics reveals a physiological cliff at the final menstrual period",
+      "title": "LSHTM review shows how climate change impacts menstrual health and hygiene",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pWUN2T2R5RjhVRzR1QUZmbGI2Y0ZmbG9SRjFBVGY4QmZXTGdhTkp1cl9OVlZRNVd2NEF6VXIxREZoc2lYX3NhZ1hwMEFHVl9HYnczVFpHd3RIdmlEZFYw?oc=5",
-      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1ExNHBKY1dRSGhHQ3dPWVZybnVfWGdjNC02NktkZy1PYVNlQ1NNdDVZdWVwZWMtd091ekJkb1VCUGFrUG0yRVIwYV9JMlJ6WlZjREdYMFZHSXVOVmlGQlpKTlR1X0dTamZzTlRPNGZDNWUxREN6MURZRmRwNDRTRl9IcVF4c1hkcnF5NkE0UzF1aG5YV2hCQmpjUTZ5R1d0T0tiMGVIblVQZGNKbTZXclA0dzcyNXZ3WnR3?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Judge 'Put Off' By Atty Fee Bid In $59.5M Menstrual App Deal",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZTZfRS16V181RHZhTl96Q1E3ekl2QUpQUERXQnlfZmJPZDlqTkRKTUJWVWhsbEgybWpJamlrbnJEXzRyVlNVazd6RmtpOEFSOXBGMWNlVks2czRsSEFhbjlrQzkyelNPNm9pblZ5NFlvbTQzUUhjUjRrQWJyaTNlNGZzVnl5R1BBMTl3WXpfMl83UjlYajExaWVyV0RwTnB1NW81bnpaeTcwczB2Rzg5OTdLcUdyYjI2MkFqQkVGZVlobkpRM0RNNTBvLVlSYTBPWGtSQTQ2RzVZWENR0gFyQVVfeXFMT1lmcGVtVzF0bnNnQm1QUHFUdThqeEZ6cmhaVzY5ZjlSRmh6Tl9FOVFrX21MdFhXWmhmLTRvbnoyMmk5c0lwdkNqQVU4NXN3ZTZibWI4OFByUEhnMFdGbDRsZ0pfYUMzWmVyS3NubjE3VFNR?oc=5",
+      "published": "Fri, 30 Oct 2026 02:35:22 GMT",
       "label": "News & research"
     },
     {
