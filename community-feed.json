@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-18T07:34:54.699758+00:00",
+  "updated": "2026-11-18T20:36:48.577110+00:00",
   "items": [
+    {
+      "type": "news",
+      "title": "One in two women are impacted by adverse menstrual symptoms whilst working",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHFpcmJpVVVTTHdwLUpZMXh6eWF3MXc1ODlsenBnSmFmRW1RYzR6SC1BRUVkc196X2o2d0tyQTBIZzR1QUpBUVhramxaSDVaeWVBNWZ4Q0VtdEpHV2dBVkUwTmJuUkU5N1pyOUFvNm9rWlZLVU40QjU4clBGQ2MzbXZVNUJsQUN4TTYxNGZGWXI5ZmdCY0ZfbndhR1BaUTFXODY0?oc=5",
+      "published": "Wed, 18 Nov 2026 12:36:36 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "A Sample Grant Proposal on “Women’s Health and Dignity: Improving Menstrual Health Education and Access to Product”",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNamZHcDhEVjdfOGkzM0MtRmdEV0VLUE5kX0V4dDhQTGNZcklSUUljRGRvRThWckxCNlRRUnE4SW4zRml3emNqbWJ2M0ZFdGVNX0NTRW9rVVlNYktmX0ZfcFVfcnRZc3hUN0t3ZWtFRGJoUlRfODdOOEZKSXZ4R2NTQUswa0RpckVwMzkyY20tRGc0U0NSMEtqZGJ2TFpNcUpEeW5rbjRTXzUwNnFVVjV5WFBZR1h6X1JfSnNGbWZaTWV4d25fRDZTZ1V5T0RnMlBSa2l0R2tlQ3dDTk1BT3pVV21Ealp5ekYtS0Ew?oc=5",
+      "published": "Wed, 18 Nov 2026 05:26:17 GMT",
+      "label": "News & research"
+    },
     {
       "type": "news",
       "title": "Study: Menstrual Cycle Irregularities Linked to ADHD, Depression, Anxiety in Girls",
@@ -51,14 +67,6 @@
     },
     {
       "type": "news",
-      "title": "Menstrual Health as a Fundamental Right",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYS1SOThHT0FpMmJvUjR3QkhyT29pSkNTaFZTNkt2YVZfaFo0TmZfMFBINnZZWkE3eThqYUhHekVtRU9fNVg1bFRmazY0Mnc5eXpSbmg4dDZ6cHRzOTlUWHdWQm5IbDVpMEYxQWMyYjdNTWRLZE5aZi1SNWozYXgwVVJKaExTOG5FRTVYTGROYWpqbV93SXZxRGZRb1RaVURpRmc?oc=5",
-      "published": "Wed, 04 Feb 2026 08:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "How period trackers share your private details",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTERMc0dOcmJib0hZdy1fNkNjVkRrUUozZGUxZ24yUnVXZ1FLM0ZFZ1lDejFJTXA5Q2dvQ1ZSallDcmlaaDFlQ0pxYTVtMjRacWdaTTk4U3VxVWtkOWtkcUpiblRJQU43akNVeXNnbm5GRFpKUldKNUVzNzM1Uzc0SV93NVJuMTRiUkExcHVtNlRWbE9xc3Rn?oc=5",
@@ -75,34 +83,10 @@
     },
     {
       "type": "news",
-      "title": "New online treatment targeting rumination and worry improves symptoms of PMDD - News-Medical",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2lORHNQN3psOGROUXhuNzJlTmFmcXlKbEhkVG1Ldm1HMmxKc0pUNC0waDlyUU5YUzFmdy1qRHN2S05mc0tEQUkybFhaY3gzWXJKa05SdGluQjh0b3BfVGVqcVJMSEphUDJvRGNRLUpHRzc4dFpodW44R1JNdURHR3ppWHdmZXhOTDk0VWJDQjJTY3RVS29la0Y4RVFndjdfM3A3Rzhud21yRWFjcjh3MDgtUHZzS0JhOXVhcjc5V2ZtZ00?oc=5",
-      "published": "Tue, 17 Nov 2026 11:22:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
       "title": "How Do Hormones Shape Women’s Brain Health?",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlAwV3lMVndwQ3Jad3VCeXFYTHJsTHd4V2hXVDRJbXNjbml5Q3FJWkhyMkFwN0pNS1VjblVlM0dfQzVzZjZnSnhGQ2xyaWdnX0w5bTJtU0FXNUNodUVxTXhXVWJINGxOZDhkTjBHYnM1eWl0ZlczZ0hOUExoUHVjb2NGUjIzZk1hbVpoNWFSSGJkaUppb1E?oc=5",
       "published": "Tue, 17 Nov 2026 05:08:13 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "A small study linked daily strawberries to less period pain. What about other benefits? - News-Medical",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaHZXVnFqYWNiUWZNaTRfeHkwTlVocHRWUzV1ci1VbVUyb3llNFd2Wl9TdGlYU1FjUmlJM1gxYTJEUUpJX2I4RmE4NXpEa2NfSEo4MDk3ZFI5ZU8ta1FZUUFkcWtqTHhGQzFkOFo0bDFGeDJNQ3IxdjFEZFFMckxHZ0t6NjFJaTJVYU4zSGdhaEhIaFl0UTd6eDFKdWh1QlBkU2RUN2x0RjFpaEFHOFNDMWVicEUxNDZua1dZRUlCQWtxbGR4RllJcU1oZXVkZw?oc=5",
-      "published": "Tue, 17 Nov 2026 01:40:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Knowledge, economic, and WASH challenges affecting menstrual health and hygiene among nursing students in Bangladesh using a mixed-methods approach",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SzhaVnBHNVZWY1hyY05wLVo5dGF3QnhadDRBYnNWVTdJWU9XU0M3ejZyQ2Ezb2xVSjNsUklJa251T2I2dmxuV0dONml3aDlzNlR0WWF1VnEwalZCOEN3?oc=5",
-      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -139,6 +123,14 @@
     },
     {
       "type": "news",
+      "title": "A Brief History of Period Taboos",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXNpdzByS2wxaEMtTWg0VjJxdnM5aWFqeE50WUt0T1dPR1UxR2hUTUYzSnRkR2Q0ZENSQ3pob1QtLVN2VVV5RmpWQmxGUF9uVERpT3hyWHFFOUJLRklVYUxJdmplRllVTG9kaXFvWHBkRXUtVU1DTENxMnd5b2N4a0FCVnQ1aW5ZUUVfY0swRldJaFdmVGxnVThMOGt2VlBfcXY1UmxNMzhoX1JkZjJwWHVCeENEYURjc0ZtSTVUYjA1OG5VdDJzdTBRb3ZYWERlRjFnSzlR?oc=5",
+      "published": "Sat, 14 Nov 2026 12:01:57 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Delete These Apps Immediately: Why Your Period Tracker Is a Digital Trap",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT282V1BzbHMyMXpvYm9TREJyRGR1dEVFNi1FaVdZSUxkdGpEVUplOWlkYm1YNHVQVWlkSTZqUXc5MmZYc2NFMmlldldSdFdVOTJ5MDNFa3ZRWVdoRnhCM3I4Q0htZlhSUE1tcUdWek53QkJ3ekR4aWV3SWdMOHFYaXd3NHJKYzFTaFdZMDlERWM4ZGVMN29FM2tycVppU2kwbjdfTHUzbw?oc=5",
@@ -151,14 +143,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd2NyY0NZbXdSWEh1VEJTYWxGMUxRaG9QSjZoYkN2SkMwa0ZSN1dEaG9BVWFfenFWX0F0R1M3dFM2bjN5eWhIdTFsQlUxVy1hTVFETC1KYlFxQXBnTDUxQ1hiczBHM2pkaC1YTXZwTXBBTE5qQlBzTks3MzFRVEVvNkhjRVdtUVRMTk54eEdhWXljM2Q2Mmo1T2lHc2ZaRHhHRG5RckVkdzM0cktTcmR4NHY5RDFqZFJhU0c1bHJDVmVOSGNZQ3N1MzdwMnpsWkViVlHSAdgBQVVfeXFMUFdDME5uRXpCeU1qRXp5djNCajloMU14czJkQUNuWVRPVXhaRVZKUDRlY3Jkem9WekIxcEM0S1RMUE1tTjBFNnJmZEVlMU1EbDFQa1JzRW1oSEFyX21oZ3lzMTB1Qkg1R3BvdG45QmVUSUhUcnVzWWd3bklGaGNzTjlCb1ZEdkxna2dTdXlGZ2NIRW8zTTg0ZFdVSk93OHVqODgtdVc5cmVweGJDSXNJMU44ZzIxdjZmWlBGSVk4Yy1oZmFsUzZDUEtUNWFVcXZ5NGl5SV9CWWhY?oc=5",
       "published": "Mon, 16 Nov 2026 14:45:36 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "LSHTM review shows how climate change impacts menstrual health and hygiene",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1ExNHBKY1dRSGhHQ3dPWVZybnVfWGdjNC02NktkZy1PYVNlQ1NNdDVZdWVwZWMtd091ekJkb1VCUGFrUG0yRVIwYV9JMlJ6WlZjREdYMFZHSXVOVmlGQlpKTlR1X0dTamZzTlRPNGZDNWUxREN6MURZRmRwNDRTRl9IcVF4c1hkcnF5NkE0UzF1aG5YV2hCQmpjUTZ5R1d0T0tiMGVIblVQZGNKbTZXclA0dzcyNXZ3WnR3?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
       "label": "News & research"
     }
   ]
