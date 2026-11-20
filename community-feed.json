@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:22:06.033151+00:00",
+  "updated": "2026-11-20T20:25:58.811887+00:00",
   "items": [
     {
       "type": "news",
@@ -7,6 +7,14 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVgtUjRaREE1TUNiZ25RY005WHRPbWNkaloyeTRpcWtHQzh6RVBjLXY4S2hiX3NRdERHM1gxQVpDQ0ZKQmxra0U5Y3ZlZThVNUZHdWxwLTM0UE9lb2gxSnJwT3p1Ny1kRlpGRzdKZEJEbGVXNkN6V2NHeWRiTGxxeTBRUExTcVY4ejJ1WG5SZUFsZ1IwbFFGMDJuclBiRUFqS1NEcktXdXVEcUswTF9ZYXhVeC1rQQ?oc=5",
       "published": "Wed, 18 Nov 2026 21:32:54 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Study: Menstrual Cycle Irregularities Linked to ADHD, Depression, Anxiety in Girls",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nSnpJektQSnhVRlk1eGFGYjNQNGkxekIwZTJwejJXN210dnZtQ1lzUFh2eUhWMkxXR3RINlNsTmJjaEk3WF96ZXV2YUtZN1lENlBJQWxPYXVTelR5NU9LWWUtUWgyajZ0OV9xZFlJU2lUZw?oc=5",
+      "published": "Wed, 18 Nov 2026 02:40:30 GMT",
       "label": "News & research"
     },
     {
@@ -23,14 +31,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjZUSUVCX04xLXFaX1pxV0s2ZjZOREo5SGVuU0hPV2xHaVNTN1ZySVdhV1JKWmNBRG5DeUVFaEFZblpTRDU1eTZyX3NHZmJnQmJVTkxkdTY5dkR2VF9WMlljN0F3LUZQMUVYQ18wLVhLY3BWTU5GY3pMeTFfc3M4WnNUOVFJSUFCODZkY3lpVC1FR203WkFVOVB2aE9wSHA0Y1VGTHBab0JKQQ?oc=5",
       "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "How private is your period-tracking app? Not very, study reveals | Privacy",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRFR0bHhMN21zZ29RUkFGaEl4b2R0Qzl5UGpLR0kxMTdncnBFUWpWWEdXaG16dEZESFlpZjBMNWRtdDhWZlVuaDFJeW1Fc1NDemVEQkFBS0RtRHNRb3ZvejdjUGFSQVdZQkJuWUNhSlNrUFczRFRaMjI1VzVacTNxMVJnTVhKZkxadnZ5Qg?oc=5",
-      "published": "Wed, 17 Aug 2022 07:00:00 GMT",
       "label": "News & research"
     },
     {
@@ -75,6 +75,14 @@
     },
     {
       "type": "news",
+      "title": "Dutch privacy agency warns of risks in period-tracking apps",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3ppRjVWQ2F1cE5ZdDdvMy1ubUwxTk52VkI5cEFtVWptQ1YyajZTRUpwekdNMi0wME8yRFhFWVc1ZUJKUGstNm9hM2VsaDhCT0t5eDBGMmM1a21Rc0l5Yk9kLVRPd1ptUlZwa0R3NnZmQzI5VnFJLVZOaGZqcllWODBabmhvWlh6WGxF?oc=5",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
       "title": "Voices of Change Help Break the Silence on Menstruation",
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pqLTZrNjVzc2VhSzR4NEU3UV9LQmprZ3V6SENNdmJmVlNocUN2ZHFDeEd6b3JsYmF6ZUZ6VzBoR3hnaENyVkNDbzZ5YXhvaTc1V1BNWVF2WjBQZ2pVWFRrdk5zRFBxSDhRZmtqTDFRQ0ZtQXc4R1YxYU9zQlhwTk91SlIwbTRrRHc?oc=5",
@@ -95,22 +103,6 @@
       "source": "News · public RSS",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0tISk9pU3N1bmlGTDIzZzVDeEowNGhsUzNBMnR1VGRSdFMwZ29VUFh6OGVMSEFXSWFxOHBFZm1KS2lORktyODdMRnNfZGhXY0ptWFEzeFVKWVNUVDh1VU43MA?oc=5",
       "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "Women’s Health Is More Than a List of Symptoms | Opinion",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDVvRm41V0VXam9kcHUzNklMRXBtaUdhSVIwckJMTVBhQWo1VEVvSGJPdkdtVWIwNjh0R1Jmc3F1YmowQ2hKNi0yRmFnV0prMElfaHNmMkFGcmQxcDVuRUdsQWl3ZGJhb2VqUFM1ZEVIcXgyVFlaOXR2U2tDaGZSM1p4TnMwdw?oc=5",
-      "published": "Thu, 19 Nov 2026 12:46:00 GMT",
-      "label": "News & research"
-    },
-    {
-      "type": "news",
-      "title": "The climate crisis has a period problem",
-      "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVUFk1cUVFNGc3SWItbnpxVl9FVjBrSVNuSzQtU2xSeV9SdmRJbk9vd2drSUdMQjlZaXhES2RoYks1NkExSHJackZ0Ulh6SzZXcVV2VE41R2NlNko4dmFIemdZWXFBZUdya0VEb2lpdE9tbG9lc0FoQjhBVQ?oc=5",
-      "published": "Thu, 19 Nov 2026 11:47:04 GMT",
       "label": "News & research"
     },
     {
@@ -147,10 +139,18 @@
     },
     {
       "type": "news",
-      "title": "How reusable sanitary pads are transforming lives in rural India",
+      "title": "For Years, Doctors Blamed My Mysterious Symptoms on Running. A Simple Blood Test Proved That They Were Wrong.",
       "source": "News · public RSS",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU5zOUktUWJLZkV3RDd0aXZkNlNIa2NGeGk5V2czQy1mRUs2c1Y3VFJ5NWNaR1c0d2twZWxidjlnd1ZpUHVTMDkwbGxaZmE3cUtQVU94eFJ0YnZMTU40VThUQW5BTXFLRGh6U0JocFFWVmUwQWdiWl9sN2lzUGFTN3Fpbm5uUTJHNEFIcmltZzNWam15ekVNWGktTTRVaXhMRW5wd0FJUHN1Zk1aVlNUWnVmcDRhcC1WYUtqdW9HTl82dGJi?oc=5",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFdyYzY2Mm5fM194LTFVQlBMVF93ZExpbHBaV1hHZElFWkZaWXQ2UHdBQ2IycGlta0c4aXk4X1p6amk1RkYyYnJkeWlIOU5aMUlvN2xmV1BJdHQ0dGRjUWlhaU1hOTczcjZhSmVtTVRkR3k4bklQS1l1UEYzRms1eHZ4blE?oc=5",
+      "published": "Fri, 20 Nov 2026 16:36:00 GMT",
+      "label": "News & research"
+    },
+    {
+      "type": "news",
+      "title": "Resource launched to help dads talk about periods with their children",
+      "source": "News · public RSS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2hHQ2lkb3hUS0xRVFFJM2lrNURrV2I1cDlpaG1lMkxhRXhLSzRibWhFMkFvSVpZX0l1NnlZUmgya1dhSVoxNFhKQjhnZ2FieVRWeFpTdlk3R1RSQ2lBNUFkTjNuaUVhOGF0RnYyYlczV0JPMUZVekxoRDV2MUJBYTc5N1J1b1I1T3JwNFBhWDFfSzFMTGpSTEU0YlRiR2NWTnVUVXZQcXVCWmpOTzJ2WHVxanZVZDFKUHRn?oc=5",
+      "published": "Fri, 20 Nov 2026 01:24:05 GMT",
       "label": "News & research"
     }
   ]
